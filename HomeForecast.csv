@@ -1,0 +1,3497 @@
+Region,RegionName,StateName,CountyName,CityName,ForecastedDate,ForecastYoYPctChange
+Country,United States,,,,8/31/2022,11.7
+Msa,"Akron, OH",OH,,,8/31/2022,10.4
+Msa,"Albany, NY",NY,,,8/31/2022,10.1
+Msa,"Albuquerque, NM",NM,,,8/31/2022,14
+Msa,"Allentown, PA",PA,,,8/31/2022,13.4
+Msa,"Atlanta, GA",GA,,,8/31/2022,16.8
+Msa,"Augusta, GA",GA,,,8/31/2022,11.6
+Msa,"Austin, TX",TX,,,8/31/2022,21.5
+Msa,"Bakersfield, CA",CA,,,8/31/2022,16.5
+Msa,"Baltimore, MD",MD,,,8/31/2022,8.2
+Msa,"Baton Rouge, LA",LA,,,8/31/2022,6.2
+Msa,"Birmingham, AL",AL,,,8/31/2022,10.9
+Msa,"Boise City, ID",ID,,,8/31/2022,21.9
+Msa,"Boston, MA",MA,,,8/31/2022,9.4
+Msa,"Buffalo, NY",NY,,,8/31/2022,12.6
+Msa,"Charleston, SC",SC,,,8/31/2022,15.9
+Msa,"Charlotte, NC",NC,,,8/31/2022,16.6
+Msa,"Chicago, IL",IL,,,8/31/2022,8.9
+Msa,"Cincinnati, OH",OH,,,8/31/2022,12.3
+Msa,"Cleveland, OH",OH,,,8/31/2022,12.1
+Msa,"Colorado Springs, CO",CO,,,8/31/2022,15.8
+Msa,"Columbia, SC",SC,,,8/31/2022,11.9
+Msa,"Columbus, OH",OH,,,8/31/2022,11.5
+Msa,"Dallas-Fort Worth, TX",TX,,,8/31/2022,18.6
+Msa,"Dayton, OH",OH,,,8/31/2022,12.8
+Msa,"Daytona Beach, FL",FL,,,8/31/2022,20
+Msa,"Denver, CO",CO,,,8/31/2022,17.8
+Msa,"Des Moines, IA",IA,,,8/31/2022,7.7
+Msa,"Detroit, MI",MI,,,8/31/2022,11.2
+Msa,"El Paso, TX",TX,,,8/31/2022,17.6
+Msa,"Fort Collins, CO",CO,,,8/31/2022,11.1
+Msa,"Fort Myers, FL",FL,,,8/31/2022,69.2
+Msa,"Fresno, CA",CA,,,8/31/2022,15
+Msa,"Grand Rapids, MI",MI,,,8/31/2022,11.3
+Msa,"Greensboro, NC",NC,,,8/31/2022,21.1
+Msa,"Greenville, SC",SC,,,8/31/2022,10.4
+Msa,"Harrisburg, PA",PA,,,8/31/2022,9.7
+Msa,"Hartford, CT",CT,,,8/31/2022,13.2
+Msa,"Houston, TX",TX,,,8/31/2022,12.3
+Msa,"Indianapolis, IN",IN,,,8/31/2022,12.2
+Msa,"Jackson, MS",MS,,,8/31/2022,10.8
+Msa,"Jacksonville, FL",FL,,,8/31/2022,18.7
+Msa,"Kansas City, MO",MO,,,8/31/2022,10.7
+Msa,"Knoxville, TN",TN,,,8/31/2022,16.4
+Msa,"Lakeland, FL",FL,,,8/31/2022,16.7
+Msa,"Las Vegas, NV",NV,,,8/31/2022,14.3
+Msa,"Little Rock, AR",AR,,,8/31/2022,8.1
+Msa,"Los Angeles-Long Beach-Anaheim, CA",CA,,,8/31/2022,11.6
+Msa,"Louisville-Jefferson County, KY",KY,,,8/31/2022,9.4
+Msa,"Madison, WI",WI,,,8/31/2022,9.6
+Msa,"McAllen, TX",TX,,,8/31/2022,10.7
+Msa,"Memphis, TN",TN,,,8/31/2022,12.1
+Msa,"Miami-Fort Lauderdale, FL",FL,,,8/31/2022,14.5
+Msa,"Milwaukee, WI",WI,,,8/31/2022,9.5
+Msa,"Minneapolis-St Paul, MN",MN,,,8/31/2022,9
+Msa,"Nashville, TN",TN,,,8/31/2022,16.3
+Msa,"New Haven, CT",CT,,,8/31/2022,13.9
+Msa,"New Orleans, LA",LA,,,8/31/2022,9.5
+Msa,"New York, NY",NY,,,8/31/2022,8.3
+Msa,"North Port-Sarasota-Bradenton, FL",FL,,,8/31/2022,41.1
+Msa,"Ogden, UT",UT,,,8/31/2022,16.5
+Msa,"Oklahoma City, OK",OK,,,8/31/2022,10.2
+Msa,"Omaha, NE",NE,,,8/31/2022,10
+Msa,"Orlando, FL",FL,,,8/31/2022,12
+Msa,"Philadelphia, PA",PA,,,8/31/2022,10.9
+Msa,"Phoenix, AZ",AZ,,,8/31/2022,21.7
+Msa,"Pittsburgh, PA",PA,,,8/31/2022,10.6
+Msa,"Portland, OR",OR,,,8/31/2022,13.3
+Msa,"Providence, RI",RI,,,8/31/2022,14.6
+Msa,"Provo, UT",UT,,,8/31/2022,17.9
+Msa,"Raleigh, NC",NC,,,8/31/2022,34.2
+Msa,"Richmond, VA",VA,,,8/31/2022,9.2
+Msa,"Riverside, CA",CA,,,8/31/2022,17.2
+Msa,"Rochester, NY",NY,,,8/31/2022,10.6
+Msa,"Sacramento, CA",CA,,,8/31/2022,15.4
+Msa,"Salt Lake City, UT",UT,,,8/31/2022,15.7
+Msa,"San Antonio, TX",TX,,,8/31/2022,14.1
+Msa,"San Diego, CA",CA,,,8/31/2022,18.9
+Msa,"San Francisco, CA",CA,,,8/31/2022,7.1
+Msa,"San Jose, CA",CA,,,8/31/2022,5.1
+Msa,"Seattle, WA",WA,,,8/31/2022,11.6
+Msa,"Springfield, MA",MA,,,8/31/2022,11.8
+Msa,"St. Louis, MO",MO,,,8/31/2022,10
+Msa,"Stamford, CT",CT,,,8/31/2022,11.7
+Msa,"Stockton, CA",CA,,,8/31/2022,15.4
+Msa,"Syracuse, NY",NY,,,8/31/2022,9.2
+Msa,"Tampa, FL",FL,,,8/31/2022,23.3
+Msa,"Toledo, OH",OH,,,8/31/2022,11.1
+Msa,"Tucson, AZ",AZ,,,8/31/2022,17.7
+Msa,"Tulsa, OK",OK,,,8/31/2022,10.8
+Msa,"Urban Honolulu, HI",HI,,,8/31/2022,8.7
+Msa,"Ventura, CA",CA,,,8/31/2022,15.6
+Msa,"Virginia Beach, VA",VA,,,8/31/2022,10.1
+Msa,"Washington, DC",DC,,,8/31/2022,8.3
+Msa,"Wichita, KS",KS,,,8/31/2022,10.6
+Msa,"Winston-Salem, NC",NC,,,8/31/2022,32
+Msa,"Worcester, MA",MA,,,8/31/2022,13.7
+Zip,27013,NC,Rowan County,Cleveland,8/31/2022,13.8
+Zip,27054,NC,Rowan County,Woodleaf,8/31/2022,11.9
+Zip,27502,NC,Wake County,Apex,8/31/2022,33.4
+Zip,27504,NC,Johnston County,Benson,8/31/2022,29.3
+Zip,27508,NC,Franklin County,Bunn,8/31/2022,29.5
+Zip,27511,NC,Wake County,Cary,8/31/2022,33.7
+Zip,27513,NC,Wake County,Cary,8/31/2022,33.7
+Zip,27518,NC,Wake County,Cary,8/31/2022,33.7
+Zip,27519,NC,Wake County,Cary,8/31/2022,32.4
+Zip,27520,NC,Johnston County,Clayton,8/31/2022,30.2
+Zip,27523,NC,Wake County,Apex,8/31/2022,33.1
+Zip,27524,NC,Johnston County,Four Oaks,8/31/2022,28.5
+Zip,27525,NC,Franklin County,Franklinton,8/31/2022,31.4
+Zip,27526,NC,Wake County,Fuquay Varina,8/31/2022,33.2
+Zip,27527,NC,Johnston County,Clayton,8/31/2022,30.2
+Zip,27529,NC,Wake County,Garner,8/31/2022,33.6
+Zip,27539,NC,Wake County,Apex,8/31/2022,33.4
+Zip,27540,NC,Wake County,Holly Springs,8/31/2022,34
+Zip,27542,NC,Johnston County,Kenly,8/31/2022,29.3
+Zip,27545,NC,Wake County,Knightdale,8/31/2022,34.7
+Zip,27549,NC,Franklin County,Louisburg,8/31/2022,29
+Zip,27555,NC,Johnston County,Micro,8/31/2022,32
+Zip,27560,NC,Wake County,Morrisville,8/31/2022,33.4
+Zip,27562,NC,Wake County,New Hill,8/31/2022,32.7
+Zip,27568,NC,Johnston County,Pine Level,8/31/2022,31.1
+Zip,27569,NC,Johnston County,Princeton,8/31/2022,28.1
+Zip,27571,NC,Wake County,Rolesville,8/31/2022,33.2
+Zip,27576,NC,Johnston County,Selma,8/31/2022,31.3
+Zip,27577,NC,Johnston County,Smithfield,8/31/2022,30.2
+Zip,27587,NC,Wake County,Wake Forest,8/31/2022,33.4
+Zip,27591,NC,Wake County,Wendell,8/31/2022,34.5
+Zip,27592,NC,Wake County,Willow Spring,8/31/2022,32.9
+Zip,27596,NC,Franklin County,Youngsville,8/31/2022,30.3
+Zip,27597,NC,Wake County,Zebulon,8/31/2022,33.1
+Zip,27601,NC,Wake County,Raleigh,8/31/2022,31.4
+Zip,27603,NC,Wake County,Raleigh,8/31/2022,33.8
+Zip,27604,NC,Wake County,Raleigh,8/31/2022,35.3
+Zip,27605,NC,Wake County,Raleigh,8/31/2022,29.5
+Zip,27606,NC,Wake County,Raleigh,8/31/2022,33
+Zip,27607,NC,Wake County,Raleigh,8/31/2022,32.5
+Zip,27608,NC,Wake County,Raleigh,8/31/2022,31.6
+Zip,27609,NC,Wake County,Raleigh,8/31/2022,33
+Zip,27610,NC,Wake County,Raleigh,8/31/2022,36.5
+Zip,27612,NC,Wake County,Raleigh,8/31/2022,32.2
+Zip,27613,NC,Wake County,Raleigh,8/31/2022,32.6
+Zip,27614,NC,Wake County,Raleigh,8/31/2022,32.7
+Zip,27615,NC,Wake County,Raleigh,8/31/2022,32.9
+Zip,27616,NC,Wake County,Raleigh,8/31/2022,34.8
+Zip,27617,NC,Wake County,Raleigh,8/31/2022,31.4
+Zip,27816,NC,Nash County,Castalia,8/31/2022,26.2
+Zip,28006,NC,Gaston County,Alexis,8/31/2022,14.6
+Zip,28012,NC,Gaston County,Belmont,8/31/2022,15
+Zip,28016,NC,Gaston County,Bessemer City,8/31/2022,16
+Zip,28021,NC,Gaston County,Cherryville,8/31/2022,15.4
+Zip,28023,NC,Rowan County,China Grove,8/31/2022,15.5
+Zip,28025,NC,Cabarrus County,Concord,8/31/2022,16
+Zip,28027,NC,Cabarrus County,Concord,8/31/2022,15.7
+Zip,28031,NC,Mecklenburg County,Cornelius,8/31/2022,15.2
+Zip,28032,NC,Gaston County,Cramerton,8/31/2022,14.8
+Zip,28033,NC,Lincoln County,Crouse,8/31/2022,15.4
+Zip,28034,NC,Gaston County,Dallas,8/31/2022,16.6
+Zip,28036,NC,Mecklenburg County,Davidson,8/31/2022,14.6
+Zip,28037,NC,Lincoln County,Denver,8/31/2022,13.5
+Zip,28039,NC,Rowan County,East Spencer,8/31/2022,26.7
+Zip,28041,NC,Rowan County,Faith,8/31/2022,14.8
+Zip,28052,NC,Gaston County,Gastonia,8/31/2022,17.6
+Zip,28054,NC,Gaston County,Gastonia,8/31/2022,16.5
+Zip,28056,NC,Gaston County,Gastonia,8/31/2022,15.6
+Zip,28071,NC,Rowan County,Gold Hill,8/31/2022,13.6
+Zip,28075,NC,Cabarrus County,Harrisburg,8/31/2022,15.1
+Zip,28077,NC,Gaston County,High Shoals,8/31/2022,16.6
+Zip,28078,NC,Mecklenburg County,Huntersville,8/31/2022,14.9
+Zip,28079,NC,Union County,Indian Trail,8/31/2022,15.2
+Zip,28080,NC,Lincoln County,Iron Station,8/31/2022,14.3
+Zip,28081,NC,Cabarrus County,Kannapolis,8/31/2022,17.2
+Zip,28083,NC,Cabarrus County,Kannapolis,8/31/2022,17.4
+Zip,28088,NC,Rowan County,Landis,8/31/2022,16.4
+Zip,28092,NC,Lincoln County,Lincolnton,8/31/2022,15.2
+Zip,28098,NC,Gaston County,Lowell,8/31/2022,15.8
+Zip,28101,NC,Gaston County,Mc Adenville,8/31/2022,14.7
+Zip,28103,NC,Union County,Marshville,8/31/2022,15.2
+Zip,28104,NC,Union County,Stallings,8/31/2022,14.3
+Zip,28105,NC,Mecklenburg County,Matthews,8/31/2022,15.4
+Zip,28107,NC,Cabarrus County,Midland,8/31/2022,15.9
+Zip,28110,NC,Union County,Monroe,8/31/2022,15.2
+Zip,28112,NC,Union County,Monroe,8/31/2022,15.6
+Zip,28115,NC,Iredell County,Mooresville,8/31/2022,15
+Zip,28117,NC,Iredell County,Mooresville,8/31/2022,14.9
+Zip,28120,NC,Gaston County,Mount Holly,8/31/2022,14.9
+Zip,28124,NC,Cabarrus County,Mount Pleasant,8/31/2022,14.7
+Zip,28125,NC,Rowan County,Mount Ulla,8/31/2022,15.2
+Zip,28134,NC,Mecklenburg County,Pineville,8/31/2022,15.6
+Zip,28138,NC,Rowan County,Rockwell,8/31/2022,15.8
+Zip,28144,NC,Rowan County,Salisbury,8/31/2022,15
+Zip,28146,NC,Rowan County,Salisbury,8/31/2022,15.4
+Zip,28147,NC,Rowan County,Salisbury,8/31/2022,14.7
+Zip,28159,NC,Rowan County,Spencer,8/31/2022,15.9
+Zip,28164,NC,Gaston County,Stanley,8/31/2022,14.6
+Zip,28166,NC,Iredell County,Troutman,8/31/2022,14.9
+Zip,28168,NC,Lincoln County,Vale,8/31/2022,14.8
+Zip,28173,NC,Union County,Waxhaw,8/31/2022,14.3
+Zip,28174,NC,Union County,Wingate,8/31/2022,16.7
+Zip,28202,NC,Mecklenburg County,Charlotte,8/31/2022,11.6
+Zip,28203,NC,Mecklenburg County,Charlotte,8/31/2022,13.6
+Zip,28204,NC,Mecklenburg County,Charlotte,8/31/2022,13.3
+Zip,28205,NC,Mecklenburg County,Charlotte,8/31/2022,15.8
+Zip,28206,NC,Mecklenburg County,Charlotte,8/31/2022,19.1
+Zip,28207,NC,Mecklenburg County,Charlotte,8/31/2022,13.4
+Zip,28208,NC,Mecklenburg County,Charlotte,8/31/2022,18.7
+Zip,28209,NC,Mecklenburg County,Charlotte,8/31/2022,14.5
+Zip,28210,NC,Mecklenburg County,Charlotte,8/31/2022,14.3
+Zip,28211,NC,Mecklenburg County,Charlotte,8/31/2022,14.6
+Zip,28212,NC,Mecklenburg County,Charlotte,8/31/2022,18.3
+Zip,28213,NC,Mecklenburg County,Charlotte,8/31/2022,17.1
+Zip,28214,NC,Mecklenburg County,Charlotte,8/31/2022,17.5
+Zip,28215,NC,Mecklenburg County,Charlotte,8/31/2022,17.4
+Zip,28216,NC,Mecklenburg County,Charlotte,8/31/2022,17.5
+Zip,28217,NC,Mecklenburg County,Charlotte,8/31/2022,19
+Zip,28226,NC,Mecklenburg County,Charlotte,8/31/2022,14.5
+Zip,28227,NC,Mecklenburg County,Mint Hill,8/31/2022,16.9
+Zip,28262,NC,Mecklenburg County,Charlotte,8/31/2022,17.1
+Zip,28269,NC,Mecklenburg County,Charlotte,8/31/2022,16.8
+Zip,28270,NC,Mecklenburg County,Charlotte,8/31/2022,14.8
+Zip,28273,NC,Mecklenburg County,Charlotte,8/31/2022,16.1
+Zip,28277,NC,Mecklenburg County,Charlotte,8/31/2022,14.5
+Zip,28278,NC,Mecklenburg County,Charlotte,8/31/2022,15.4
+Zip,28625,NC,Iredell County,Statesville,8/31/2022,15.5
+Zip,28634,NC,Iredell County,Harmony,8/31/2022,13.3
+Zip,28660,NC,Iredell County,Olin,8/31/2022,15.3
+Zip,28677,NC,Iredell County,Statesville,8/31/2022,16
+Zip,28689,NC,Iredell County,Union Grove,8/31/2022,14.7
+Zip,29014,SC,Chester County,Blackstock,8/31/2022,8.5
+Zip,29055,SC,Chester County,Great Falls,8/31/2022,9.8
+Zip,29058,SC,Lancaster County,Heath Springs,8/31/2022,14.1
+Zip,29067,SC,Lancaster County,Kershaw,8/31/2022,14.2
+Zip,29704,SC,York County,Catawba,8/31/2022,16.2
+Zip,29706,SC,Chester County,Chester,8/31/2022,12.2
+Zip,29707,SC,York County,Fort Mill,8/31/2022,14.1
+Zip,29708,SC,York County,Fort Mill,8/31/2022,15.6
+Zip,29710,SC,York County,Clover,8/31/2022,15.4
+Zip,29712,SC,Chester County,Edgemoor,8/31/2022,9.2
+Zip,29714,SC,Chester County,Fort Lawn,8/31/2022,6
+Zip,29715,SC,York County,Fort Mill,8/31/2022,16.2
+Zip,29717,SC,York County,Hickory Grove,8/31/2022,13.5
+Zip,29720,SC,Lancaster County,Lancaster,8/31/2022,15.6
+Zip,29726,SC,York County,Mc Connells,8/31/2022,18.9
+Zip,29729,SC,Chester County,Richburg,8/31/2022,6.1
+Zip,29730,SC,York County,Rock Hill,8/31/2022,17.7
+Zip,29732,SC,York County,Rock Hill,8/31/2022,16.5
+Zip,29742,SC,York County,Sharon,8/31/2022,17.7
+Zip,29743,SC,York County,Smyrna,8/31/2022,13.5
+Zip,29745,SC,York County,York,8/31/2022,16.5
+Zip,30002,GA,Dekalb County,Avondale Estates,8/31/2022,13.5
+Zip,30004,GA,Fulton County,Milton,8/31/2022,14.7
+Zip,30005,GA,Fulton County,Alpharetta,8/31/2022,14.6
+Zip,30008,GA,Cobb County,Marietta,8/31/2022,17.4
+Zip,30009,GA,Fulton County,Alpharetta,8/31/2022,14.7
+Zip,30011,GA,Barrow County,Auburn,8/31/2022,15.7
+Zip,30012,GA,Rockdale County,Conyers,8/31/2022,18.9
+Zip,30013,GA,Rockdale County,Conyers,8/31/2022,19.1
+Zip,30014,GA,Newton County,Covington,8/31/2022,16.5
+Zip,30016,GA,Newton County,Covington,8/31/2022,16.7
+Zip,30017,GA,Gwinnett County,Grayson,8/31/2022,16.2
+Zip,30019,GA,Gwinnett County,Dacula,8/31/2022,16.5
+Zip,30021,GA,Dekalb County,Clarkston,8/31/2022,16.8
+Zip,30022,GA,Fulton County,Johns Creek,8/31/2022,14
+Zip,30024,GA,Gwinnett County,Suwanee,8/31/2022,15.6
+Zip,30025,GA,Walton County,Social Circle,8/31/2022,14
+Zip,30028,GA,Forsyth County,Cumming,8/31/2022,16.8
+Zip,30030,GA,Dekalb County,Decatur,8/31/2022,11.9
+Zip,30032,GA,Dekalb County,Candler-Mcafee,8/31/2022,18.7
+Zip,30033,GA,Dekalb County,Decatur,8/31/2022,12.9
+Zip,30034,GA,Dekalb County,Panthersville,8/31/2022,17.8
+Zip,30035,GA,Dekalb County,Stone Mountain,8/31/2022,19.3
+Zip,30038,GA,Dekalb County,Lithonia,8/31/2022,16.1
+Zip,30039,GA,Gwinnett County,Snellville,8/31/2022,17.4
+Zip,30040,GA,Forsyth County,Cumming,8/31/2022,16.3
+Zip,30041,GA,Forsyth County,Cumming,8/31/2022,16.1
+Zip,30043,GA,Gwinnett County,Lawrenceville,8/31/2022,16.8
+Zip,30044,GA,Gwinnett County,Lawrenceville,8/31/2022,17.2
+Zip,30045,GA,Gwinnett County,Lawrenceville,8/31/2022,17
+Zip,30046,GA,Gwinnett County,Lawrenceville,8/31/2022,17.6
+Zip,30047,GA,Gwinnett County,Lilburn,8/31/2022,16.6
+Zip,30052,GA,Gwinnett County,Loganville,8/31/2022,16.7
+Zip,30054,GA,Newton County,Oxford,8/31/2022,15.3
+Zip,30055,GA,Jasper County,Mansfield,8/31/2022,12.2
+Zip,30056,GA,Jasper County,Newborn,8/31/2022,13.4
+Zip,30058,GA,Dekalb County,Lithonia,8/31/2022,16.2
+Zip,30060,GA,Cobb County,Marietta,8/31/2022,17
+Zip,30062,GA,Cobb County,Marietta,8/31/2022,13.9
+Zip,30064,GA,Cobb County,Marietta,8/31/2022,14.9
+Zip,30066,GA,Cobb County,Marietta,8/31/2022,15.1
+Zip,30067,GA,Cobb County,Marietta,8/31/2022,15.1
+Zip,30068,GA,Cobb County,Marietta,8/31/2022,13.5
+Zip,30071,GA,Gwinnett County,Norcross,8/31/2022,16.5
+Zip,30072,GA,Dekalb County,Pine Lake,8/31/2022,16.3
+Zip,30075,GA,Fulton County,Roswell,8/31/2022,14
+Zip,30076,GA,Fulton County,Roswell,8/31/2022,13.9
+Zip,30078,GA,Gwinnett County,Snellville,8/31/2022,16.8
+Zip,30079,GA,Dekalb County,Scottdale,8/31/2022,13.9
+Zip,30080,GA,Cobb County,Smyrna,8/31/2022,15.1
+Zip,30082,GA,Cobb County,Smyrna,8/31/2022,14.8
+Zip,30083,GA,Dekalb County,Stone Mountain,8/31/2022,17.9
+Zip,30084,GA,Dekalb County,Tucker,8/31/2022,15.3
+Zip,30087,GA,Dekalb County,Stone Mountain,8/31/2022,16.7
+Zip,30088,GA,Dekalb County,Stone Mountain,8/31/2022,16.9
+Zip,30092,GA,Gwinnett County,Peachtree Corners,8/31/2022,14.5
+Zip,30093,GA,Gwinnett County,Norcross,8/31/2022,17.8
+Zip,30094,GA,Rockdale County,Conyers,8/31/2022,18.9
+Zip,30096,GA,Gwinnett County,Duluth,8/31/2022,16.3
+Zip,30097,GA,Gwinnett County,Duluth,8/31/2022,14.8
+Zip,30101,GA,Cobb County,Acworth,8/31/2022,15.9
+Zip,30102,GA,Cobb County,Acworth,8/31/2022,16.6
+Zip,30103,GA,Bartow County,Adairsville,8/31/2022,13.2
+Zip,30106,GA,Cobb County,Austell,8/31/2022,17.7
+Zip,30107,GA,Cherokee County,Ball Ground,8/31/2022,16.1
+Zip,30108,GA,Carroll County,Bowdon,8/31/2022,16.6
+Zip,30110,GA,Haralson County,Bremen,8/31/2022,10.5
+Zip,30113,GA,Haralson County,Buchanan,8/31/2022,10.4
+Zip,30114,GA,Cherokee County,Canton,8/31/2022,16
+Zip,30115,GA,Cherokee County,Canton,8/31/2022,15.8
+Zip,30116,GA,Carroll County,Carrollton,8/31/2022,16
+Zip,30117,GA,Carroll County,Carrollton,8/31/2022,16.3
+Zip,30120,GA,Bartow County,Cartersville,8/31/2022,14.4
+Zip,30121,GA,Bartow County,Cartersville,8/31/2022,14.1
+Zip,30122,GA,Douglas County,Lithia Springs,8/31/2022,15.6
+Zip,30126,GA,Cobb County,Mableton,8/31/2022,15.6
+Zip,30127,GA,Cobb County,Powder Springs,8/31/2022,16.4
+Zip,30132,GA,Paulding County,Dallas,8/31/2022,18.8
+Zip,30134,GA,Douglas County,Douglasville,8/31/2022,17.5
+Zip,30135,GA,Douglas County,Douglasville,8/31/2022,15.6
+Zip,30137,GA,Bartow County,Emerson,8/31/2022,13.8
+Zip,30141,GA,Paulding County,Hiram,8/31/2022,19.1
+Zip,30143,GA,Pickens County,Jasper,8/31/2022,10.3
+Zip,30144,GA,Cobb County,Kennesaw,8/31/2022,15.9
+Zip,30145,GA,Bartow County,Kingston,8/31/2022,14.7
+Zip,30148,GA,Dawson County,Marble Hill,8/31/2022,11
+Zip,30152,GA,Cobb County,Kennesaw,8/31/2022,15.2
+Zip,30157,GA,Paulding County,Dallas,8/31/2022,19.8
+Zip,30168,GA,Cobb County,Austell,8/31/2022,18.3
+Zip,30170,GA,Carroll County,Carrollton,8/31/2022,14.4
+Zip,30171,GA,Gordon County,Fairmount,8/31/2022,15.5
+Zip,30175,GA,Pickens County,Talking Rock,8/31/2022,13.9
+Zip,30176,GA,Haralson County,Tallapoosa,8/31/2022,10
+Zip,30177,GA,Pickens County,Tate,8/31/2022,9.7
+Zip,30179,GA,Carroll County,Temple,8/31/2022,17.1
+Zip,30180,GA,Carroll County,Villa Rica,8/31/2022,15.6
+Zip,30182,GA,Haralson County,Waco,8/31/2022,12.9
+Zip,30183,GA,Cherokee County,Waleska,8/31/2022,16.2
+Zip,30184,GA,Bartow County,White,8/31/2022,14.8
+Zip,30185,GA,Carroll County,Whitesburg,8/31/2022,16.6
+Zip,30187,GA,Douglas County,Winston,8/31/2022,15.4
+Zip,30188,GA,Cherokee County,Woodstock,8/31/2022,16.2
+Zip,30189,GA,Cherokee County,Woodstock,8/31/2022,16
+Zip,30204,GA,Lamar County,Barnesville,8/31/2022,9.6
+Zip,30205,GA,Fayette County,Brooks,8/31/2022,12.7
+Zip,30206,GA,Pike County,Concord,8/31/2022,10.9
+Zip,30213,GA,Fulton County,Fairburn,8/31/2022,17.1
+Zip,30214,GA,Fayette County,Fayetteville,8/31/2022,14.1
+Zip,30215,GA,Fayette County,Fayetteville,8/31/2022,13.8
+Zip,30216,GA,Butts County,Flovilla,8/31/2022,13.5
+Zip,30217,GA,Heard County,Franklin,8/31/2022,11
+Zip,30218,GA,Meriwether County,Gay,8/31/2022,10.7
+Zip,30220,GA,Coweta County,Grantville,8/31/2022,14.5
+Zip,30222,GA,Meriwether County,Greenville,8/31/2022,10
+Zip,30223,GA,Spalding County,Griffin,8/31/2022,15.1
+Zip,30224,GA,Spalding County,Griffin,8/31/2022,14.1
+Zip,30228,GA,Henry County,Hampton,8/31/2022,18
+Zip,30233,GA,Butts County,Jackson,8/31/2022,11.4
+Zip,30234,GA,Butts County,Jenkinsburg,8/31/2022,14.5
+Zip,30236,GA,Clayton County,Jonesboro,8/31/2022,19.6
+Zip,30238,GA,Clayton County,Jonesboro,8/31/2022,20.4
+Zip,30248,GA,Henry County,Locust Grove,8/31/2022,16.8
+Zip,30251,GA,Meriwether County,Luthersville,8/31/2022,11.7
+Zip,30252,GA,Henry County,McDonough,8/31/2022,16.8
+Zip,30253,GA,Henry County,McDonough,8/31/2022,17.3
+Zip,30256,GA,Pike County,Meansville,8/31/2022,11.2
+Zip,30257,GA,Lamar County,Milner,8/31/2022,9.3
+Zip,30258,GA,Pike County,Molena,8/31/2022,10.9
+Zip,30259,GA,Coweta County,Moreland,8/31/2022,15.1
+Zip,30260,GA,Clayton County,Morrow,8/31/2022,21.2
+Zip,30263,GA,Coweta County,Newnan,8/31/2022,14.6
+Zip,30265,GA,Coweta County,Newnan,8/31/2022,14.5
+Zip,30268,GA,Fulton County,Palmetto,8/31/2022,16.6
+Zip,30269,GA,Fayette County,Peachtree City,8/31/2022,12.3
+Zip,30273,GA,Clayton County,Rex,8/31/2022,19.9
+Zip,30274,GA,Clayton County,Riverdale,8/31/2022,22.3
+Zip,30276,GA,Coweta County,Senoia,8/31/2022,14.1
+Zip,30277,GA,Coweta County,Sharpsburg,8/31/2022,13.6
+Zip,30281,GA,Henry County,Stockbridge,8/31/2022,16.9
+Zip,30288,GA,Dekalb County,Conley,8/31/2022,20.4
+Zip,30290,GA,Fayette County,Tyrone,8/31/2022,12.2
+Zip,30291,GA,Fulton County,Union City,8/31/2022,19
+Zip,30292,GA,Pike County,Williamson,8/31/2022,11.9
+Zip,30293,GA,Meriwether County,Woodbury,8/31/2022,10.5
+Zip,30294,GA,Dekalb County,Ellenwood,8/31/2022,16.9
+Zip,30295,GA,Pike County,Zebulon,8/31/2022,11.1
+Zip,30296,GA,Clayton County,Riverdale,8/31/2022,20.4
+Zip,30297,GA,Clayton County,Forest Park,8/31/2022,24.1
+Zip,30303,GA,Fulton County,Atlanta,8/31/2022,13.8
+Zip,30305,GA,Fulton County,Atlanta,8/31/2022,11.9
+Zip,30306,GA,Fulton County,Atlanta,8/31/2022,12.3
+Zip,30307,GA,Fulton County,Atlanta,8/31/2022,11.8
+Zip,30308,GA,Fulton County,Atlanta,8/31/2022,12.3
+Zip,30309,GA,Fulton County,Atlanta,8/31/2022,11.9
+Zip,30310,GA,Fulton County,Atlanta,8/31/2022,20.8
+Zip,30311,GA,Fulton County,Atlanta,8/31/2022,20.2
+Zip,30312,GA,Fulton County,Atlanta,8/31/2022,14.1
+Zip,30313,GA,Fulton County,Atlanta,8/31/2022,13.4
+Zip,30314,GA,Fulton County,Atlanta,8/31/2022,24
+Zip,30315,GA,Fulton County,Atlanta,8/31/2022,19.3
+Zip,30316,GA,Fulton County,Atlanta,8/31/2022,14.7
+Zip,30317,GA,Fulton County,Atlanta,8/31/2022,13
+Zip,30318,GA,Fulton County,Atlanta,8/31/2022,15.4
+Zip,30319,GA,Dekalb County,Brookhaven,8/31/2022,12.2
+Zip,30324,GA,Fulton County,Atlanta,8/31/2022,12.1
+Zip,30326,GA,Fulton County,Atlanta,8/31/2022,10.4
+Zip,30327,GA,Fulton County,Atlanta,8/31/2022,12.8
+Zip,30328,GA,Fulton County,Sandy Springs,8/31/2022,12.9
+Zip,30329,GA,Dekalb County,North Druid Hills,8/31/2022,12
+Zip,30331,GA,Fulton County,Atlanta,8/31/2022,16.9
+Zip,30336,GA,Fulton County,Atlanta,8/31/2022,16.7
+Zip,30337,GA,Fulton County,College Park,8/31/2022,16.9
+Zip,30338,GA,Dekalb County,Dunwoody,8/31/2022,12.4
+Zip,30339,GA,Cobb County,Vinings,8/31/2022,13.5
+Zip,30340,GA,Dekalb County,Doraville,8/31/2022,14
+Zip,30341,GA,Dekalb County,Chamblee,8/31/2022,12.9
+Zip,30342,GA,Fulton County,Sandy Springs,8/31/2022,12.1
+Zip,30344,GA,Fulton County,East Point,8/31/2022,17.1
+Zip,30345,GA,Dekalb County,Chamblee,8/31/2022,12
+Zip,30346,GA,Dekalb County,Dunwoody,8/31/2022,12.3
+Zip,30349,GA,Clayton County,Riverdale,8/31/2022,18.1
+Zip,30350,GA,Fulton County,Sandy Springs,8/31/2022,13.9
+Zip,30354,GA,Fulton County,Atlanta,8/31/2022,18.5
+Zip,30360,GA,Dekalb County,Dunwoody,8/31/2022,14.4
+Zip,30363,GA,Fulton County,Atlanta,8/31/2022,12.5
+Zip,30518,GA,Gwinnett County,Sugar Hill,8/31/2022,16.5
+Zip,30519,GA,Gwinnett County,Buford,8/31/2022,16.2
+Zip,30534,GA,Dawson County,Dawsonville,8/31/2022,11.2
+Zip,30548,GA,Jackson County,Hoschton,8/31/2022,15.3
+Zip,30620,GA,Barrow County,Bethlehem,8/31/2022,15.9
+Zip,30623,GA,Morgan County,Madison,8/31/2022,9.4
+Zip,30625,GA,Morgan County,Buckhead,8/31/2022,10.3
+Zip,30641,GA,Walton County,Good Hope,8/31/2022,13.8
+Zip,30650,GA,Morgan County,Madison,8/31/2022,10.9
+Zip,30655,GA,Walton County,Monroe,8/31/2022,14.7
+Zip,30656,GA,Walton County,Monroe,8/31/2022,14.6
+Zip,30663,GA,Morgan County,Rutledge,8/31/2022,10.7
+Zip,30666,GA,Barrow County,Statham,8/31/2022,14.8
+Zip,30680,GA,Barrow County,Winder,8/31/2022,16
+Zip,31064,GA,Jasper County,Monticello,8/31/2022,11.2
+Zip,31085,GA,Jasper County,Shady Dale,8/31/2022,11.5
+Zip,31816,GA,Meriwether County,Manchester,8/31/2022,8.8
+Zip,31830,GA,Meriwether County,Warm Springs,8/31/2022,9.6
+Zip,32003,FL,Clay County,Fleming Island,8/31/2022,16.9
+Zip,32009,FL,Nassau County,Bryceville,8/31/2022,17.5
+Zip,32011,FL,Nassau County,Callahan,8/31/2022,18
+Zip,32033,FL,Saint Johns County,Elkton,8/31/2022,18.6
+Zip,32034,FL,Nassau County,Fernandina Beach,8/31/2022,16.2
+Zip,32040,FL,Baker County,Glen Saint Mary,8/31/2022,10.9
+Zip,32043,FL,Clay County,Green Cove Springs,8/31/2022,17.7
+Zip,32046,FL,Nassau County,Hilliard,8/31/2022,17.4
+Zip,32063,FL,Baker County,Macclenny,8/31/2022,11.6
+Zip,32065,FL,Clay County,Orange Park,8/31/2022,17.3
+Zip,32068,FL,Clay County,Middleburg,8/31/2022,17.4
+Zip,32073,FL,Clay County,Orange Park,8/31/2022,18
+Zip,32080,FL,Saint Johns County,Saint Augustine,8/31/2022,18.4
+Zip,32081,FL,Saint Johns County,Ponte Vedra,8/31/2022,19
+Zip,32082,FL,Saint Johns County,Ponte Vedra Beach,8/31/2022,18.9
+Zip,32084,FL,Saint Johns County,Saint Augustine,8/31/2022,18.4
+Zip,32086,FL,Saint Johns County,Saint Augustine,8/31/2022,18.6
+Zip,32087,FL,Baker County,Sanderson,8/31/2022,10.1
+Zip,32092,FL,Saint Johns County,Saint Augustine,8/31/2022,18.9
+Zip,32095,FL,Saint Johns County,Saint Augustine,8/31/2022,18.6
+Zip,32097,FL,Nassau County,Yulee,8/31/2022,15.8
+Zip,32102,FL,Lake County,Astor,8/31/2022,12
+Zip,32145,FL,Saint Johns County,Hastings,8/31/2022,19.4
+Zip,32159,FL,Sumter County,The Villages,8/31/2022,9.4
+Zip,32202,FL,Duval County,Jacksonville,8/31/2022,18.3
+Zip,32204,FL,Duval County,Jacksonville,8/31/2022,16.7
+Zip,32205,FL,Duval County,Jacksonville,8/31/2022,19.6
+Zip,32206,FL,Duval County,Jacksonville,8/31/2022,27.5
+Zip,32207,FL,Duval County,Jacksonville,8/31/2022,18.9
+Zip,32208,FL,Duval County,Jacksonville,8/31/2022,21.9
+Zip,32209,FL,Duval County,Jacksonville,8/31/2022,25.8
+Zip,32210,FL,Duval County,Jacksonville,8/31/2022,19.7
+Zip,32211,FL,Duval County,Jacksonville,8/31/2022,21
+Zip,32216,FL,Duval County,Jacksonville,8/31/2022,19.4
+Zip,32217,FL,Duval County,Jacksonville,8/31/2022,18.7
+Zip,32218,FL,Duval County,Jacksonville,8/31/2022,18.4
+Zip,32219,FL,Duval County,Jacksonville,8/31/2022,19.1
+Zip,32220,FL,Duval County,Jacksonville,8/31/2022,19.3
+Zip,32221,FL,Duval County,Jacksonville,8/31/2022,19
+Zip,32222,FL,Duval County,Jacksonville,8/31/2022,18
+Zip,32223,FL,Duval County,Jacksonville,8/31/2022,18
+Zip,32224,FL,Duval County,Jacksonville,8/31/2022,17.4
+Zip,32225,FL,Duval County,Jacksonville,8/31/2022,18.2
+Zip,32226,FL,Duval County,Jacksonville,8/31/2022,17.6
+Zip,32233,FL,Duval County,Atlantic Beach,8/31/2022,18.5
+Zip,32234,FL,Duval County,Jacksonville,8/31/2022,18.5
+Zip,32244,FL,Duval County,Jacksonville,8/31/2022,20.2
+Zip,32246,FL,Duval County,Jacksonville,8/31/2022,18.5
+Zip,32250,FL,Duval County,Jacksonville Beach,8/31/2022,17.8
+Zip,32254,FL,Duval County,Jacksonville,8/31/2022,27.7
+Zip,32256,FL,Duval County,Jacksonville,8/31/2022,17.1
+Zip,32257,FL,Duval County,Jacksonville,8/31/2022,18.4
+Zip,32258,FL,Duval County,Jacksonville,8/31/2022,17.7
+Zip,32259,FL,Saint Johns County,Fruit Cove,8/31/2022,18.7
+Zip,32266,FL,Duval County,Neptune Beach,8/31/2022,18.6
+Zip,32277,FL,Duval County,Jacksonville,8/31/2022,19.7
+Zip,32656,FL,Clay County,Keystone Heights,8/31/2022,16.2
+Zip,32666,FL,Putnam County,Melrose,8/31/2022,14.5
+Zip,32701,FL,Seminole County,Altamonte Springs,8/31/2022,11
+Zip,32702,FL,Lake County,Altoona,8/31/2022,11.9
+Zip,32703,FL,Orange County,Apopka,8/31/2022,12.5
+Zip,32707,FL,Seminole County,Casselberry,8/31/2022,11.5
+Zip,32708,FL,Seminole County,Winter Springs,8/31/2022,10.9
+Zip,32709,FL,Orange County,Christmas,8/31/2022,13.7
+Zip,32712,FL,Orange County,Apopka,8/31/2022,12.4
+Zip,32714,FL,Seminole County,Altamonte Springs,8/31/2022,10.9
+Zip,32726,FL,Lake County,Eustis,8/31/2022,12.8
+Zip,32730,FL,Seminole County,Casselberry,8/31/2022,11.4
+Zip,32732,FL,Seminole County,Geneva,8/31/2022,11.2
+Zip,32735,FL,Lake County,Grand Island,8/31/2022,13
+Zip,32736,FL,Lake County,Eustis,8/31/2022,12.2
+Zip,32746,FL,Seminole County,Lake Mary,8/31/2022,10.3
+Zip,32750,FL,Seminole County,Longwood,8/31/2022,11.2
+Zip,32751,FL,Orange County,Maitland,8/31/2022,11.1
+Zip,32757,FL,Lake County,Mount Dora,8/31/2022,12
+Zip,32765,FL,Seminole County,Oviedo,8/31/2022,10.5
+Zip,32766,FL,Seminole County,Oviedo,8/31/2022,10.6
+Zip,32767,FL,Lake County,Paisley,8/31/2022,12.5
+Zip,32771,FL,Seminole County,Sanford,8/31/2022,11.5
+Zip,32773,FL,Seminole County,Sanford,8/31/2022,11.8
+Zip,32776,FL,Lake County,Sorrento,8/31/2022,12.2
+Zip,32778,FL,Lake County,Tavares,8/31/2022,12.3
+Zip,32779,FL,Seminole County,Longwood,8/31/2022,10.6
+Zip,32784,FL,Lake County,Umatilla,8/31/2022,12.6
+Zip,32789,FL,Orange County,Winter Park,8/31/2022,10.9
+Zip,32792,FL,Orange County,Winter Park,8/31/2022,11.4
+Zip,32798,FL,Orange County,Zellwood,8/31/2022,13.2
+Zip,32801,FL,Orange County,Orlando,8/31/2022,9.6
+Zip,32803,FL,Orange County,Orlando,8/31/2022,11.4
+Zip,32804,FL,Orange County,Orlando,8/31/2022,10.7
+Zip,32805,FL,Orange County,Orlando,8/31/2022,14.7
+Zip,32806,FL,Orange County,Orlando,8/31/2022,11.3
+Zip,32807,FL,Orange County,Orlando,8/31/2022,12.5
+Zip,32808,FL,Orange County,Pine Hills,8/31/2022,14.1
+Zip,32809,FL,Orange County,Pine Castle,8/31/2022,12.8
+Zip,32810,FL,Orange County,Orlando,8/31/2022,12.7
+Zip,32811,FL,Orange County,Orlando,8/31/2022,12.2
+Zip,32812,FL,Orange County,Orlando,8/31/2022,11.6
+Zip,32814,FL,Orange County,Orlando,8/31/2022,10.5
+Zip,32817,FL,Orange County,Orlando,8/31/2022,12
+Zip,32818,FL,Orange County,Pine Hills,8/31/2022,12.5
+Zip,32819,FL,Orange County,Doctor Phillips,8/31/2022,11.3
+Zip,32820,FL,Orange County,Bithlo,8/31/2022,11.9
+Zip,32821,FL,Orange County,Williamsburg,8/31/2022,11.3
+Zip,32822,FL,Orange County,Orlando,8/31/2022,12.6
+Zip,32824,FL,Orange County,Orlando,8/31/2022,12.1
+Zip,32825,FL,Orange County,Orlando,8/31/2022,12.2
+Zip,32826,FL,Orange County,Orlando,8/31/2022,12.2
+Zip,32827,FL,Orange County,Orlando,8/31/2022,11.2
+Zip,32828,FL,Orange County,Orlando,8/31/2022,11.9
+Zip,32829,FL,Orange County,Orlando,8/31/2022,12
+Zip,32832,FL,Orange County,Orlando,8/31/2022,11.7
+Zip,32833,FL,Orange County,Wedgefield,8/31/2022,11.4
+Zip,32835,FL,Orange County,Orlando,8/31/2022,11.2
+Zip,32836,FL,Orange County,Doctor Phillips,8/31/2022,10.8
+Zip,32837,FL,Orange County,Orlando,8/31/2022,11.8
+Zip,32839,FL,Orange County,Orlando,8/31/2022,12.7
+Zip,33004,FL,Broward County,Dania Beach,8/31/2022,14.1
+Zip,33009,FL,Broward County,Hallandale,8/31/2022,12.2
+Zip,33010,FL,Miami-Dade County,Hialeah,8/31/2022,15
+Zip,33012,FL,Miami-Dade County,Hialeah,8/31/2022,13.8
+Zip,33013,FL,Miami-Dade County,Hialeah,8/31/2022,13.6
+Zip,33014,FL,Miami-Dade County,Hialeah,8/31/2022,13.3
+Zip,33015,FL,Miami-Dade County,Country Club,8/31/2022,13.9
+Zip,33016,FL,Miami-Dade County,Hialeah,8/31/2022,12.7
+Zip,33018,FL,Miami-Dade County,Hialeah,8/31/2022,13.7
+Zip,33019,FL,Broward County,Hollywood,8/31/2022,12.4
+Zip,33020,FL,Broward County,Hollywood,8/31/2022,15.7
+Zip,33021,FL,Broward County,Hollywood,8/31/2022,15
+Zip,33023,FL,Broward County,Miramar,8/31/2022,16.4
+Zip,33024,FL,Broward County,Pembroke Pines,8/31/2022,15.3
+Zip,33025,FL,Broward County,Miramar,8/31/2022,14.5
+Zip,33026,FL,Broward County,Pembroke Pines,8/31/2022,14.3
+Zip,33027,FL,Broward County,Miramar,8/31/2022,14.5
+Zip,33028,FL,Broward County,Pembroke Pines,8/31/2022,14.6
+Zip,33029,FL,Broward County,Pembroke Pines,8/31/2022,14.7
+Zip,33030,FL,Miami-Dade County,Homestead,8/31/2022,15.8
+Zip,33031,FL,Miami-Dade County,Homestead,8/31/2022,15.7
+Zip,33032,FL,Miami-Dade County,Princeton,8/31/2022,15.6
+Zip,33033,FL,Miami-Dade County,Homestead,8/31/2022,16.1
+Zip,33034,FL,Miami-Dade County,Florida City,8/31/2022,18.1
+Zip,33035,FL,Miami-Dade County,Homestead,8/31/2022,14.7
+Zip,33054,FL,Miami-Dade County,Miami Gardens,8/31/2022,17.4
+Zip,33055,FL,Miami-Dade County,Miami Gardens,8/31/2022,15.7
+Zip,33056,FL,Miami-Dade County,Miami Gardens,8/31/2022,15.7
+Zip,33060,FL,Broward County,Pompano Beach,8/31/2022,15.2
+Zip,33062,FL,Broward County,Pompano Beach,8/31/2022,13.4
+Zip,33063,FL,Broward County,Margate,8/31/2022,15.1
+Zip,33064,FL,Broward County,Pompano Beach,8/31/2022,16.2
+Zip,33065,FL,Broward County,Coral Springs,8/31/2022,15.2
+Zip,33066,FL,Broward County,Coconut Creek,8/31/2022,14.1
+Zip,33067,FL,Broward County,Coral Springs,8/31/2022,14.9
+Zip,33068,FL,Broward County,North Lauderdale,8/31/2022,15.7
+Zip,33069,FL,Broward County,Pompano Beach,8/31/2022,14.5
+Zip,33071,FL,Broward County,Coral Springs,8/31/2022,15.2
+Zip,33073,FL,Broward County,Coconut Creek,8/31/2022,14.1
+Zip,33076,FL,Broward County,Parkland,8/31/2022,14.8
+Zip,33109,FL,Miami-Dade County,Fisher Island,8/31/2022,11.7
+Zip,33122,FL,Miami-Dade County,Doral,8/31/2022,9.4
+Zip,33125,FL,Miami-Dade County,Miami,8/31/2022,14.1
+Zip,33126,FL,Miami-Dade County,Miami,8/31/2022,12.3
+Zip,33127,FL,Miami-Dade County,Miami,8/31/2022,17.6
+Zip,33128,FL,Miami-Dade County,Miami,8/31/2022,10.8
+Zip,33129,FL,Miami-Dade County,Miami,8/31/2022,11.4
+Zip,33130,FL,Miami-Dade County,Miami,8/31/2022,11.4
+Zip,33131,FL,Miami-Dade County,Miami,8/31/2022,11
+Zip,33132,FL,Miami-Dade County,Miami,8/31/2022,10.4
+Zip,33133,FL,Miami-Dade County,Miami,8/31/2022,13.5
+Zip,33134,FL,Miami-Dade County,Coral Gables,8/31/2022,13.4
+Zip,33135,FL,Miami-Dade County,Miami,8/31/2022,14.5
+Zip,33136,FL,Miami-Dade County,Miami,8/31/2022,14.7
+Zip,33137,FL,Miami-Dade County,Miami,8/31/2022,10.3
+Zip,33138,FL,Miami-Dade County,Miami,8/31/2022,14.8
+Zip,33139,FL,Miami-Dade County,Miami Beach,8/31/2022,10.2
+Zip,33140,FL,Miami-Dade County,Miami Beach,8/31/2022,9.6
+Zip,33141,FL,Miami-Dade County,Miami Beach,8/31/2022,10.9
+Zip,33142,FL,Miami-Dade County,Miami,8/31/2022,16.7
+Zip,33143,FL,Miami-Dade County,Glenvar Heights,8/31/2022,13.5
+Zip,33144,FL,Miami-Dade County,Miami,8/31/2022,14
+Zip,33145,FL,Miami-Dade County,Miami,8/31/2022,14.5
+Zip,33146,FL,Miami-Dade County,Coral Gables,8/31/2022,13.7
+Zip,33147,FL,Miami-Dade County,West Little River,8/31/2022,16.6
+Zip,33149,FL,Miami-Dade County,Key Biscayne,8/31/2022,11.9
+Zip,33150,FL,Miami-Dade County,Miami,8/31/2022,18.1
+Zip,33154,FL,Miami-Dade County,Bal Harbour,8/31/2022,10.8
+Zip,33155,FL,Miami-Dade County,Miami,8/31/2022,14.4
+Zip,33156,FL,Miami-Dade County,Pinecrest,8/31/2022,13.6
+Zip,33157,FL,Miami-Dade County,Village of Palmetto Bay,8/31/2022,15.3
+Zip,33158,FL,Miami-Dade County,Village of Palmetto Bay,8/31/2022,13.9
+Zip,33160,FL,Miami-Dade County,Sunny Isles Beach,8/31/2022,10.9
+Zip,33161,FL,Miami-Dade County,North Miami,8/31/2022,16.5
+Zip,33162,FL,Miami-Dade County,North Miami Beach,8/31/2022,15.8
+Zip,33165,FL,Miami-Dade County,University Park,8/31/2022,14.3
+Zip,33166,FL,Miami-Dade County,Miami Springs,8/31/2022,13.7
+Zip,33167,FL,Miami-Dade County,Westview,8/31/2022,17.5
+Zip,33168,FL,Miami-Dade County,North Miami,8/31/2022,16.7
+Zip,33169,FL,Miami-Dade County,Miami Gardens,8/31/2022,15.5
+Zip,33170,FL,Miami-Dade County,Goulds,8/31/2022,16.4
+Zip,33172,FL,Miami-Dade County,Fountainbleau,8/31/2022,13.3
+Zip,33173,FL,Miami-Dade County,Kendall,8/31/2022,14
+Zip,33174,FL,Miami-Dade County,Fountainbleau,8/31/2022,13.7
+Zip,33175,FL,Miami-Dade County,Tamiami,8/31/2022,14.4
+Zip,33176,FL,Miami-Dade County,Kendall,8/31/2022,14.3
+Zip,33177,FL,Miami-Dade County,South Miami Heights,8/31/2022,15.8
+Zip,33178,FL,Miami-Dade County,Doral,8/31/2022,12.1
+Zip,33179,FL,Miami-Dade County,Ives Estates,8/31/2022,13.9
+Zip,33180,FL,Miami-Dade County,Aventura,8/31/2022,10.7
+Zip,33181,FL,Miami-Dade County,North Miami,8/31/2022,12
+Zip,33182,FL,Miami-Dade County,Tamiami,8/31/2022,14.5
+Zip,33183,FL,Miami-Dade County,Kendale Lakes,8/31/2022,13.7
+Zip,33184,FL,Miami-Dade County,Tamiami,8/31/2022,13.7
+Zip,33185,FL,Miami-Dade County,Kendall West,8/31/2022,14.3
+Zip,33186,FL,Miami-Dade County,The Crossings,8/31/2022,14.2
+Zip,33187,FL,Miami-Dade County,Richmond West,8/31/2022,14.9
+Zip,33189,FL,Miami-Dade County,Cutler Bay,8/31/2022,16.1
+Zip,33190,FL,Miami-Dade County,Cutler Bay,8/31/2022,14.9
+Zip,33193,FL,Miami-Dade County,Kendall West,8/31/2022,14
+Zip,33196,FL,Miami-Dade County,The Hammocks,8/31/2022,14
+Zip,33301,FL,Broward County,Fort Lauderdale,8/31/2022,12.6
+Zip,33304,FL,Broward County,Fort Lauderdale,8/31/2022,13.7
+Zip,33305,FL,Broward County,Fort Lauderdale,8/31/2022,14.3
+Zip,33306,FL,Broward County,Fort Lauderdale,8/31/2022,13.3
+Zip,33308,FL,Broward County,Fort Lauderdale,8/31/2022,13.3
+Zip,33309,FL,Broward County,Oakland Park,8/31/2022,15.6
+Zip,33311,FL,Broward County,Fort Lauderdale,8/31/2022,16.3
+Zip,33312,FL,Broward County,Fort Lauderdale,8/31/2022,15.1
+Zip,33313,FL,Broward County,Lauderhill,8/31/2022,15.8
+Zip,33314,FL,Broward County,Davie,8/31/2022,15.6
+Zip,33315,FL,Broward County,Fort Lauderdale,8/31/2022,15.7
+Zip,33316,FL,Broward County,Fort Lauderdale,8/31/2022,12.6
+Zip,33317,FL,Broward County,Plantation,8/31/2022,15.1
+Zip,33319,FL,Broward County,Lauderhill,8/31/2022,14.7
+Zip,33321,FL,Broward County,Tamarac,8/31/2022,14.8
+Zip,33322,FL,Broward County,Sunrise,8/31/2022,14.8
+Zip,33323,FL,Broward County,Sunrise,8/31/2022,14.3
+Zip,33324,FL,Broward County,Plantation,8/31/2022,14.1
+Zip,33325,FL,Broward County,Davie,8/31/2022,14.5
+Zip,33326,FL,Broward County,Weston,8/31/2022,14.2
+Zip,33327,FL,Broward County,Weston,8/31/2022,13.9
+Zip,33328,FL,Broward County,Davie,8/31/2022,14.7
+Zip,33330,FL,Broward County,Cooper City,8/31/2022,15.1
+Zip,33331,FL,Broward County,Weston,8/31/2022,14.5
+Zip,33332,FL,Broward County,Weston,8/31/2022,14.2
+Zip,33334,FL,Broward County,Oakland Park,8/31/2022,15.2
+Zip,33351,FL,Broward County,Sunrise,8/31/2022,15
+Zip,33401,FL,Palm Beach County,West Palm Beach,8/31/2022,13.5
+Zip,33403,FL,Palm Beach County,Lake Park,8/31/2022,15
+Zip,33404,FL,Palm Beach County,Riviera Beach,8/31/2022,13.9
+Zip,33405,FL,Palm Beach County,West Palm Beach,8/31/2022,15.8
+Zip,33406,FL,Palm Beach County,Lake Clarke Shores,8/31/2022,15.2
+Zip,33407,FL,Palm Beach County,West Palm Beach,8/31/2022,15
+Zip,33408,FL,Palm Beach County,North Palm Beach,8/31/2022,14.1
+Zip,33409,FL,Palm Beach County,West Palm Beach,8/31/2022,14.6
+Zip,33410,FL,Palm Beach County,Palm Beach Gardens,8/31/2022,13.7
+Zip,33411,FL,Palm Beach County,Royal Palm Beach,8/31/2022,14.3
+Zip,33412,FL,Palm Beach County,West Palm Beach,8/31/2022,15.2
+Zip,33413,FL,Palm Beach County,Greenacres,8/31/2022,14.6
+Zip,33414,FL,Palm Beach County,Wellington,8/31/2022,14.3
+Zip,33415,FL,Palm Beach County,Greenacres,8/31/2022,14.3
+Zip,33417,FL,Palm Beach County,Century Village,8/31/2022,13.7
+Zip,33418,FL,Palm Beach County,Palm Beach Gardens,8/31/2022,13.8
+Zip,33426,FL,Palm Beach County,Boynton Beach,8/31/2022,14.1
+Zip,33428,FL,Palm Beach County,Boca Raton,8/31/2022,13.9
+Zip,33430,FL,Palm Beach County,Belle Glade,8/31/2022,18.2
+Zip,33431,FL,Palm Beach County,Boca Raton,8/31/2022,14.1
+Zip,33432,FL,Palm Beach County,Boca Raton,8/31/2022,13.3
+Zip,33433,FL,Palm Beach County,Boca Raton,8/31/2022,13.9
+Zip,33434,FL,Palm Beach County,Boca Raton,8/31/2022,13.5
+Zip,33435,FL,Palm Beach County,Boynton Beach,8/31/2022,15.3
+Zip,33436,FL,Palm Beach County,Boynton Beach,8/31/2022,14.2
+Zip,33437,FL,Palm Beach County,Boynton Beach,8/31/2022,13.5
+Zip,33438,FL,Palm Beach County,Canal Point,8/31/2022,14.4
+Zip,33441,FL,Broward County,Deerfield Beach,8/31/2022,14.6
+Zip,33442,FL,Broward County,Deerfield Beach,8/31/2022,14.7
+Zip,33444,FL,Palm Beach County,Delray Beach,8/31/2022,14.2
+Zip,33445,FL,Palm Beach County,Delray Beach,8/31/2022,14.4
+Zip,33446,FL,Palm Beach County,Delray Beach,8/31/2022,13.1
+Zip,33449,FL,Palm Beach County,Wellington,8/31/2022,14.3
+Zip,33458,FL,Palm Beach County,Jupiter,8/31/2022,14
+Zip,33460,FL,Palm Beach County,Lake Worth,8/31/2022,16.2
+Zip,33461,FL,Palm Beach County,Palm Springs,8/31/2022,14.6
+Zip,33462,FL,Palm Beach County,Lantana,8/31/2022,14.7
+Zip,33463,FL,Palm Beach County,Greenacres,8/31/2022,14.6
+Zip,33467,FL,Palm Beach County,Greenacres,8/31/2022,13.9
+Zip,33470,FL,Palm Beach County,Loxahatchee Groves,8/31/2022,15.4
+Zip,33472,FL,Palm Beach County,Boynton Beach,8/31/2022,14
+Zip,33473,FL,Palm Beach County,Boynton Beach,8/31/2022,13.2
+Zip,33476,FL,Palm Beach County,Pahokee,8/31/2022,16.4
+Zip,33477,FL,Palm Beach County,Jupiter,8/31/2022,13.6
+Zip,33478,FL,Palm Beach County,Jupiter,8/31/2022,14.3
+Zip,33480,FL,Palm Beach County,Palm Beach,8/31/2022,14.1
+Zip,33483,FL,Palm Beach County,Delray Beach,8/31/2022,13.2
+Zip,33484,FL,Palm Beach County,Delray Beach,8/31/2022,13.6
+Zip,33486,FL,Palm Beach County,Boca Raton,8/31/2022,15.1
+Zip,33487,FL,Palm Beach County,Boca Raton,8/31/2022,13.8
+Zip,33493,FL,Palm Beach County,South Bay,8/31/2022,16.6
+Zip,33496,FL,Palm Beach County,Boca Raton,8/31/2022,13.4
+Zip,33498,FL,Palm Beach County,Boca Raton,8/31/2022,14.4
+Zip,33510,FL,Hillsborough County,Brandon,8/31/2022,22.5
+Zip,33511,FL,Hillsborough County,Brandon,8/31/2022,22.3
+Zip,33523,FL,Hernando County,Ridge Manor,8/31/2022,23.6
+Zip,33525,FL,Pasco County,Dade City,8/31/2022,23.4
+Zip,33527,FL,Hillsborough County,Dover,8/31/2022,22.3
+Zip,33534,FL,Hillsborough County,Gibsonton,8/31/2022,22.8
+Zip,33540,FL,Pasco County,Zephyrhills,8/31/2022,23.2
+Zip,33541,FL,Pasco County,Zephyrhills,8/31/2022,23
+Zip,33542,FL,Pasco County,Zephyrhills,8/31/2022,23.6
+Zip,33543,FL,Pasco County,Wesley Chapel,8/31/2022,22.6
+Zip,33544,FL,Pasco County,Wesley Chapel,8/31/2022,22.4
+Zip,33545,FL,Pasco County,Wesley Chapel,8/31/2022,23.6
+Zip,33547,FL,Hillsborough County,Riverview,8/31/2022,20.7
+Zip,33548,FL,Hillsborough County,Lutz,8/31/2022,22.1
+Zip,33549,FL,Hillsborough County,Lutz,8/31/2022,22.2
+Zip,33556,FL,Hillsborough County,Odessa,8/31/2022,22.1
+Zip,33558,FL,Hillsborough County,Lutz,8/31/2022,21.3
+Zip,33559,FL,Hillsborough County,Lutz,8/31/2022,22.4
+Zip,33563,FL,Hillsborough County,Plant City,8/31/2022,23.3
+Zip,33565,FL,Hillsborough County,Plant City,8/31/2022,22.8
+Zip,33566,FL,Hillsborough County,Plant City,8/31/2022,21.7
+Zip,33567,FL,Hillsborough County,Plant City,8/31/2022,22.6
+Zip,33569,FL,Hillsborough County,Riverview,8/31/2022,21.9
+Zip,33570,FL,Hillsborough County,Ruskin,8/31/2022,22.3
+Zip,33572,FL,Hillsborough County,Apollo Beach,8/31/2022,21.4
+Zip,33573,FL,Hillsborough County,Sun City Center,8/31/2022,21.3
+Zip,33576,FL,Pasco County,San Antonio,8/31/2022,22.7
+Zip,33578,FL,Hillsborough County,Riverview,8/31/2022,22.4
+Zip,33579,FL,Hillsborough County,Riverview,8/31/2022,22.7
+Zip,33584,FL,Hillsborough County,Seffner,8/31/2022,22.6
+Zip,33592,FL,Hillsborough County,Thonotosassa,8/31/2022,21.9
+Zip,33594,FL,Hillsborough County,Valrico,8/31/2022,22.3
+Zip,33596,FL,Hillsborough County,Valrico,8/31/2022,22
+Zip,33598,FL,Hillsborough County,Wimauma,8/31/2022,21.2
+Zip,33602,FL,Hillsborough County,Tampa,8/31/2022,19.7
+Zip,33603,FL,Hillsborough County,Tampa,8/31/2022,23.5
+Zip,33604,FL,Hillsborough County,Tampa,8/31/2022,24.1
+Zip,33605,FL,Hillsborough County,Tampa,8/31/2022,25.5
+Zip,33606,FL,Hillsborough County,Tampa,8/31/2022,20.2
+Zip,33607,FL,Hillsborough County,Tampa,8/31/2022,24.1
+Zip,33609,FL,Hillsborough County,Tampa,8/31/2022,20.8
+Zip,33610,FL,Hillsborough County,Tampa,8/31/2022,24.5
+Zip,33611,FL,Hillsborough County,Tampa,8/31/2022,20.8
+Zip,33612,FL,Hillsborough County,Tampa,8/31/2022,24
+Zip,33613,FL,Hillsborough County,Lake Magdalene,8/31/2022,22.9
+Zip,33614,FL,Hillsborough County,Egypt Lake-Leto,8/31/2022,22.7
+Zip,33615,FL,Hillsborough County,Town 'n' Country,8/31/2022,22.9
+Zip,33616,FL,Hillsborough County,Tampa,8/31/2022,20.7
+Zip,33617,FL,Hillsborough County,Temple Terrace,8/31/2022,23.2
+Zip,33618,FL,Hillsborough County,Greater Carrollwood,8/31/2022,21.9
+Zip,33619,FL,Hillsborough County,Palm River-Clair Mel,8/31/2022,24.4
+Zip,33624,FL,Hillsborough County,Greater Carrollwood,8/31/2022,22.3
+Zip,33625,FL,Hillsborough County,Citrus Park,8/31/2022,22
+Zip,33626,FL,Hillsborough County,Westchase,8/31/2022,20.9
+Zip,33629,FL,Hillsborough County,Tampa,8/31/2022,20.4
+Zip,33634,FL,Hillsborough County,Town 'n' Country,8/31/2022,22.8
+Zip,33635,FL,Hillsborough County,Town 'n' Country,8/31/2022,21.6
+Zip,33637,FL,Hillsborough County,Temple Terrace,8/31/2022,22.5
+Zip,33647,FL,Hillsborough County,Tampa,8/31/2022,21.7
+Zip,33701,FL,Pinellas County,Saint Petersburg,8/31/2022,19
+Zip,33702,FL,Pinellas County,Saint Petersburg,8/31/2022,21.5
+Zip,33703,FL,Pinellas County,Saint Petersburg,8/31/2022,23.2
+Zip,33704,FL,Pinellas County,Saint Petersburg,8/31/2022,21.7
+Zip,33705,FL,Pinellas County,Saint Petersburg,8/31/2022,25.1
+Zip,33706,FL,Pinellas County,Saint Pete Beach,8/31/2022,20.9
+Zip,33707,FL,Pinellas County,Gulfport,8/31/2022,23.3
+Zip,33708,FL,Pinellas County,Madeira Beach,8/31/2022,21.7
+Zip,33709,FL,Pinellas County,Kenneth City,8/31/2022,23.9
+Zip,33710,FL,Pinellas County,Saint Petersburg,8/31/2022,22.1
+Zip,33711,FL,Pinellas County,Saint Petersburg,8/31/2022,24.9
+Zip,33712,FL,Pinellas County,Saint Petersburg,8/31/2022,25.1
+Zip,33713,FL,Pinellas County,Saint Petersburg,8/31/2022,25.2
+Zip,33714,FL,Pinellas County,West and East Lealman,8/31/2022,22.3
+Zip,33715,FL,Pinellas County,Saint Petersburg,8/31/2022,19.4
+Zip,33716,FL,Pinellas County,Saint Petersburg,8/31/2022,20.2
+Zip,33755,FL,Pinellas County,Clearwater,8/31/2022,23.3
+Zip,33756,FL,Pinellas County,Clearwater,8/31/2022,22.1
+Zip,33759,FL,Pinellas County,Clearwater,8/31/2022,22.3
+Zip,33760,FL,Pinellas County,South Highpoint,8/31/2022,21.4
+Zip,33761,FL,Pinellas County,Clearwater,8/31/2022,21.1
+Zip,33762,FL,Pinellas County,Feather Sound,8/31/2022,20.2
+Zip,33763,FL,Pinellas County,Clearwater,8/31/2022,21
+Zip,33764,FL,Pinellas County,Clearwater,8/31/2022,24.7
+Zip,33765,FL,Pinellas County,Clearwater,8/31/2022,22.3
+Zip,33767,FL,Pinellas County,Clearwater,8/31/2022,19.4
+Zip,33770,FL,Pinellas County,Largo,8/31/2022,24
+Zip,33771,FL,Pinellas County,Largo,8/31/2022,22
+Zip,33772,FL,Pinellas County,Seminole,8/31/2022,22.7
+Zip,33773,FL,Pinellas County,Largo,8/31/2022,21.9
+Zip,33774,FL,Pinellas County,Largo,8/31/2022,22.6
+Zip,33776,FL,Pinellas County,Seminole,8/31/2022,21.9
+Zip,33777,FL,Pinellas County,Seminole,8/31/2022,23.6
+Zip,33778,FL,Pinellas County,Largo,8/31/2022,21.6
+Zip,33781,FL,Pinellas County,Pinellas Park,8/31/2022,21.7
+Zip,33782,FL,Pinellas County,Pinellas Park,8/31/2022,23
+Zip,33785,FL,Pinellas County,Indian Rocks Beach,8/31/2022,20.5
+Zip,33786,FL,Pinellas County,Belleair Beach,8/31/2022,19.8
+Zip,33848,FL,Osceola County,Kissimmee,8/31/2022,15.2
+Zip,33896,FL,Osceola County,Citrus Ridge,8/31/2022,11.1
+Zip,34601,FL,Hernando County,Brooksville,8/31/2022,24.5
+Zip,34602,FL,Hernando County,Brooksville,8/31/2022,22.1
+Zip,34604,FL,Hernando County,Spring Hill,8/31/2022,21.9
+Zip,34606,FL,Hernando County,Spring Hill,8/31/2022,24.2
+Zip,34607,FL,Hernando County,Hernando Beach,8/31/2022,22.7
+Zip,34608,FL,Hernando County,Spring Hill,8/31/2022,23.9
+Zip,34609,FL,Hernando County,Spring Hill,8/31/2022,23
+Zip,34610,FL,Pasco County,Shady Hills,8/31/2022,24
+Zip,34613,FL,Hernando County,North Weeki Wachee,8/31/2022,23.1
+Zip,34614,FL,Hernando County,Brooksville,8/31/2022,23
+Zip,34637,FL,Pasco County,Land O Lakes,8/31/2022,22.6
+Zip,34638,FL,Pasco County,Land O Lakes,8/31/2022,22.9
+Zip,34639,FL,Pasco County,Land O Lakes,8/31/2022,22.8
+Zip,34652,FL,Pasco County,New Port Richey,8/31/2022,25.8
+Zip,34653,FL,Pasco County,New Port Richey,8/31/2022,24.8
+Zip,34654,FL,Pasco County,New Port Richey,8/31/2022,23.3
+Zip,34655,FL,Pasco County,New Port Richey,8/31/2022,22.7
+Zip,34661,FL,Sumter County,Bushnell,8/31/2022,25.2
+Zip,34667,FL,Pasco County,Hudson,8/31/2022,24.3
+Zip,34668,FL,Pasco County,Port Richey,8/31/2022,25.9
+Zip,34669,FL,Pasco County,Hudson,8/31/2022,24.1
+Zip,34677,FL,Pinellas County,Oldsmar,8/31/2022,20.9
+Zip,34681,FL,Pinellas County,Palm Harbor,8/31/2022,18.8
+Zip,34683,FL,Pinellas County,Palm Harbor,8/31/2022,21.7
+Zip,34684,FL,Pinellas County,Palm Harbor,8/31/2022,21
+Zip,34685,FL,Pinellas County,Palm Harbor,8/31/2022,20.5
+Zip,34688,FL,Pinellas County,Tarpon Springs,8/31/2022,22.2
+Zip,34689,FL,Pinellas County,Tarpon Springs,8/31/2022,22.7
+Zip,34690,FL,Pasco County,Holiday,8/31/2022,26.2
+Zip,34691,FL,Pasco County,Holiday,8/31/2022,26.9
+Zip,34695,FL,Pinellas County,Safety Harbor,8/31/2022,22.1
+Zip,34698,FL,Pinellas County,Dunedin,8/31/2022,23.1
+Zip,34705,FL,Lake County,Astatula,8/31/2022,13
+Zip,34711,FL,Lake County,Clermont,8/31/2022,11.9
+Zip,34714,FL,Osceola County,Citrus Ridge,8/31/2022,12
+Zip,34715,FL,Lake County,Clermont,8/31/2022,12.6
+Zip,34729,FL,Lake County,Ferndale,8/31/2022,16.2
+Zip,34731,FL,Lake County,Fruitland Park,8/31/2022,12.8
+Zip,34734,FL,Orange County,Gotha,8/31/2022,11.6
+Zip,34736,FL,Lake County,Groveland,8/31/2022,12.2
+Zip,34737,FL,Lake County,Howey in the Hills,8/31/2022,12.1
+Zip,34739,FL,Osceola County,Kenansville,8/31/2022,13.1
+Zip,34741,FL,Osceola County,Kissimmee,8/31/2022,12.7
+Zip,34743,FL,Osceola County,Kissimmee,8/31/2022,12.4
+Zip,34744,FL,Osceola County,Kissimmee,8/31/2022,12.1
+Zip,34746,FL,Osceola County,Kissimmee,8/31/2022,12.1
+Zip,34747,FL,Osceola County,Citrus Ridge,8/31/2022,10.9
+Zip,34748,FL,Lake County,Leesburg,8/31/2022,12.1
+Zip,34753,FL,Lake County,Mascotte,8/31/2022,13.5
+Zip,34756,FL,Lake County,Montverde,8/31/2022,12.2
+Zip,34758,FL,Polk County,Poinciana,8/31/2022,12.7
+Zip,34760,FL,Orange County,Oakland,8/31/2022,11.7
+Zip,34761,FL,Orange County,Ocoee,8/31/2022,11.9
+Zip,34762,FL,Lake County,Leesburg,8/31/2022,13.3
+Zip,34769,FL,Osceola County,Saint Cloud,8/31/2022,12.6
+Zip,34771,FL,Osceola County,Saint Cloud,8/31/2022,12.2
+Zip,34772,FL,Osceola County,Saint Cloud,8/31/2022,12.4
+Zip,34773,FL,Osceola County,Saint Cloud,8/31/2022,12.1
+Zip,34786,FL,Orange County,Windermere,8/31/2022,11.4
+Zip,34787,FL,Orange County,Winter Garden,8/31/2022,12
+Zip,34788,FL,Lake County,Leesburg,8/31/2022,13.1
+Zip,34797,FL,Lake County,Yalaha,8/31/2022,11.9
+Zip,37013,TN,Davidson County,Nashville,8/31/2022,14.2
+Zip,37014,TN,Williamson County,Arrington,8/31/2022,16.8
+Zip,37015,TN,Cheatham County,Ashland City,8/31/2022,17
+Zip,37016,TN,Cannon County,Auburntown,8/31/2022,11.5
+Zip,37020,TN,Bedford County,Bell Buckle,8/31/2022,16.1
+Zip,37022,TN,Sumner County,Bethpage,8/31/2022,16.8
+Zip,37025,TN,Hickman County,Bon Aqua,8/31/2022,11.2
+Zip,37026,TN,Cannon County,Bradyville,8/31/2022,10.2
+Zip,37027,TN,Williamson County,Brentwood,8/31/2022,15.5
+Zip,37029,TN,Dickson County,Burns,8/31/2022,15.8
+Zip,37030,TN,Smith County,Carthage,8/31/2022,10
+Zip,37031,TN,Sumner County,Castalian Springs,8/31/2022,13.8
+Zip,37032,TN,Robertson County,Cedar Hill,8/31/2022,16.3
+Zip,37033,TN,Hickman County,Centerville,8/31/2022,9.1
+Zip,37035,TN,Cheatham County,Chapmansboro,8/31/2022,17.2
+Zip,37036,TN,Dickson County,Charlotte,8/31/2022,15.2
+Zip,37037,TN,Rutherford County,Christiana,8/31/2022,18.5
+Zip,37046,TN,Williamson County,College Grove,8/31/2022,17
+Zip,37048,TN,Sumner County,Walnut Grove,8/31/2022,15.4
+Zip,37049,TN,Robertson County,Cross Plains,8/31/2022,16.8
+Zip,37051,TN,Montgomery County,Cunningham,8/31/2022,18.9
+Zip,37055,TN,Dickson County,Dickson,8/31/2022,19.2
+Zip,37057,TN,Macon County,Dixon Springs,8/31/2022,9.7
+Zip,37060,TN,Rutherford County,Eagleville,8/31/2022,19
+Zip,37062,TN,Williamson County,Fairview,8/31/2022,15.4
+Zip,37064,TN,Williamson County,Franklin,8/31/2022,16.4
+Zip,37066,TN,Sumner County,Gallatin,8/31/2022,14.9
+Zip,37067,TN,Williamson County,Franklin,8/31/2022,16.4
+Zip,37069,TN,Williamson County,Franklin,8/31/2022,16.4
+Zip,37072,TN,Davidson County,Goodlettsville,8/31/2022,14.7
+Zip,37073,TN,Robertson County,Greenbrier,8/31/2022,15
+Zip,37074,TN,Trousdale County,Hartsville,8/31/2022,10
+Zip,37075,TN,Sumner County,Hendersonville,8/31/2022,15
+Zip,37076,TN,Davidson County,Nashville,8/31/2022,14.1
+Zip,37080,TN,Davidson County,Nashville,8/31/2022,14.8
+Zip,37082,TN,Cheatham County,Kingston Springs,8/31/2022,17.2
+Zip,37083,TN,Macon County,Lafayette,8/31/2022,9
+Zip,37085,TN,Rutherford County,Lascassas,8/31/2022,18.3
+Zip,37086,TN,Rutherford County,La Vergne,8/31/2022,17.9
+Zip,37087,TN,Wilson County,Lebanon,8/31/2022,15.6
+Zip,37090,TN,Wilson County,Lebanon,8/31/2022,15.8
+Zip,37098,TN,Hickman County,Lyles,8/31/2022,8.6
+Zip,37115,TN,Davidson County,Nashville,8/31/2022,14.5
+Zip,37118,TN,Rutherford County,Milton,8/31/2022,19.2
+Zip,37122,TN,Wilson County,Mount Juliet,8/31/2022,15.1
+Zip,37127,TN,Rutherford County,Murfreesboro,8/31/2022,17.9
+Zip,37128,TN,Rutherford County,Murfreesboro,8/31/2022,18.2
+Zip,37129,TN,Rutherford County,Murfreesboro,8/31/2022,18.5
+Zip,37130,TN,Rutherford County,Murfreesboro,8/31/2022,18
+Zip,37135,TN,Williamson County,Nolensville,8/31/2022,16.2
+Zip,37137,TN,Hickman County,Nunnelly,8/31/2022,8.7
+Zip,37138,TN,Davidson County,Nashville,8/31/2022,14.1
+Zip,37140,TN,Hickman County,Only,8/31/2022,5.4
+Zip,37141,TN,Robertson County,Orlinda,8/31/2022,15.3
+Zip,37143,TN,Cheatham County,Pegram,8/31/2022,17.1
+Zip,37145,TN,Smith County,Pleasant Shade,8/31/2022,10.2
+Zip,37146,TN,Cheatham County,Pleasant View,8/31/2022,16.7
+Zip,37148,TN,Sumner County,Portland,8/31/2022,16
+Zip,37149,TN,Rutherford County,Readyville,8/31/2022,14.3
+Zip,37150,TN,Macon County,Red Boiling Springs,8/31/2022,9.6
+Zip,37151,TN,Smith County,Riddleton,8/31/2022,10.6
+Zip,37153,TN,Rutherford County,Rockvale,8/31/2022,18.8
+Zip,37167,TN,Rutherford County,Smyrna,8/31/2022,18.4
+Zip,37172,TN,Robertson County,Springfield,8/31/2022,15.3
+Zip,37174,TN,Maury County,Spring Hill,8/31/2022,16.7
+Zip,37179,TN,Williamson County,Thompsons Station,8/31/2022,16.7
+Zip,37181,TN,Dickson County,Vanleer,8/31/2022,13.6
+Zip,37184,TN,Wilson County,Watertown,8/31/2022,16
+Zip,37186,TN,Sumner County,Westmoreland,8/31/2022,14.6
+Zip,37187,TN,Dickson County,White Bluff,8/31/2022,18
+Zip,37188,TN,Robertson County,White House,8/31/2022,15.3
+Zip,37189,TN,Davidson County,Nashville,8/31/2022,14.1
+Zip,37190,TN,Cannon County,Woodbury,8/31/2022,10.2
+Zip,37201,TN,Davidson County,Nashville,8/31/2022,10.2
+Zip,37203,TN,Davidson County,Nashville,8/31/2022,11.4
+Zip,37204,TN,Davidson County,Nashville,8/31/2022,13.2
+Zip,37205,TN,Davidson County,Nashville,8/31/2022,13.1
+Zip,37206,TN,Davidson County,Nashville,8/31/2022,13
+Zip,37207,TN,Davidson County,Nashville,8/31/2022,15.1
+Zip,37208,TN,Davidson County,Nashville,8/31/2022,14.9
+Zip,37209,TN,Davidson County,Nashville,8/31/2022,13.3
+Zip,37210,TN,Davidson County,Nashville,8/31/2022,13.7
+Zip,37211,TN,Davidson County,Nashville,8/31/2022,13.8
+Zip,37212,TN,Davidson County,Nashville,8/31/2022,12.1
+Zip,37214,TN,Davidson County,Nashville,8/31/2022,14.8
+Zip,37215,TN,Davidson County,Nashville,8/31/2022,13.3
+Zip,37216,TN,Davidson County,Nashville,8/31/2022,13.8
+Zip,37217,TN,Davidson County,Nashville,8/31/2022,14.6
+Zip,37218,TN,Davidson County,Nashville,8/31/2022,14.4
+Zip,37219,TN,Davidson County,Nashville,8/31/2022,10
+Zip,37220,TN,Davidson County,Nashville,8/31/2022,12.6
+Zip,37221,TN,Davidson County,Nashville,8/31/2022,13.5
+Zip,38401,TN,Maury County,Columbia,8/31/2022,17.4
+Zip,38451,TN,Maury County,Culleoka,8/31/2022,17.2
+Zip,38454,TN,Hickman County,Duck River,8/31/2022,9.8
+Zip,38474,TN,Maury County,Mount Pleasant,8/31/2022,15.2
+Zip,38476,TN,Williamson County,Primm Springs,8/31/2022,17.5
+Zip,38482,TN,Maury County,Santa Fe,8/31/2022,15
+Zip,38487,TN,Maury County,Williamsport,8/31/2022,15.4
+Zip,38547,TN,Smith County,South Carthage,8/31/2022,10
+Zip,38552,TN,Smith County,Chestnut Mound,8/31/2022,10
+Zip,38560,TN,Smith County,Elmwood,8/31/2022,10.7
+Zip,38563,TN,Smith County,Gordonsville,8/31/2022,9.7
+Zip,38567,TN,Smith County,Hickman,8/31/2022,10.7
+Zip,41001,KY,Campbell County,Alexandria,8/31/2022,10.9
+Zip,41002,KY,Bracken County,Augusta,8/31/2022,7.5
+Zip,41004,KY,Bracken County,Brooksville,8/31/2022,7.5
+Zip,41005,KY,Boone County,Burlington,8/31/2022,10.6
+Zip,41006,KY,Pendleton County,Butler,8/31/2022,8.4
+Zip,41007,KY,Campbell County,Mentor,8/31/2022,11.9
+Zip,41010,KY,Owen County,Corinth,8/31/2022,8
+Zip,41011,KY,Kenton County,Covington,8/31/2022,10.2
+Zip,41014,KY,Kenton County,Covington,8/31/2022,13.4
+Zip,41015,KY,Kenton County,Covington,8/31/2022,10.2
+Zip,41016,KY,Kenton County,Ludlow,8/31/2022,10.4
+Zip,41017,KY,Kenton County,Edgewood,8/31/2022,10.1
+Zip,41018,KY,Kenton County,Erlanger,8/31/2022,11
+Zip,41030,KY,Grant County,Crittenden,8/31/2022,8.2
+Zip,41033,KY,Pendleton County,Demossville,8/31/2022,9.8
+Zip,41035,KY,Grant County,Dry Ridge,8/31/2022,8
+Zip,41040,KY,Pendleton County,Falmouth,8/31/2022,7.8
+Zip,41042,KY,Boone County,Florence,8/31/2022,10.8
+Zip,41043,KY,Bracken County,Foster,8/31/2022,8.3
+Zip,41048,KY,Boone County,Hebron,8/31/2022,10.3
+Zip,41051,KY,Kenton County,Independence,8/31/2022,10.5
+Zip,41052,KY,Grant County,Dry Ridge,8/31/2022,8.9
+Zip,41059,KY,Campbell County,Melbourne,8/31/2022,12.4
+Zip,41063,KY,Kenton County,Morning View,8/31/2022,10.8
+Zip,41071,KY,Campbell County,Newport,8/31/2022,12.4
+Zip,41073,KY,Campbell County,Bellevue,8/31/2022,13.1
+Zip,41074,KY,Campbell County,Dayton,8/31/2022,9.3
+Zip,41075,KY,Campbell County,Fort Thomas,8/31/2022,10.5
+Zip,41076,KY,Campbell County,Cold Spring,8/31/2022,10.7
+Zip,41080,KY,Boone County,Petersburg,8/31/2022,13.4
+Zip,41085,KY,Campbell County,Silver Grove,8/31/2022,10.6
+Zip,41086,KY,Gallatin County,Warsaw,8/31/2022,8.9
+Zip,41091,KY,Boone County,Union,8/31/2022,10
+Zip,41092,KY,Boone County,Verona,8/31/2022,10
+Zip,41094,KY,Boone County,Walton,8/31/2022,10.6
+Zip,41095,KY,Gallatin County,Warsaw,8/31/2022,8.9
+Zip,41097,KY,Grant County,Williamstown,8/31/2022,7.8
+Zip,45001,OH,Hamilton County,Addyston,8/31/2022,10.3
+Zip,45002,OH,Hamilton County,Cleves,8/31/2022,12.6
+Zip,45005,OH,Warren County,Franklin,8/31/2022,11.6
+Zip,45011,OH,Butler County,Hamilton,8/31/2022,13.2
+Zip,45013,OH,Butler County,Hamilton,8/31/2022,12.7
+Zip,45014,OH,Butler County,Fairfield,8/31/2022,12.8
+Zip,45015,OH,Butler County,Hamilton,8/31/2022,14.2
+Zip,45030,OH,Hamilton County,Harrison,8/31/2022,13.3
+Zip,45032,OH,Warren County,Harveysburg,8/31/2022,12.2
+Zip,45033,OH,Hamilton County,Cleves,8/31/2022,17.6
+Zip,45034,OH,Warren County,Kings Mills,8/31/2022,11.2
+Zip,45036,OH,Warren County,Lebanon,8/31/2022,11.5
+Zip,45039,OH,Warren County,Maineville,8/31/2022,11.2
+Zip,45040,OH,Warren County,Mason,8/31/2022,10.7
+Zip,45041,OH,Hamilton County,Cleves,8/31/2022,13.6
+Zip,45042,OH,Butler County,Middletown,8/31/2022,14
+Zip,45044,OH,Butler County,Middletown,8/31/2022,13.2
+Zip,45050,OH,Butler County,Monroe,8/31/2022,13
+Zip,45052,OH,Hamilton County,North Bend,8/31/2022,12
+Zip,45053,OH,Butler County,Okeana,8/31/2022,12.6
+Zip,45054,OH,Warren County,Oregonia,8/31/2022,11.7
+Zip,45056,OH,Butler County,Oxford,8/31/2022,11.9
+Zip,45062,OH,Butler County,Seven Mile,8/31/2022,15.6
+Zip,45064,OH,Butler County,Somerville,8/31/2022,10.9
+Zip,45065,OH,Warren County,South Lebanon,8/31/2022,11.1
+Zip,45066,OH,Warren County,Springboro,8/31/2022,10.6
+Zip,45067,OH,Butler County,Trenton,8/31/2022,12.9
+Zip,45068,OH,Warren County,Waynesville,8/31/2022,11.4
+Zip,45069,OH,Butler County,West Chester,8/31/2022,12.9
+Zip,45101,OH,Brown County,Aberdeen,8/31/2022,9
+Zip,45102,OH,Clermont County,Amelia,8/31/2022,12.5
+Zip,45103,OH,Clermont County,Batavia,8/31/2022,11.8
+Zip,45106,OH,Clermont County,Bethel,8/31/2022,11.4
+Zip,45111,OH,Hamilton County,Camp Dennison,8/31/2022,13.9
+Zip,45112,OH,Clermont County,Chilo,8/31/2022,5.5
+Zip,45118,OH,Brown County,Fayetteville,8/31/2022,9.7
+Zip,45120,OH,Clermont County,Felicity,8/31/2022,10.7
+Zip,45121,OH,Brown County,Georgetown,8/31/2022,9.3
+Zip,45122,OH,Clermont County,Goshen,8/31/2022,11.6
+Zip,45130,OH,Brown County,Hamersville,8/31/2022,9.5
+Zip,45131,OH,Brown County,Higginsport,8/31/2022,11.9
+Zip,45140,OH,Clermont County,Loveland,8/31/2022,11.3
+Zip,45147,OH,Clermont County,Loveland,8/31/2022,12.3
+Zip,45150,OH,Clermont County,Milford,8/31/2022,12.1
+Zip,45152,OH,Warren County,Morrow,8/31/2022,11.6
+Zip,45153,OH,Clermont County,Moscow,8/31/2022,13.4
+Zip,45154,OH,Brown County,Mount Orab,8/31/2022,9.1
+Zip,45156,OH,Clermont County,Moscow,8/31/2022,4.3
+Zip,45157,OH,Clermont County,New Richmond,8/31/2022,12.3
+Zip,45158,OH,Clermont County,Goshen,8/31/2022,10.7
+Zip,45160,OH,Clermont County,Owensville,8/31/2022,12.8
+Zip,45162,OH,Clermont County,Goshen,8/31/2022,11.4
+Zip,45167,OH,Brown County,Ripley,8/31/2022,8.5
+Zip,45168,OH,Brown County,Russellville,8/31/2022,9.7
+Zip,45171,OH,Brown County,Sardinia,8/31/2022,9.2
+Zip,45174,OH,Hamilton County,Terrace Park,8/31/2022,11.8
+Zip,45176,OH,Clermont County,Williamsburg,8/31/2022,10.9
+Zip,45202,OH,Hamilton County,Cincinnati,8/31/2022,11.3
+Zip,45203,OH,Hamilton County,Cincinnati,8/31/2022,12.8
+Zip,45204,OH,Hamilton County,Cincinnati,8/31/2022,15.6
+Zip,45205,OH,Hamilton County,Cincinnati,8/31/2022,17
+Zip,45206,OH,Hamilton County,Cincinnati,8/31/2022,13.4
+Zip,45207,OH,Hamilton County,Cincinnati,8/31/2022,19.6
+Zip,45208,OH,Hamilton County,Cincinnati,8/31/2022,11.3
+Zip,45209,OH,Hamilton County,Cincinnati,8/31/2022,11.2
+Zip,45211,OH,Hamilton County,Cincinnati,8/31/2022,14.8
+Zip,45212,OH,Hamilton County,Norwood,8/31/2022,14.5
+Zip,45213,OH,Hamilton County,Cincinnati,8/31/2022,13.7
+Zip,45214,OH,Hamilton County,Cincinnati,8/31/2022,17.1
+Zip,45215,OH,Hamilton County,Wyoming,8/31/2022,13.5
+Zip,45216,OH,Hamilton County,Cincinnati,8/31/2022,15.2
+Zip,45217,OH,Hamilton County,Saint Bernard,8/31/2022,14.3
+Zip,45218,OH,Hamilton County,Greenhills,8/31/2022,14.8
+Zip,45219,OH,Hamilton County,Cincinnati,8/31/2022,12.7
+Zip,45220,OH,Hamilton County,Cincinnati,8/31/2022,12.6
+Zip,45223,OH,Hamilton County,Cincinnati,8/31/2022,14.3
+Zip,45224,OH,Hamilton County,Cincinnati,8/31/2022,14.1
+Zip,45225,OH,Hamilton County,Cincinnati,8/31/2022,17.6
+Zip,45226,OH,Hamilton County,Cincinnati,8/31/2022,11.5
+Zip,45227,OH,Hamilton County,Cincinnati,8/31/2022,14.1
+Zip,45229,OH,Hamilton County,Cincinnati,8/31/2022,13.8
+Zip,45230,OH,Hamilton County,Cincinnati,8/31/2022,13
+Zip,45231,OH,Hamilton County,Finneytown,8/31/2022,14.1
+Zip,45232,OH,Hamilton County,Cincinnati,8/31/2022,15.4
+Zip,45233,OH,Hamilton County,Cincinnati,8/31/2022,12.3
+Zip,45236,OH,Hamilton County,Deer Park,8/31/2022,13.5
+Zip,45237,OH,Hamilton County,Cincinnati,8/31/2022,15.4
+Zip,45238,OH,Hamilton County,Cincinnati,8/31/2022,14.7
+Zip,45239,OH,Hamilton County,White Oak,8/31/2022,14.4
+Zip,45240,OH,Hamilton County,Forest Park,8/31/2022,14.5
+Zip,45241,OH,Hamilton County,Sharonville,8/31/2022,12.9
+Zip,45242,OH,Hamilton County,Blue Ash,8/31/2022,11.9
+Zip,45243,OH,Hamilton County,Madeira,8/31/2022,11.5
+Zip,45244,OH,Hamilton County,Dry Run,8/31/2022,12
+Zip,45245,OH,Hamilton County,Cincinnati,8/31/2022,11.8
+Zip,45246,OH,Hamilton County,Springdale,8/31/2022,13.5
+Zip,45247,OH,Hamilton County,White Oak,8/31/2022,12.8
+Zip,45248,OH,Hamilton County,Bridgetown,8/31/2022,13.1
+Zip,45249,OH,Hamilton County,Montgomery,8/31/2022,11.1
+Zip,45251,OH,Hamilton County,Northgate,8/31/2022,14.2
+Zip,45252,OH,Hamilton County,Harrison,8/31/2022,12.8
+Zip,45255,OH,Hamilton County,Cincinnati,8/31/2022,12.6
+Zip,47001,IN,Dearborn County,Aurora,8/31/2022,8.5
+Zip,47003,IN,Union County,West College Corner,8/31/2022,7.6
+Zip,47018,IN,Dearborn County,Dillsboro,8/31/2022,8.7
+Zip,47022,IN,Dearborn County,Guilford,8/31/2022,8.8
+Zip,47025,IN,Dearborn County,Hidden Valley,8/31/2022,8.5
+Zip,47032,IN,Dearborn County,Moores Hill,8/31/2022,8.6
+Zip,47040,IN,Ohio County,Rising Sun,8/31/2022,8.6
+Zip,47060,IN,Dearborn County,West Harrison,8/31/2022,8.3
+Zip,47325,IN,Union County,Brownsville,8/31/2022,12.2
+Zip,47353,IN,Union County,Liberty,8/31/2022,9.5
+Zip,54002,WI,Saint Croix County,Baldwin,8/31/2022,10
+Zip,54003,WI,Pierce County,Beldenville,8/31/2022,6.6
+Zip,54007,WI,Saint Croix County,Deer Park,8/31/2022,10.4
+Zip,54011,WI,Pierce County,Ellsworth,8/31/2022,6.4
+Zip,54013,WI,Saint Croix County,Glenwood City,8/31/2022,9.8
+Zip,54014,WI,Pierce County,Hager City,8/31/2022,6.3
+Zip,54015,WI,Saint Croix County,Hammond,8/31/2022,9.2
+Zip,54016,WI,Saint Croix County,Hudson,8/31/2022,9.1
+Zip,54017,WI,Saint Croix County,New Richmond,8/31/2022,9.4
+Zip,54021,WI,Pierce County,Prescott,8/31/2022,6.4
+Zip,54022,WI,Pierce County,River Falls,8/31/2022,7.3
+Zip,54023,WI,Saint Croix County,Roberts,8/31/2022,9
+Zip,54025,WI,Saint Croix County,Somerset,8/31/2022,9.9
+Zip,54027,WI,Saint Croix County,Wilson,8/31/2022,9.2
+Zip,54028,WI,Saint Croix County,Woodville,8/31/2022,9.7
+Zip,54082,WI,Saint Croix County,Houlton,8/31/2022,8.9
+Zip,54723,WI,Pierce County,Bay City,8/31/2022,6.3
+Zip,54740,WI,Pierce County,Elmwood,8/31/2022,7.1
+Zip,54750,WI,Pierce County,Maiden Rock,8/31/2022,6.3
+Zip,54761,WI,Pierce County,Plum City,8/31/2022,6.5
+Zip,54767,WI,Pierce County,Spring Valley,8/31/2022,6.7
+Zip,55001,MN,Washington County,Afton,8/31/2022,10.2
+Zip,55003,MN,Washington County,Bayport,8/31/2022,9.3
+Zip,55005,MN,Anoka County,East Bethel,8/31/2022,9.8
+Zip,55008,MN,Isanti County,Cambridge,8/31/2022,8.7
+Zip,55011,MN,Anoka County,East Bethel,8/31/2022,9.6
+Zip,55012,MN,Chisago County,Center City,8/31/2022,9.1
+Zip,55013,MN,Chisago County,Chisago City,8/31/2022,9.9
+Zip,55014,MN,Anoka County,Lino Lakes,8/31/2022,9.1
+Zip,55016,MN,Washington County,Cottage Grove,8/31/2022,9.5
+Zip,55017,MN,Isanti County,Dalbo,8/31/2022,10.3
+Zip,55020,MN,Scott County,Elko New Market,8/31/2022,8.2
+Zip,55024,MN,Dakota County,Farmington,8/31/2022,8.4
+Zip,55025,MN,Washington County,Forest Lake,8/31/2022,9.6
+Zip,55029,MN,Isanti County,Cambridge,8/31/2022,8
+Zip,55031,MN,Dakota County,Hampton,8/31/2022,8.8
+Zip,55032,MN,Chisago County,Harris,8/31/2022,9.4
+Zip,55033,MN,Dakota County,Hastings,8/31/2022,8.8
+Zip,55038,MN,Washington County,Hugo,8/31/2022,8.9
+Zip,55040,MN,Isanti County,Isanti,8/31/2022,8.6
+Zip,55042,MN,Washington County,Lake Elmo,8/31/2022,9.1
+Zip,55043,MN,Washington County,Lakeland,8/31/2022,8.7
+Zip,55044,MN,Dakota County,Lakeville,8/31/2022,8.1
+Zip,55045,MN,Chisago County,Lindstrom,8/31/2022,9.3
+Zip,55047,MN,Washington County,Marine on Saint Croix,8/31/2022,9.9
+Zip,55054,MN,Scott County,Elko New Market,8/31/2022,8.4
+Zip,55055,MN,Washington County,Newport,8/31/2022,10.6
+Zip,55056,MN,Chisago County,North Branch,8/31/2022,9.5
+Zip,55065,MN,Dakota County,Randolph,8/31/2022,9
+Zip,55068,MN,Dakota County,Rosemount,8/31/2022,8.2
+Zip,55069,MN,Chisago County,Rush City,8/31/2022,8.8
+Zip,55070,MN,Anoka County,Saint Francis,8/31/2022,10.1
+Zip,55071,MN,Washington County,Saint Paul Park,8/31/2022,10.1
+Zip,55073,MN,Washington County,Scandia,8/31/2022,10.2
+Zip,55074,MN,Chisago County,Shafer,8/31/2022,8.9
+Zip,55075,MN,Dakota County,South Saint Paul,8/31/2022,8.5
+Zip,55076,MN,Dakota County,Inver Grove Heights,8/31/2022,8.5
+Zip,55077,MN,Dakota County,Inver Grove Heights,8/31/2022,8
+Zip,55079,MN,Chisago County,Stacy,8/31/2022,9.5
+Zip,55080,MN,Isanti County,Stanchfield,8/31/2022,10.4
+Zip,55082,MN,Washington County,Stillwater,8/31/2022,9.5
+Zip,55084,MN,Chisago County,Taylors Falls,8/31/2022,9.6
+Zip,55085,MN,Dakota County,Vermillion,8/31/2022,8.2
+Zip,55090,MN,Washington County,Willernie,8/31/2022,10
+Zip,55092,MN,Chisago County,Wyoming,8/31/2022,9.6
+Zip,55101,MN,Ramsey County,Saint Paul,8/31/2022,6.5
+Zip,55102,MN,Ramsey County,Saint Paul,8/31/2022,8.5
+Zip,55103,MN,Ramsey County,Saint Paul,8/31/2022,9.8
+Zip,55104,MN,Ramsey County,Saint Paul,8/31/2022,8.7
+Zip,55105,MN,Ramsey County,Saint Paul,8/31/2022,7.8
+Zip,55106,MN,Ramsey County,Saint Paul,8/31/2022,9.6
+Zip,55107,MN,Ramsey County,Saint Paul,8/31/2022,9.6
+Zip,55108,MN,Ramsey County,Saint Paul,8/31/2022,8.9
+Zip,55109,MN,Ramsey County,Maplewood,8/31/2022,8.9
+Zip,55110,MN,Ramsey County,White Bear Lake,8/31/2022,9.3
+Zip,55112,MN,Ramsey County,New Brighton,8/31/2022,8.9
+Zip,55113,MN,Ramsey County,Roseville,8/31/2022,8.4
+Zip,55114,MN,Ramsey County,Saint Paul,8/31/2022,7.4
+Zip,55115,MN,Washington County,Mahtomedi,8/31/2022,8.9
+Zip,55116,MN,Ramsey County,Saint Paul,8/31/2022,8
+Zip,55117,MN,Ramsey County,Saint Paul,8/31/2022,9.3
+Zip,55118,MN,Dakota County,West Saint Paul,8/31/2022,7.7
+Zip,55119,MN,Ramsey County,Saint Paul,8/31/2022,9.7
+Zip,55120,MN,Dakota County,Mendota Heights,8/31/2022,7.5
+Zip,55121,MN,Dakota County,Eagan,8/31/2022,8.1
+Zip,55122,MN,Dakota County,Eagan,8/31/2022,8.2
+Zip,55123,MN,Dakota County,Eagan,8/31/2022,8
+Zip,55124,MN,Dakota County,Apple Valley,8/31/2022,8.3
+Zip,55125,MN,Washington County,Woodbury,8/31/2022,9.2
+Zip,55126,MN,Ramsey County,Shoreview,8/31/2022,9.2
+Zip,55127,MN,Ramsey County,Vadnais Heights,8/31/2022,8.7
+Zip,55128,MN,Washington County,Oakdale,8/31/2022,9.3
+Zip,55129,MN,Washington County,Woodbury,8/31/2022,8.9
+Zip,55130,MN,Ramsey County,Saint Paul,8/31/2022,10.1
+Zip,55150,MN,Dakota County,Mendota,8/31/2022,8.2
+Zip,55301,MN,Wright County,Albertville,8/31/2022,8.3
+Zip,55302,MN,Wright County,Annandale,8/31/2022,8.3
+Zip,55303,MN,Anoka County,Ramsey,8/31/2022,9.7
+Zip,55304,MN,Anoka County,Andover,8/31/2022,9.4
+Zip,55305,MN,Hennepin County,Minnetonka,8/31/2022,7.5
+Zip,55306,MN,Dakota County,Burnsville,8/31/2022,8.3
+Zip,55307,MN,Sibley County,Arlington,8/31/2022,6.8
+Zip,55308,MN,Sherburne County,Becker,8/31/2022,8.4
+Zip,55309,MN,Sherburne County,Big Lake,8/31/2022,9.1
+Zip,55311,MN,Hennepin County,Maple Grove,8/31/2022,7.9
+Zip,55313,MN,Wright County,Buffalo,8/31/2022,8.4
+Zip,55315,MN,Carver County,Carver,8/31/2022,8.1
+Zip,55316,MN,Hennepin County,Champlin,8/31/2022,8.1
+Zip,55317,MN,Carver County,Chanhassen,8/31/2022,7.8
+Zip,55318,MN,Carver County,Chaska,8/31/2022,8
+Zip,55319,MN,Sherburne County,Clear Lake,8/31/2022,8.5
+Zip,55320,MN,Wright County,Clearwater,8/31/2022,9.2
+Zip,55321,MN,Wright County,Cokato,8/31/2022,9
+Zip,55322,MN,Carver County,Cologne,8/31/2022,8.4
+Zip,55327,MN,Hennepin County,Dayton,8/31/2022,7.4
+Zip,55328,MN,Wright County,Delano,8/31/2022,8.1
+Zip,55330,MN,Sherburne County,Elk River,8/31/2022,8.7
+Zip,55331,MN,Hennepin County,Shorewood,8/31/2022,7.7
+Zip,55334,MN,Sibley County,Gaylord,8/31/2022,5.6
+Zip,55335,MN,Sibley County,Gibbon,8/31/2022,6.6
+Zip,55337,MN,Dakota County,Burnsville,8/31/2022,8.4
+Zip,55338,MN,Sibley County,Green Isle,8/31/2022,7.1
+Zip,55339,MN,Carver County,Hamburg,8/31/2022,8.5
+Zip,55340,MN,Hennepin County,Medina,8/31/2022,7.3
+Zip,55341,MN,Wright County,Hanover,8/31/2022,7.8
+Zip,55343,MN,Hennepin County,Hopkins,8/31/2022,7.9
+Zip,55344,MN,Hennepin County,Eden Prairie,8/31/2022,7.3
+Zip,55345,MN,Hennepin County,Minnetonka,8/31/2022,7.7
+Zip,55346,MN,Hennepin County,Eden Prairie,8/31/2022,8.1
+Zip,55347,MN,Hennepin County,Eden Prairie,8/31/2022,7.9
+Zip,55349,MN,Wright County,Howard Lake,8/31/2022,8.9
+Zip,55352,MN,Scott County,Jordan,8/31/2022,8.9
+Zip,55356,MN,Hennepin County,Orono,8/31/2022,8.5
+Zip,55357,MN,Hennepin County,Greenfield,8/31/2022,8.2
+Zip,55358,MN,Wright County,Maple Lake,8/31/2022,8.5
+Zip,55359,MN,Hennepin County,Independence,8/31/2022,8.4
+Zip,55360,MN,Carver County,Mayer,8/31/2022,9
+Zip,55362,MN,Wright County,Monticello,8/31/2022,8.5
+Zip,55363,MN,Wright County,Montrose,8/31/2022,8.4
+Zip,55364,MN,Hennepin County,Mound,8/31/2022,8.5
+Zip,55366,MN,Sibley County,New Auburn,8/31/2022,7.2
+Zip,55367,MN,Carver County,New Germany,8/31/2022,9.2
+Zip,55368,MN,Carver County,Norwood Young America,8/31/2022,9.4
+Zip,55369,MN,Hennepin County,Maple Grove,8/31/2022,8
+Zip,55371,MN,Mille Lacs County,Princeton,8/31/2022,8.3
+Zip,55372,MN,Scott County,Prior Lake,8/31/2022,8.2
+Zip,55373,MN,Wright County,Rockford,8/31/2022,8.2
+Zip,55374,MN,Hennepin County,Rogers,8/31/2022,8
+Zip,55375,MN,Hennepin County,Saint Bonifacius,8/31/2022,8.2
+Zip,55376,MN,Wright County,Saint Michael,8/31/2022,8.1
+Zip,55378,MN,Scott County,Savage,8/31/2022,8.3
+Zip,55379,MN,Scott County,Shakopee,8/31/2022,8.4
+Zip,55382,MN,Stearns County,South Haven,8/31/2022,9.1
+Zip,55384,MN,Hennepin County,Spring Park,8/31/2022,8.9
+Zip,55386,MN,Carver County,Victoria,8/31/2022,7.8
+Zip,55387,MN,Carver County,Waconia,8/31/2022,8.2
+Zip,55388,MN,Carver County,Watertown,8/31/2022,9
+Zip,55390,MN,Wright County,Waverly,8/31/2022,8.2
+Zip,55391,MN,Hennepin County,Wayzata,8/31/2022,8
+Zip,55396,MN,Sibley County,Winthrop,8/31/2022,7.5
+Zip,55397,MN,Carver County,Norwood Young America,8/31/2022,10.2
+Zip,55398,MN,Sherburne County,Zimmerman,8/31/2022,9.5
+Zip,55401,MN,Hennepin County,Minneapolis,8/31/2022,5.5
+Zip,55402,MN,Hennepin County,Minneapolis,8/31/2022,4.1
+Zip,55403,MN,Hennepin County,Minneapolis,8/31/2022,5.4
+Zip,55404,MN,Hennepin County,Minneapolis,8/31/2022,6.3
+Zip,55405,MN,Hennepin County,Minneapolis,8/31/2022,6.7
+Zip,55406,MN,Hennepin County,Minneapolis,8/31/2022,6.9
+Zip,55407,MN,Hennepin County,Minneapolis,8/31/2022,7.1
+Zip,55408,MN,Hennepin County,Minneapolis,8/31/2022,6.6
+Zip,55409,MN,Hennepin County,Minneapolis,8/31/2022,6.7
+Zip,55410,MN,Hennepin County,Minneapolis,8/31/2022,6.6
+Zip,55411,MN,Hennepin County,Minneapolis,8/31/2022,9
+Zip,55412,MN,Hennepin County,Minneapolis,8/31/2022,9.3
+Zip,55413,MN,Hennepin County,Minneapolis,8/31/2022,6.8
+Zip,55414,MN,Hennepin County,Minneapolis,8/31/2022,6.8
+Zip,55415,MN,Hennepin County,Minneapolis,8/31/2022,5.7
+Zip,55416,MN,Hennepin County,Saint Louis Park,8/31/2022,6.9
+Zip,55417,MN,Hennepin County,Minneapolis,8/31/2022,7
+Zip,55418,MN,Hennepin County,Minneapolis,8/31/2022,7.6
+Zip,55419,MN,Hennepin County,Minneapolis,8/31/2022,6.9
+Zip,55420,MN,Hennepin County,Bloomington,8/31/2022,7.2
+Zip,55421,MN,Anoka County,Columbia Heights,8/31/2022,9.2
+Zip,55422,MN,Hennepin County,Robbinsdale,8/31/2022,8.2
+Zip,55423,MN,Hennepin County,Richfield,8/31/2022,7.6
+Zip,55424,MN,Hennepin County,Edina,8/31/2022,6.8
+Zip,55425,MN,Hennepin County,Bloomington,8/31/2022,7.1
+Zip,55426,MN,Hennepin County,Saint Louis Park,8/31/2022,7.5
+Zip,55427,MN,Hennepin County,Golden Valley,8/31/2022,8.2
+Zip,55428,MN,Hennepin County,New Hope,8/31/2022,8
+Zip,55429,MN,Hennepin County,Brooklyn Center,8/31/2022,8.2
+Zip,55430,MN,Hennepin County,Brooklyn Center,8/31/2022,8.2
+Zip,55431,MN,Hennepin County,Bloomington,8/31/2022,7
+Zip,55432,MN,Anoka County,Fridley,8/31/2022,9.3
+Zip,55433,MN,Anoka County,Coon Rapids,8/31/2022,9.1
+Zip,55434,MN,Anoka County,Blaine,8/31/2022,9.1
+Zip,55435,MN,Hennepin County,Edina,8/31/2022,6.1
+Zip,55436,MN,Hennepin County,Edina,8/31/2022,6.8
+Zip,55437,MN,Hennepin County,Bloomington,8/31/2022,7.2
+Zip,55438,MN,Hennepin County,Bloomington,8/31/2022,7.5
+Zip,55439,MN,Hennepin County,Edina,8/31/2022,7.5
+Zip,55441,MN,Hennepin County,Plymouth,8/31/2022,7.6
+Zip,55442,MN,Hennepin County,Plymouth,8/31/2022,7.6
+Zip,55443,MN,Hennepin County,Brooklyn Park,8/31/2022,8
+Zip,55444,MN,Hennepin County,Brooklyn Park,8/31/2022,8.1
+Zip,55445,MN,Hennepin County,Brooklyn Park,8/31/2022,8.5
+Zip,55446,MN,Hennepin County,Plymouth,8/31/2022,7.7
+Zip,55447,MN,Hennepin County,Plymouth,8/31/2022,8
+Zip,55448,MN,Anoka County,Coon Rapids,8/31/2022,9.4
+Zip,55449,MN,Anoka County,Blaine,8/31/2022,9.1
+Zip,55454,MN,Hennepin County,Minneapolis,8/31/2022,3.6
+Zip,56011,MN,Scott County,Belle Plaine,8/31/2022,9
+Zip,56017,MN,Le Sueur County,Cleveland,8/31/2022,6
+Zip,56028,MN,Le Sueur County,Elysian,8/31/2022,5.9
+Zip,56044,MN,Sibley County,Henderson,8/31/2022,6.5
+Zip,56050,MN,Le Sueur County,Kasota,8/31/2022,6.2
+Zip,56057,MN,Le Sueur County,Le Center,8/31/2022,6.3
+Zip,56058,MN,Le Sueur County,Le Sueur,8/31/2022,6.2
+Zip,56063,MN,Blue Earth County,Madison Lake,8/31/2022,6.5
+Zip,56069,MN,Le Sueur County,Montgomery,8/31/2022,6.5
+Zip,56071,MN,Scott County,New Prague,8/31/2022,7.4
+Zip,56096,MN,Le Sueur County,Waterville,8/31/2022,6.1
+Zip,56304,MN,Stearns County,Saint Cloud,8/31/2022,8.4
+Zip,56313,MN,Mille Lacs County,Bock,8/31/2022,5.4
+Zip,56330,MN,Mille Lacs County,Foreston,8/31/2022,6.8
+Zip,56353,MN,Mille Lacs County,Milaca,8/31/2022,6.7
+Zip,56359,MN,Mille Lacs County,Onamia,8/31/2022,6.7
+Zip,56363,MN,Mille Lacs County,Pease,8/31/2022,6.3
+Zip,56386,MN,Mille Lacs County,Wahkon,8/31/2022,6
+Zip,73002,OK,Grady County,Alex,8/31/2022,8
+Zip,73003,OK,Oklahoma County,Edmond,8/31/2022,9.4
+Zip,73004,OK,Grady County,Amber,8/31/2022,6.3
+Zip,73007,OK,Oklahoma County,Edmond,8/31/2022,9.9
+Zip,73008,OK,Oklahoma County,Bethany,8/31/2022,10.8
+Zip,73010,OK,McClain County,Blanchard,8/31/2022,7.5
+Zip,73011,OK,Grady County,Bradley,8/31/2022,8
+Zip,73012,OK,Oklahoma County,Edmond,8/31/2022,9.7
+Zip,73013,OK,Oklahoma County,Edmond,8/31/2022,9.8
+Zip,73014,OK,Canadian County,Calumet,8/31/2022,9.9
+Zip,73018,OK,Grady County,Chickasha,8/31/2022,6.9
+Zip,73019,OK,Cleveland County,Norman,8/31/2022,11.6
+Zip,73020,OK,Oklahoma County,Choctaw,8/31/2022,10.4
+Zip,73025,OK,Oklahoma County,Edmond,8/31/2022,9.2
+Zip,73026,OK,Cleveland County,Norman,8/31/2022,10.5
+Zip,73027,OK,Logan County,Coyle,8/31/2022,10.2
+Zip,73028,OK,Logan County,Crescent,8/31/2022,9.8
+Zip,73034,OK,Oklahoma County,Edmond,8/31/2022,9.4
+Zip,73036,OK,Canadian County,El Reno,8/31/2022,9.1
+Zip,73044,OK,Logan County,Guthrie,8/31/2022,9.1
+Zip,73045,OK,Oklahoma County,Harrah,8/31/2022,10.1
+Zip,73049,OK,Oklahoma County,Oklahoma City,8/31/2022,10.8
+Zip,73050,OK,Logan County,Coyle,8/31/2022,18.7
+Zip,73051,OK,Cleveland County,Slaughterville,8/31/2022,11.1
+Zip,73054,OK,Oklahoma County,Luther,8/31/2022,11.3
+Zip,73058,OK,Logan County,Meridian,8/31/2022,8
+Zip,73059,OK,Grady County,Minco,8/31/2022,6.5
+Zip,73063,OK,Logan County,Mulhall,8/31/2022,10.1
+Zip,73064,OK,Canadian County,Mustang,8/31/2022,9.7
+Zip,73065,OK,McClain County,Newcastle,8/31/2022,7.3
+Zip,73067,OK,Grady County,Ninnekah,8/31/2022,6.2
+Zip,73068,OK,Cleveland County,Noble,8/31/2022,10.1
+Zip,73069,OK,Cleveland County,Norman,8/31/2022,10
+Zip,73071,OK,Cleveland County,Norman,8/31/2022,9.7
+Zip,73072,OK,Cleveland County,Norman,8/31/2022,9.5
+Zip,73078,OK,Canadian County,Piedmont,8/31/2022,9.5
+Zip,73079,OK,Grady County,Pocasset,8/31/2022,6.5
+Zip,73080,OK,McClain County,Purcell,8/31/2022,7
+Zip,73082,OK,Grady County,Rush Springs,8/31/2022,7.3
+Zip,73084,OK,Oklahoma County,Oklahoma City,8/31/2022,11.8
+Zip,73089,OK,Grady County,Tuttle,8/31/2022,7.4
+Zip,73090,OK,Canadian County,Union City,8/31/2022,10.3
+Zip,73092,OK,Grady County,Verden,8/31/2022,7.2
+Zip,73093,OK,McClain County,Goldsby,8/31/2022,7.9
+Zip,73095,OK,McClain County,Wayne,8/31/2022,7.2
+Zip,73099,OK,Canadian County,Yukon,8/31/2022,9.4
+Zip,73102,OK,Oklahoma County,Oklahoma City,8/31/2022,11.7
+Zip,73103,OK,Oklahoma County,Oklahoma City,8/31/2022,11.2
+Zip,73104,OK,Oklahoma County,Oklahoma City,8/31/2022,12.3
+Zip,73105,OK,Oklahoma County,Oklahoma City,8/31/2022,14.7
+Zip,73106,OK,Oklahoma County,Oklahoma City,8/31/2022,18.4
+Zip,73107,OK,Oklahoma County,Oklahoma City,8/31/2022,13.4
+Zip,73108,OK,Oklahoma County,Oklahoma City,8/31/2022,16.9
+Zip,73109,OK,Oklahoma County,Oklahoma City,8/31/2022,15.1
+Zip,73110,OK,Oklahoma County,Midwest City,8/31/2022,12.1
+Zip,73111,OK,Oklahoma County,Oklahoma City,8/31/2022,16.6
+Zip,73112,OK,Oklahoma County,Oklahoma City,8/31/2022,10.8
+Zip,73114,OK,Oklahoma County,Oklahoma City,8/31/2022,13.4
+Zip,73115,OK,Oklahoma County,Del City,8/31/2022,14.2
+Zip,73116,OK,Oklahoma County,Oklahoma City,8/31/2022,9.5
+Zip,73117,OK,Oklahoma County,Oklahoma City,8/31/2022,13.9
+Zip,73118,OK,Oklahoma County,Oklahoma City,8/31/2022,11.6
+Zip,73119,OK,Oklahoma County,Oklahoma City,8/31/2022,14.4
+Zip,73120,OK,Oklahoma County,Oklahoma City,8/31/2022,10.1
+Zip,73121,OK,Oklahoma County,Oklahoma City,8/31/2022,11.3
+Zip,73122,OK,Oklahoma County,Warr Acres,8/31/2022,10.9
+Zip,73127,OK,Oklahoma County,Oklahoma City,8/31/2022,11.6
+Zip,73128,OK,Oklahoma County,Oklahoma City,8/31/2022,9.4
+Zip,73129,OK,Oklahoma County,Oklahoma City,8/31/2022,14
+Zip,73130,OK,Oklahoma County,Midwest City,8/31/2022,10
+Zip,73131,OK,Oklahoma County,Oklahoma City,8/31/2022,9.6
+Zip,73132,OK,Oklahoma County,Oklahoma City,8/31/2022,10.1
+Zip,73134,OK,Oklahoma County,Oklahoma City,8/31/2022,9.9
+Zip,73135,OK,Oklahoma County,Oklahoma City,8/31/2022,10
+Zip,73139,OK,Oklahoma County,Oklahoma City,8/31/2022,10.6
+Zip,73141,OK,Oklahoma County,Midwest City,8/31/2022,12.9
+Zip,73142,OK,Oklahoma County,Oklahoma City,8/31/2022,9.6
+Zip,73149,OK,Oklahoma County,Oklahoma City,8/31/2022,10
+Zip,73150,OK,Oklahoma County,Oklahoma City,8/31/2022,10.5
+Zip,73151,OK,Oklahoma County,Oklahoma City,8/31/2022,9.4
+Zip,73159,OK,Oklahoma County,Oklahoma City,8/31/2022,10.7
+Zip,73160,OK,Cleveland County,Moore,8/31/2022,10
+Zip,73162,OK,Oklahoma County,Oklahoma City,8/31/2022,10.3
+Zip,73165,OK,Oklahoma County,Oklahoma City,8/31/2022,10
+Zip,73169,OK,Oklahoma County,Oklahoma City,8/31/2022,9.8
+Zip,73170,OK,Oklahoma County,Oklahoma City,8/31/2022,9.5
+Zip,73173,OK,Oklahoma County,Oklahoma City,8/31/2022,9.3
+Zip,73179,OK,Oklahoma County,Oklahoma City,8/31/2022,9.6
+Zip,73762,OK,Kingfisher County,Okarche,8/31/2022,7.7
+Zip,74026,OK,Lincoln County,Davenport,8/31/2022,7.1
+Zip,74824,OK,Lincoln County,Agra,8/31/2022,8.4
+Zip,74831,OK,McClain County,Byars,8/31/2022,6.9
+Zip,74832,OK,Lincoln County,Carney,8/31/2022,7.8
+Zip,74834,OK,Lincoln County,Chandler,8/31/2022,7.6
+Zip,74855,OK,Lincoln County,Meeker,8/31/2022,8
+Zip,74857,OK,Cleveland County,Norman,8/31/2022,10.9
+Zip,74864,OK,Lincoln County,Prague,8/31/2022,7
+Zip,74869,OK,Lincoln County,Sparks,8/31/2022,8.8
+Zip,74875,OK,Lincoln County,Tryon,8/31/2022,8.8
+Zip,74881,OK,Oklahoma County,Harrah,8/31/2022,8.1
+Zip,75001,TX,Dallas County,Addison,8/31/2022,15
+Zip,75002,TX,Collin County,Allen,8/31/2022,18.1
+Zip,75006,TX,Denton County,Carrollton,8/31/2022,17.5
+Zip,75007,TX,Denton County,Carrollton,8/31/2022,17.9
+Zip,75009,TX,Collin County,Celina,8/31/2022,18.6
+Zip,75010,TX,Denton County,Carrollton,8/31/2022,17.4
+Zip,75013,TX,Collin County,Allen,8/31/2022,17.7
+Zip,75019,TX,Dallas County,Coppell,8/31/2022,15.8
+Zip,75022,TX,Denton County,Flower Mound,8/31/2022,18.1
+Zip,75023,TX,Collin County,Plano,8/31/2022,17.2
+Zip,75024,TX,Collin County,Plano,8/31/2022,16.8
+Zip,75025,TX,Collin County,Plano,8/31/2022,17.1
+Zip,75028,TX,Denton County,Flower Mound,8/31/2022,17.8
+Zip,75032,TX,Rockwall County,Rockwall,8/31/2022,19
+Zip,75033,TX,Collin County,Frisco,8/31/2022,19.4
+Zip,75034,TX,Collin County,Frisco,8/31/2022,18
+Zip,75035,TX,Collin County,Frisco,8/31/2022,18.1
+Zip,75038,TX,Dallas County,Irving,8/31/2022,16.9
+Zip,75039,TX,Dallas County,Irving,8/31/2022,14.3
+Zip,75040,TX,Dallas County,Garland,8/31/2022,18.7
+Zip,75041,TX,Dallas County,Garland,8/31/2022,19.4
+Zip,75042,TX,Dallas County,Garland,8/31/2022,19.4
+Zip,75043,TX,Dallas County,Garland,8/31/2022,18.6
+Zip,75044,TX,Dallas County,Garland,8/31/2022,17.6
+Zip,75048,TX,Dallas County,Sachse,8/31/2022,17.9
+Zip,75050,TX,Dallas County,Grand Prairie,8/31/2022,18.6
+Zip,75051,TX,Dallas County,Grand Prairie,8/31/2022,18.7
+Zip,75052,TX,Dallas County,Grand Prairie,8/31/2022,18
+Zip,75054,TX,Dallas County,Grand Prairie,8/31/2022,16.6
+Zip,75056,TX,Denton County,The Colony,8/31/2022,18.2
+Zip,75057,TX,Denton County,Lewisville,8/31/2022,17.9
+Zip,75060,TX,Dallas County,Irving,8/31/2022,18.4
+Zip,75061,TX,Dallas County,Irving,8/31/2022,18.7
+Zip,75062,TX,Dallas County,Irving,8/31/2022,18
+Zip,75063,TX,Dallas County,Irving,8/31/2022,15.5
+Zip,75065,TX,Denton County,Lake Dallas,8/31/2022,18.5
+Zip,75067,TX,Denton County,Lewisville,8/31/2022,18
+Zip,75068,TX,Denton County,Little Elm,8/31/2022,19.3
+Zip,75069,TX,Collin County,McKinney,8/31/2022,18.3
+Zip,75070,TX,Collin County,McKinney,8/31/2022,17.9
+Zip,75071,TX,Collin County,McKinney,8/31/2022,18.3
+Zip,75074,TX,Collin County,Plano,8/31/2022,17.4
+Zip,75075,TX,Collin County,Plano,8/31/2022,16.9
+Zip,75077,TX,Denton County,Highland Village,8/31/2022,17.9
+Zip,75078,TX,Collin County,Prosper,8/31/2022,19.7
+Zip,75080,TX,Dallas County,Richardson,8/31/2022,17.3
+Zip,75081,TX,Dallas County,Richardson,8/31/2022,17.5
+Zip,75082,TX,Dallas County,Richardson,8/31/2022,17.3
+Zip,75087,TX,Rockwall County,Rockwall,8/31/2022,18.8
+Zip,75088,TX,Dallas County,Rowlett,8/31/2022,18.8
+Zip,75089,TX,Dallas County,Rowlett,8/31/2022,18.5
+Zip,75093,TX,Collin County,Plano,8/31/2022,16.6
+Zip,75094,TX,Collin County,Murphy,8/31/2022,18.2
+Zip,75098,TX,Collin County,Wylie,8/31/2022,18.1
+Zip,75101,TX,Ellis County,Bardwell,8/31/2022,15.7
+Zip,75104,TX,Dallas County,Cedar Hill,8/31/2022,18.7
+Zip,75114,TX,Kaufman County,Crandall,8/31/2022,19.3
+Zip,75115,TX,Dallas County,Desoto,8/31/2022,18.3
+Zip,75116,TX,Dallas County,Duncanville,8/31/2022,19.5
+Zip,75119,TX,Ellis County,Ennis,8/31/2022,15.9
+Zip,75125,TX,Ellis County,Ferris,8/31/2022,15.8
+Zip,75126,TX,Kaufman County,Forney,8/31/2022,18.6
+Zip,75134,TX,Dallas County,Lancaster,8/31/2022,19.2
+Zip,75135,TX,Hunt County,Caddo Mills,8/31/2022,20.2
+Zip,75137,TX,Dallas County,Duncanville,8/31/2022,18.8
+Zip,75141,TX,Dallas County,Hutchins,8/31/2022,18.9
+Zip,75142,TX,Kaufman County,Kaufman,8/31/2022,19.6
+Zip,75143,TX,Henderson County,Tool,8/31/2022,20.8
+Zip,75146,TX,Dallas County,Lancaster,8/31/2022,18.5
+Zip,75149,TX,Dallas County,Mesquite,8/31/2022,19.7
+Zip,75150,TX,Dallas County,Mesquite,8/31/2022,19
+Zip,75152,TX,Ellis County,Palmer,8/31/2022,17.3
+Zip,75154,TX,Ellis County,Red Oak,8/31/2022,17.8
+Zip,75157,TX,Kaufman County,Rosser,8/31/2022,17.7
+Zip,75158,TX,Kaufman County,Scurry,8/31/2022,22.2
+Zip,75159,TX,Dallas County,Seagoville,8/31/2022,19.4
+Zip,75160,TX,Kaufman County,Terrell,8/31/2022,18.8
+Zip,75161,TX,Kaufman County,Terrell,8/31/2022,18.3
+Zip,75165,TX,Ellis County,Waxahachie,8/31/2022,17.8
+Zip,75166,TX,Collin County,Lavon,8/31/2022,18
+Zip,75167,TX,Ellis County,Waxahachie,8/31/2022,18.4
+Zip,75172,TX,Dallas County,Wilmer,8/31/2022,20.4
+Zip,75173,TX,Collin County,Josephine,8/31/2022,18.2
+Zip,75180,TX,Dallas County,Balch Springs,8/31/2022,19.9
+Zip,75181,TX,Dallas County,Mesquite,8/31/2022,18.7
+Zip,75182,TX,Dallas County,Sunnyvale,8/31/2022,16.3
+Zip,75189,TX,Rockwall County,Royse City,8/31/2022,19.3
+Zip,75201,TX,Dallas County,Dallas,8/31/2022,13.9
+Zip,75202,TX,Dallas County,Dallas,8/31/2022,13.4
+Zip,75203,TX,Dallas County,Dallas,8/31/2022,22.4
+Zip,75204,TX,Dallas County,Dallas,8/31/2022,15.2
+Zip,75205,TX,Dallas County,University Park,8/31/2022,15.5
+Zip,75206,TX,Dallas County,Dallas,8/31/2022,16.3
+Zip,75207,TX,Dallas County,Dallas,8/31/2022,17.7
+Zip,75208,TX,Dallas County,Dallas,8/31/2022,18.5
+Zip,75209,TX,Dallas County,Dallas,8/31/2022,16.6
+Zip,75210,TX,Dallas County,Dallas,8/31/2022,20.8
+Zip,75211,TX,Dallas County,Dallas,8/31/2022,19.6
+Zip,75212,TX,Dallas County,Dallas,8/31/2022,18.4
+Zip,75214,TX,Dallas County,Dallas,8/31/2022,16.4
+Zip,75215,TX,Dallas County,Dallas,8/31/2022,23.2
+Zip,75216,TX,Dallas County,Dallas,8/31/2022,22
+Zip,75217,TX,Dallas County,Dallas,8/31/2022,20.7
+Zip,75218,TX,Dallas County,Dallas,8/31/2022,17
+Zip,75219,TX,Dallas County,Dallas,8/31/2022,14.8
+Zip,75220,TX,Dallas County,Dallas,8/31/2022,18.8
+Zip,75223,TX,Dallas County,Dallas,8/31/2022,20.2
+Zip,75224,TX,Dallas County,Dallas,8/31/2022,21.3
+Zip,75225,TX,Dallas County,Dallas,8/31/2022,15.5
+Zip,75226,TX,Dallas County,Dallas,8/31/2022,16.7
+Zip,75227,TX,Dallas County,Dallas,8/31/2022,19.4
+Zip,75228,TX,Dallas County,Dallas,8/31/2022,19
+Zip,75229,TX,Dallas County,Dallas,8/31/2022,16.6
+Zip,75230,TX,Dallas County,Dallas,8/31/2022,16.3
+Zip,75231,TX,Dallas County,Dallas,8/31/2022,19.3
+Zip,75232,TX,Dallas County,Dallas,8/31/2022,20.5
+Zip,75233,TX,Dallas County,Dallas,8/31/2022,21.1
+Zip,75234,TX,Dallas County,Farmers Branch,8/31/2022,18
+Zip,75235,TX,Dallas County,Dallas,8/31/2022,20.2
+Zip,75236,TX,Dallas County,Dallas,8/31/2022,19.3
+Zip,75237,TX,Dallas County,Dallas,8/31/2022,19
+Zip,75238,TX,Dallas County,Dallas,8/31/2022,17.2
+Zip,75240,TX,Dallas County,Dallas,8/31/2022,17.4
+Zip,75241,TX,Dallas County,Dallas,8/31/2022,21
+Zip,75243,TX,Dallas County,Dallas,8/31/2022,19.1
+Zip,75244,TX,Dallas County,Dallas,8/31/2022,15.8
+Zip,75246,TX,Dallas County,Dallas,8/31/2022,12.9
+Zip,75247,TX,Dallas County,Dallas,8/31/2022,15.3
+Zip,75248,TX,Dallas County,Dallas,8/31/2022,16.6
+Zip,75249,TX,Dallas County,Dallas,8/31/2022,18.6
+Zip,75252,TX,Dallas County,Dallas,8/31/2022,16
+Zip,75253,TX,Dallas County,Dallas,8/31/2022,19.9
+Zip,75254,TX,Dallas County,Dallas,8/31/2022,17.1
+Zip,75287,TX,Dallas County,Dallas,8/31/2022,16.7
+Zip,75401,TX,Hunt County,Greenville,8/31/2022,18.3
+Zip,75402,TX,Hunt County,Greenville,8/31/2022,18.7
+Zip,75407,TX,Collin County,Princeton,8/31/2022,18.6
+Zip,75409,TX,Collin County,Anna,8/31/2022,18.7
+Zip,75422,TX,Hunt County,Campbell,8/31/2022,17.9
+Zip,75423,TX,Hunt County,Celeste,8/31/2022,19.1
+Zip,75424,TX,Collin County,Blue Ridge,8/31/2022,20.4
+Zip,75428,TX,Hunt County,Commerce,8/31/2022,18.8
+Zip,75442,TX,Collin County,Farmersville,8/31/2022,19
+Zip,75449,TX,Fannin County,Ladonia,8/31/2022,12.7
+Zip,75453,TX,Hunt County,Lone Oak,8/31/2022,19.2
+Zip,75454,TX,Collin County,Melissa,8/31/2022,18.7
+Zip,75474,TX,Hunt County,West Tawakoni,8/31/2022,19.1
+Zip,76001,TX,Tarrant County,Arlington,8/31/2022,17.5
+Zip,76002,TX,Tarrant County,Arlington,8/31/2022,17.6
+Zip,76005,TX,Tarrant County,Arlington,8/31/2022,16.6
+Zip,76006,TX,Tarrant County,Arlington,8/31/2022,17.1
+Zip,76008,TX,Parker County,Aledo,8/31/2022,15.6
+Zip,76009,TX,Johnson County,Alvarado,8/31/2022,17.8
+Zip,76010,TX,Tarrant County,Arlington,8/31/2022,18.4
+Zip,76011,TX,Tarrant County,Arlington,8/31/2022,17.9
+Zip,76012,TX,Tarrant County,Arlington,8/31/2022,17.5
+Zip,76013,TX,Tarrant County,Arlington,8/31/2022,17.5
+Zip,76014,TX,Tarrant County,Arlington,8/31/2022,18.9
+Zip,76015,TX,Tarrant County,Arlington,8/31/2022,18.2
+Zip,76016,TX,Tarrant County,Arlington,8/31/2022,17.3
+Zip,76017,TX,Tarrant County,Arlington,8/31/2022,17.8
+Zip,76018,TX,Tarrant County,Arlington,8/31/2022,18.3
+Zip,76020,TX,Tarrant County,Azle,8/31/2022,18.1
+Zip,76021,TX,Tarrant County,Bedford,8/31/2022,16.3
+Zip,76022,TX,Tarrant County,Bedford,8/31/2022,17.1
+Zip,76023,TX,Wise County,Boyd,8/31/2022,12.5
+Zip,76028,TX,Johnson County,Burleson,8/31/2022,17
+Zip,76031,TX,Johnson County,Cleburne,8/31/2022,18.2
+Zip,76033,TX,Johnson County,Cleburne,8/31/2022,16
+Zip,76034,TX,Tarrant County,Colleyville,8/31/2022,16.6
+Zip,76035,TX,Parker County,Cresson,8/31/2022,20
+Zip,76036,TX,Tarrant County,Crowley,8/31/2022,18
+Zip,76039,TX,Tarrant County,Euless,8/31/2022,16.4
+Zip,76040,TX,Tarrant County,Euless,8/31/2022,16.8
+Zip,76041,TX,Ellis County,Forreston,8/31/2022,18.5
+Zip,76043,TX,Somervell County,Glen Rose,8/31/2022,11.3
+Zip,76044,TX,Johnson County,Godley,8/31/2022,17.9
+Zip,76048,TX,Hood County,Granbury,8/31/2022,19.3
+Zip,76049,TX,Hood County,Granbury,8/31/2022,19.6
+Zip,76050,TX,Johnson County,Grandview,8/31/2022,16.9
+Zip,76051,TX,Tarrant County,Grapevine,8/31/2022,16
+Zip,76052,TX,Tarrant County,Fort Worth,8/31/2022,17.2
+Zip,76053,TX,Tarrant County,Hurst,8/31/2022,17.5
+Zip,76054,TX,Tarrant County,Hurst,8/31/2022,16.4
+Zip,76058,TX,Johnson County,Joshua,8/31/2022,17.5
+Zip,76059,TX,Johnson County,Keene,8/31/2022,16.9
+Zip,76060,TX,Tarrant County,Kennedale,8/31/2022,17
+Zip,76063,TX,Tarrant County,Mansfield,8/31/2022,16.8
+Zip,76064,TX,Ellis County,Maypearl,8/31/2022,18.9
+Zip,76065,TX,Ellis County,Midlothian,8/31/2022,17.5
+Zip,76066,TX,Parker County,Millsap,8/31/2022,15.9
+Zip,76070,TX,Somervell County,Nemo,8/31/2022,11.9
+Zip,76071,TX,Wise County,Newark,8/31/2022,14
+Zip,76073,TX,Wise County,Paradise,8/31/2022,13.5
+Zip,76077,TX,Somervell County,Rainbow,8/31/2022,12.2
+Zip,76078,TX,Wise County,New Fairview,8/31/2022,14
+Zip,76082,TX,Parker County,Springtown,8/31/2022,16.6
+Zip,76084,TX,Johnson County,Venus,8/31/2022,18.2
+Zip,76085,TX,Parker County,Weatherford,8/31/2022,18.3
+Zip,76086,TX,Parker County,Weatherford,8/31/2022,16.9
+Zip,76087,TX,Parker County,Weatherford,8/31/2022,17
+Zip,76088,TX,Parker County,Weatherford,8/31/2022,17.5
+Zip,76092,TX,Tarrant County,Southlake,8/31/2022,17.3
+Zip,76093,TX,Johnson County,Rio Vista,8/31/2022,17.6
+Zip,76102,TX,Tarrant County,Fort Worth,8/31/2022,15.9
+Zip,76103,TX,Tarrant County,Fort Worth,8/31/2022,19
+Zip,76104,TX,Tarrant County,Fort Worth,8/31/2022,20.1
+Zip,76105,TX,Tarrant County,Fort Worth,8/31/2022,18.9
+Zip,76106,TX,Tarrant County,Fort Worth,8/31/2022,20.5
+Zip,76107,TX,Tarrant County,Fort Worth,8/31/2022,15.9
+Zip,76108,TX,Tarrant County,Fort Worth,8/31/2022,18.2
+Zip,76109,TX,Tarrant County,Fort Worth,8/31/2022,15.4
+Zip,76110,TX,Tarrant County,Fort Worth,8/31/2022,18.4
+Zip,76111,TX,Tarrant County,Fort Worth,8/31/2022,20.3
+Zip,76112,TX,Tarrant County,Fort Worth,8/31/2022,19.2
+Zip,76114,TX,Tarrant County,Fort Worth,8/31/2022,19.5
+Zip,76115,TX,Tarrant County,Fort Worth,8/31/2022,18.6
+Zip,76116,TX,Tarrant County,Fort Worth,8/31/2022,17.3
+Zip,76117,TX,Tarrant County,Haltom City,8/31/2022,19.7
+Zip,76118,TX,Tarrant County,Richland Hills,8/31/2022,18.5
+Zip,76119,TX,Tarrant County,Fort Worth,8/31/2022,19.5
+Zip,76120,TX,Tarrant County,Fort Worth,8/31/2022,17.5
+Zip,76123,TX,Tarrant County,Fort Worth,8/31/2022,18.7
+Zip,76126,TX,Tarrant County,Benbrook,8/31/2022,16.9
+Zip,76131,TX,Tarrant County,Fort Worth,8/31/2022,18
+Zip,76132,TX,Tarrant County,Fort Worth,8/31/2022,16.1
+Zip,76133,TX,Tarrant County,Fort Worth,8/31/2022,18.7
+Zip,76134,TX,Tarrant County,Fort Worth,8/31/2022,19
+Zip,76135,TX,Tarrant County,Fort Worth,8/31/2022,18.5
+Zip,76137,TX,Tarrant County,Fort Worth,8/31/2022,17.8
+Zip,76140,TX,Tarrant County,Fort Worth,8/31/2022,18.7
+Zip,76148,TX,Tarrant County,Watauga,8/31/2022,18.6
+Zip,76155,TX,Tarrant County,Fort Worth,8/31/2022,15.5
+Zip,76164,TX,Tarrant County,Fort Worth,8/31/2022,19.6
+Zip,76177,TX,Tarrant County,Fort Worth,8/31/2022,17.5
+Zip,76179,TX,Tarrant County,Fort Worth,8/31/2022,17.9
+Zip,76180,TX,Tarrant County,North Richland Hills,8/31/2022,17.1
+Zip,76182,TX,Tarrant County,North Richland Hills,8/31/2022,16.8
+Zip,76201,TX,Denton County,Denton,8/31/2022,18.7
+Zip,76205,TX,Denton County,Denton,8/31/2022,18.2
+Zip,76207,TX,Denton County,Denton,8/31/2022,18.5
+Zip,76208,TX,Denton County,Denton,8/31/2022,18.3
+Zip,76209,TX,Denton County,Denton,8/31/2022,18.9
+Zip,76210,TX,Denton County,Denton,8/31/2022,18.8
+Zip,76225,TX,Wise County,Alvord,8/31/2022,14.2
+Zip,76226,TX,Denton County,Lantana,8/31/2022,17.7
+Zip,76227,TX,Denton County,Aubrey,8/31/2022,19.2
+Zip,76234,TX,Wise County,Decatur,8/31/2022,14
+Zip,76244,TX,Tarrant County,Fort Worth,8/31/2022,17.3
+Zip,76247,TX,Denton County,Justin,8/31/2022,18.6
+Zip,76248,TX,Tarrant County,Keller,8/31/2022,16.8
+Zip,76249,TX,Denton County,Krum,8/31/2022,18.1
+Zip,76258,TX,Denton County,Pilot Point,8/31/2022,18.5
+Zip,76259,TX,Denton County,Ponder,8/31/2022,18.1
+Zip,76262,TX,Denton County,Roanoke,8/31/2022,17.6
+Zip,76266,TX,Denton County,Sanger,8/31/2022,18.5
+Zip,76426,TX,Wise County,Bridgeport,8/31/2022,12.9
+Zip,76431,TX,Wise County,Chico,8/31/2022,11.7
+Zip,76462,TX,Hood County,Lipan,8/31/2022,17.5
+Zip,76476,TX,Hood County,Tolar,8/31/2022,19
+Zip,76487,TX,Parker County,Poolville,8/31/2022,17.2
+Zip,76527,TX,Williamson County,Florence,8/31/2022,19
+Zip,76530,TX,Williamson County,Granger,8/31/2022,23.4
+Zip,76537,TX,Williamson County,Jarrell,8/31/2022,20.5
+Zip,76573,TX,Williamson County,Bartlett,8/31/2022,20
+Zip,76574,TX,Williamson County,Taylor,8/31/2022,20.1
+Zip,76578,TX,Williamson County,Thrall,8/31/2022,23.4
+Zip,76623,TX,Ellis County,Italy,8/31/2022,16.3
+Zip,76651,TX,Ellis County,Italy,8/31/2022,14.6
+Zip,76670,TX,Ellis County,Milford,8/31/2022,15.2
+Zip,77002,TX,Harris County,Houston,8/31/2022,7.6
+Zip,77003,TX,Harris County,Houston,8/31/2022,8.7
+Zip,77004,TX,Harris County,Houston,8/31/2022,9.5
+Zip,77005,TX,Harris County,Houston,8/31/2022,10.5
+Zip,77006,TX,Harris County,Houston,8/31/2022,8.5
+Zip,77007,TX,Harris County,Houston,8/31/2022,9.3
+Zip,77008,TX,Harris County,Houston,8/31/2022,9.9
+Zip,77009,TX,Harris County,Houston,8/31/2022,9.7
+Zip,77010,TX,Harris County,Houston,8/31/2022,9.3
+Zip,77011,TX,Harris County,Houston,8/31/2022,13.4
+Zip,77012,TX,Harris County,Houston,8/31/2022,14.3
+Zip,77013,TX,Harris County,Houston,8/31/2022,12.9
+Zip,77014,TX,Harris County,Houston,8/31/2022,13.4
+Zip,77015,TX,Harris County,Houston,8/31/2022,12.8
+Zip,77016,TX,Harris County,Houston,8/31/2022,14.2
+Zip,77017,TX,Harris County,Houston,8/31/2022,13.5
+Zip,77018,TX,Harris County,Houston,8/31/2022,10.8
+Zip,77019,TX,Harris County,Houston,8/31/2022,8.6
+Zip,77020,TX,Harris County,Houston,8/31/2022,13.1
+Zip,77021,TX,Harris County,Houston,8/31/2022,12.3
+Zip,77022,TX,Harris County,Houston,8/31/2022,12.7
+Zip,77023,TX,Harris County,Houston,8/31/2022,10
+Zip,77024,TX,Harris County,Houston,8/31/2022,9.7
+Zip,77025,TX,Harris County,Houston,8/31/2022,8.9
+Zip,77026,TX,Harris County,Houston,8/31/2022,13.4
+Zip,77027,TX,Harris County,Houston,8/31/2022,8.9
+Zip,77028,TX,Harris County,Houston,8/31/2022,14.6
+Zip,77029,TX,Harris County,Houston,8/31/2022,14.3
+Zip,77030,TX,Harris County,Houston,8/31/2022,8.3
+Zip,77031,TX,Harris County,Houston,8/31/2022,11.8
+Zip,77032,TX,Harris County,Houston,8/31/2022,13
+Zip,77033,TX,Harris County,Houston,8/31/2022,12.9
+Zip,77034,TX,Harris County,Houston,8/31/2022,12.5
+Zip,77035,TX,Harris County,Houston,8/31/2022,10.6
+Zip,77036,TX,Harris County,Houston,8/31/2022,11.8
+Zip,77037,TX,Harris County,Houston,8/31/2022,12.8
+Zip,77038,TX,Harris County,Houston,8/31/2022,12.9
+Zip,77039,TX,Harris County,Houston,8/31/2022,12.2
+Zip,77040,TX,Harris County,Houston,8/31/2022,12.5
+Zip,77041,TX,Harris County,Houston,8/31/2022,12.4
+Zip,77042,TX,Harris County,Houston,8/31/2022,10
+Zip,77043,TX,Harris County,Houston,8/31/2022,11.2
+Zip,77044,TX,Harris County,Houston,8/31/2022,12.3
+Zip,77045,TX,Harris County,Houston,8/31/2022,12.7
+Zip,77046,TX,Harris County,Houston,8/31/2022,6.6
+Zip,77047,TX,Harris County,Houston,8/31/2022,12.5
+Zip,77048,TX,Harris County,Houston,8/31/2022,12.7
+Zip,77049,TX,Harris County,Houston,8/31/2022,12.5
+Zip,77050,TX,Harris County,Houston,8/31/2022,13.7
+Zip,77051,TX,Harris County,Houston,8/31/2022,11.6
+Zip,77053,TX,Harris County,Houston,8/31/2022,11.3
+Zip,77054,TX,Harris County,Houston,8/31/2022,9.5
+Zip,77055,TX,Harris County,Houston,8/31/2022,9.5
+Zip,77056,TX,Harris County,Houston,8/31/2022,8
+Zip,77057,TX,Harris County,Houston,8/31/2022,8.1
+Zip,77058,TX,Harris County,Houston,8/31/2022,11.2
+Zip,77059,TX,Harris County,Houston,8/31/2022,11.2
+Zip,77060,TX,Harris County,Houston,8/31/2022,13
+Zip,77061,TX,Harris County,Houston,8/31/2022,12
+Zip,77062,TX,Harris County,Houston,8/31/2022,11.7
+Zip,77063,TX,Harris County,Houston,8/31/2022,9.9
+Zip,77064,TX,Harris County,Houston,8/31/2022,13.2
+Zip,77065,TX,Harris County,Houston,8/31/2022,12.8
+Zip,77066,TX,Harris County,Houston,8/31/2022,13
+Zip,77067,TX,Harris County,Houston,8/31/2022,12.8
+Zip,77068,TX,Harris County,Houston,8/31/2022,13
+Zip,77069,TX,Harris County,Houston,8/31/2022,11.7
+Zip,77070,TX,Harris County,Houston,8/31/2022,12.3
+Zip,77071,TX,Harris County,Houston,8/31/2022,12.2
+Zip,77072,TX,Harris County,Houston,8/31/2022,13
+Zip,77073,TX,Harris County,Houston,8/31/2022,13.3
+Zip,77074,TX,Harris County,Houston,8/31/2022,10.8
+Zip,77075,TX,Harris County,Houston,8/31/2022,12.7
+Zip,77076,TX,Harris County,Houston,8/31/2022,12.2
+Zip,77077,TX,Harris County,Houston,8/31/2022,9.7
+Zip,77078,TX,Harris County,Houston,8/31/2022,12.9
+Zip,77079,TX,Harris County,Houston,8/31/2022,10.8
+Zip,77080,TX,Harris County,Houston,8/31/2022,10.6
+Zip,77081,TX,Harris County,Houston,8/31/2022,10
+Zip,77082,TX,Harris County,Houston,8/31/2022,12.2
+Zip,77083,TX,Harris County,Houston,8/31/2022,13
+Zip,77084,TX,Harris County,Houston,8/31/2022,13.3
+Zip,77085,TX,Harris County,Houston,8/31/2022,12.9
+Zip,77086,TX,Harris County,Houston,8/31/2022,13
+Zip,77087,TX,Harris County,Houston,8/31/2022,13.7
+Zip,77088,TX,Harris County,Houston,8/31/2022,13.5
+Zip,77089,TX,Harris County,Houston,8/31/2022,12.3
+Zip,77090,TX,Harris County,Houston,8/31/2022,13.2
+Zip,77091,TX,Harris County,Houston,8/31/2022,12.2
+Zip,77092,TX,Harris County,Houston,8/31/2022,11.1
+Zip,77093,TX,Harris County,Houston,8/31/2022,12.3
+Zip,77094,TX,Harris County,Houston,8/31/2022,10.1
+Zip,77095,TX,Harris County,Houston,8/31/2022,12.9
+Zip,77096,TX,Harris County,Houston,8/31/2022,9.3
+Zip,77098,TX,Harris County,Houston,8/31/2022,8.3
+Zip,77099,TX,Harris County,Houston,8/31/2022,13.3
+Zip,77301,TX,Montgomery County,Conroe,8/31/2022,11.3
+Zip,77302,TX,Montgomery County,Conroe,8/31/2022,11
+Zip,77303,TX,Montgomery County,Conroe,8/31/2022,12.2
+Zip,77304,TX,Montgomery County,Conroe,8/31/2022,10.7
+Zip,77306,TX,Montgomery County,Conroe,8/31/2022,12.8
+Zip,77316,TX,Montgomery County,Montgomery,8/31/2022,12
+Zip,77318,TX,Montgomery County,Willis,8/31/2022,11.3
+Zip,77327,TX,Liberty County,Cleveland,8/31/2022,8.9
+Zip,77336,TX,Harris County,Houston,8/31/2022,12.6
+Zip,77338,TX,Harris County,Humble,8/31/2022,13.5
+Zip,77339,TX,Harris County,Houston,8/31/2022,12.1
+Zip,77345,TX,Harris County,Houston,8/31/2022,11.5
+Zip,77346,TX,Harris County,Atascocita,8/31/2022,12.1
+Zip,77354,TX,Montgomery County,The Woodlands,8/31/2022,11.5
+Zip,77355,TX,Montgomery County,Stagecoach,8/31/2022,11.8
+Zip,77356,TX,Montgomery County,Montgomery,8/31/2022,11.5
+Zip,77357,TX,Montgomery County,Roman Forest,8/31/2022,11.6
+Zip,77362,TX,Montgomery County,Pinehurst,8/31/2022,11.9
+Zip,77365,TX,Montgomery County,Porter,8/31/2022,10.6
+Zip,77369,TX,Liberty County,Rye,8/31/2022,7.1
+Zip,77372,TX,Montgomery County,Splendora,8/31/2022,12.3
+Zip,77373,TX,Harris County,Spring,8/31/2022,13.3
+Zip,77375,TX,Harris County,Tomball,8/31/2022,12.5
+Zip,77377,TX,Harris County,Tomball,8/31/2022,12.8
+Zip,77378,TX,Montgomery County,Willis,8/31/2022,11.3
+Zip,77379,TX,Harris County,Spring,8/31/2022,12.3
+Zip,77380,TX,Montgomery County,The Woodlands,8/31/2022,12
+Zip,77381,TX,Montgomery County,The Woodlands,8/31/2022,11.1
+Zip,77382,TX,Montgomery County,The Woodlands,8/31/2022,10.4
+Zip,77384,TX,Montgomery County,Conroe,8/31/2022,10.5
+Zip,77385,TX,Montgomery County,Conroe,8/31/2022,11.2
+Zip,77386,TX,Harris County,Spring,8/31/2022,11.2
+Zip,77388,TX,Harris County,Spring,8/31/2022,12.5
+Zip,77389,TX,Montgomery County,The Woodlands,8/31/2022,12.2
+Zip,77396,TX,Harris County,Atascocita,8/31/2022,13
+Zip,77401,TX,Harris County,Bellaire,8/31/2022,8.9
+Zip,77406,TX,Fort Bend County,Richmond,8/31/2022,12
+Zip,77407,TX,Fort Bend County,Richmond,8/31/2022,12.2
+Zip,77417,TX,Fort Bend County,Beasley,8/31/2022,13.9
+Zip,77418,TX,Austin County,Bellville,8/31/2022,7.7
+Zip,77422,TX,Brazoria County,Brazoria,8/31/2022,10.2
+Zip,77423,TX,Waller County,Brookshire,8/31/2022,8.9
+Zip,77429,TX,Harris County,Cypress,8/31/2022,12.6
+Zip,77430,TX,Brazoria County,Damon,8/31/2022,11
+Zip,77433,TX,Harris County,Cypress,8/31/2022,12.7
+Zip,77441,TX,Fort Bend County,Fulshear,8/31/2022,11.9
+Zip,77444,TX,Fort Bend County,Guy,8/31/2022,12.3
+Zip,77445,TX,Waller County,Hempstead,8/31/2022,8.2
+Zip,77446,TX,Waller County,Prairie View,8/31/2022,7.9
+Zip,77447,TX,Harris County,Hockley,8/31/2022,11.2
+Zip,77449,TX,Harris County,Katy,8/31/2022,13.4
+Zip,77450,TX,Fort Bend County,Cinco Ranch,8/31/2022,12
+Zip,77451,TX,Fort Bend County,Beasley,8/31/2022,12.1
+Zip,77452,TX,Austin County,Bellville,8/31/2022,10.2
+Zip,77459,TX,Fort Bend County,Missouri City,8/31/2022,11.3
+Zip,77461,TX,Fort Bend County,Needville,8/31/2022,11.1
+Zip,77464,TX,Fort Bend County,Orchard,8/31/2022,12.1
+Zip,77466,TX,Waller County,Pattison,8/31/2022,9.1
+Zip,77469,TX,Fort Bend County,Richmond,8/31/2022,11.9
+Zip,77471,TX,Fort Bend County,Rosenberg,8/31/2022,12
+Zip,77474,TX,Austin County,Sealy,8/31/2022,7.5
+Zip,77476,TX,Fort Bend County,Fulshear,8/31/2022,13.3
+Zip,77477,TX,Fort Bend County,Stafford,8/31/2022,11.4
+Zip,77478,TX,Fort Bend County,Sugar Land,8/31/2022,10.6
+Zip,77479,TX,Fort Bend County,Sugar Land,8/31/2022,10.7
+Zip,77480,TX,Brazoria County,Sweeny,8/31/2022,9.1
+Zip,77481,TX,Fort Bend County,Thompsons,8/31/2022,10.9
+Zip,77484,TX,Waller County,Waller,8/31/2022,9.3
+Zip,77485,TX,Austin County,Wallis,8/31/2022,10.4
+Zip,77486,TX,Brazoria County,West Columbia,8/31/2022,10.1
+Zip,77489,TX,Fort Bend County,Missouri City,8/31/2022,11.9
+Zip,77493,TX,Harris County,Katy,8/31/2022,12.3
+Zip,77494,TX,Harris County,Katy,8/31/2022,11.8
+Zip,77498,TX,Fort Bend County,Sugar Land,8/31/2022,11.6
+Zip,77502,TX,Harris County,Pasadena,8/31/2022,12.7
+Zip,77503,TX,Harris County,Pasadena,8/31/2022,12.8
+Zip,77504,TX,Harris County,Pasadena,8/31/2022,11.6
+Zip,77505,TX,Harris County,Pasadena,8/31/2022,11.5
+Zip,77506,TX,Harris County,Pasadena,8/31/2022,14.5
+Zip,77510,TX,Galveston County,Santa Fe,8/31/2022,11.6
+Zip,77511,TX,Brazoria County,Alvin,8/31/2022,10.9
+Zip,77514,TX,Chambers County,Anahuac,8/31/2022,9.7
+Zip,77515,TX,Brazoria County,Angleton,8/31/2022,10
+Zip,77517,TX,Galveston County,Santa Fe,8/31/2022,10.9
+Zip,77518,TX,Galveston County,Bacliff,8/31/2022,10.6
+Zip,77520,TX,Harris County,Baytown,8/31/2022,12.2
+Zip,77521,TX,Harris County,Baytown,8/31/2022,11.7
+Zip,77523,TX,Harris County,Baytown,8/31/2022,9.1
+Zip,77530,TX,Harris County,Channelview,8/31/2022,12.4
+Zip,77531,TX,Brazoria County,Clute,8/31/2022,9.6
+Zip,77532,TX,Harris County,Crosby,8/31/2022,12.3
+Zip,77533,TX,Liberty County,Daisetta,8/31/2022,8.5
+Zip,77534,TX,Brazoria County,Danbury,8/31/2022,10.6
+Zip,77535,TX,Liberty County,Dayton,8/31/2022,8.2
+Zip,77536,TX,Harris County,Deer Park,8/31/2022,11.7
+Zip,77538,TX,Liberty County,Devers,8/31/2022,7.7
+Zip,77539,TX,Galveston County,Dickinson,8/31/2022,10.3
+Zip,77541,TX,Brazoria County,Freeport,8/31/2022,11.9
+Zip,77545,TX,Fort Bend County,Fresno,8/31/2022,11.6
+Zip,77546,TX,Galveston County,Friendswood,8/31/2022,10.9
+Zip,77547,TX,Harris County,Galena Park,8/31/2022,12.8
+Zip,77550,TX,Galveston County,Galveston,8/31/2022,12.2
+Zip,77551,TX,Galveston County,Galveston,8/31/2022,11.2
+Zip,77554,TX,Galveston County,Galveston,8/31/2022,12.2
+Zip,77560,TX,Chambers County,Wallisville,8/31/2022,9.1
+Zip,77562,TX,Harris County,Highlands,8/31/2022,12.4
+Zip,77563,TX,Galveston County,Hitchcock,8/31/2022,12.2
+Zip,77564,TX,Hardin County,Batson,8/31/2022,9
+Zip,77565,TX,Galveston County,League City,8/31/2022,10
+Zip,77566,TX,Brazoria County,Lake Jackson,8/31/2022,9.1
+Zip,77568,TX,Galveston County,La Marque,8/31/2022,10.7
+Zip,77571,TX,Harris County,La Porte,8/31/2022,11.8
+Zip,77573,TX,Galveston County,League City,8/31/2022,10
+Zip,77575,TX,Liberty County,Liberty,8/31/2022,8
+Zip,77577,TX,Brazoria County,Liverpool,8/31/2022,10.7
+Zip,77578,TX,Brazoria County,Manvel,8/31/2022,10.2
+Zip,77581,TX,Brazoria County,Pearland,8/31/2022,10
+Zip,77583,TX,Fort Bend County,Arcola,8/31/2022,9.9
+Zip,77584,TX,Brazoria County,Pearland,8/31/2022,10.6
+Zip,77586,TX,Harris County,Seabrook,8/31/2022,10.9
+Zip,77587,TX,Harris County,South Houston,8/31/2022,13.1
+Zip,77590,TX,Galveston County,Texas City,8/31/2022,11.3
+Zip,77591,TX,Galveston County,Texas City,8/31/2022,10.5
+Zip,77597,TX,Chambers County,Wallisville,8/31/2022,9.9
+Zip,77598,TX,Harris County,Houston,8/31/2022,12.4
+Zip,77617,TX,Galveston County,Gilchrist,8/31/2022,17.2
+Zip,77623,TX,Galveston County,High Island,8/31/2022,15.5
+Zip,77650,TX,Galveston County,Port Bolivar,8/31/2022,14.4
+Zip,77661,TX,Chambers County,Winnie,8/31/2022,10
+Zip,77665,TX,Chambers County,Winnie,8/31/2022,10.5
+Zip,78002,TX,Bexar County,Atascosa,8/31/2022,17.4
+Zip,78003,TX,Bandera County,Bandera,8/31/2022,9
+Zip,78004,TX,Kendall County,Bergheim,8/31/2022,8.7
+Zip,78006,TX,Kendall County,Boerne,8/31/2022,9.6
+Zip,78008,TX,Atascosa County,Campbellton,8/31/2022,8.3
+Zip,78009,TX,Medina County,Castroville,8/31/2022,9.1
+Zip,78011,TX,Atascosa County,Charlotte,8/31/2022,9.2
+Zip,78012,TX,Atascosa County,Pleasanton,8/31/2022,11.6
+Zip,78015,TX,Kendall County,Boerne,8/31/2022,12.1
+Zip,78016,TX,Medina County,Devine,8/31/2022,9.8
+Zip,78023,TX,Bexar County,Helotes,8/31/2022,12.4
+Zip,78026,TX,Atascosa County,Jourdanton,8/31/2022,8.3
+Zip,78027,TX,Kendall County,Kendalia,8/31/2022,9.1
+Zip,78039,TX,Medina County,La Coste,8/31/2022,12
+Zip,78050,TX,Atascosa County,Pleasanton,8/31/2022,8.1
+Zip,78052,TX,Atascosa County,Lytle,8/31/2022,9.4
+Zip,78055,TX,Bandera County,Medina,8/31/2022,11.3
+Zip,78056,TX,Medina County,Mico,8/31/2022,9
+Zip,78059,TX,Medina County,Natalia,8/31/2022,9.8
+Zip,78063,TX,Bandera County,Pipe Creek,8/31/2022,8.5
+Zip,78064,TX,Atascosa County,Pleasanton,8/31/2022,8.7
+Zip,78065,TX,Atascosa County,Poteet,8/31/2022,8.6
+Zip,78066,TX,Medina County,Riomedina,8/31/2022,9.4
+Zip,78069,TX,Atascosa County,Somerset,8/31/2022,13.2
+Zip,78070,TX,Comal County,Spring Branch,8/31/2022,14.9
+Zip,78073,TX,Bexar County,San Antonio,8/31/2022,15.3
+Zip,78101,TX,Bexar County,Adkins,8/31/2022,9.8
+Zip,78108,TX,Guadalupe County,Cibolo,8/31/2022,12.5
+Zip,78109,TX,Bexar County,Converse,8/31/2022,13.4
+Zip,78112,TX,Bexar County,Elmendorf,8/31/2022,14.8
+Zip,78113,TX,Karnes County,Falls City,8/31/2022,8.6
+Zip,78114,TX,Wilson County,Floresville,8/31/2022,8.4
+Zip,78121,TX,Wilson County,La Vernia,8/31/2022,8.7
+Zip,78123,TX,Guadalupe County,McQueeney,8/31/2022,14.5
+Zip,78124,TX,Guadalupe County,Santa Clara,8/31/2022,13.4
+Zip,78130,TX,Comal County,New Braunfels,8/31/2022,13.4
+Zip,78132,TX,Comal County,New Braunfels,8/31/2022,14.5
+Zip,78133,TX,Comal County,Canyon Lake,8/31/2022,15.3
+Zip,78147,TX,Wilson County,Poth,8/31/2022,8.6
+Zip,78148,TX,Bexar County,Universal City,8/31/2022,13.2
+Zip,78152,TX,Bexar County,Saint Hedwig,8/31/2022,12.5
+Zip,78154,TX,Guadalupe County,Schertz,8/31/2022,12.5
+Zip,78155,TX,Guadalupe County,Seguin,8/31/2022,13.6
+Zip,78160,TX,Wilson County,Stockdale,8/31/2022,8.4
+Zip,78161,TX,Wilson County,Sutherland Springs,8/31/2022,8.4
+Zip,78163,TX,Comal County,Bulverde,8/31/2022,13.5
+Zip,78201,TX,Bexar County,San Antonio,8/31/2022,13.4
+Zip,78202,TX,Bexar County,San Antonio,8/31/2022,12.2
+Zip,78203,TX,Bexar County,San Antonio,8/31/2022,12.9
+Zip,78204,TX,Bexar County,San Antonio,8/31/2022,15.1
+Zip,78205,TX,Bexar County,San Antonio,8/31/2022,9.5
+Zip,78207,TX,Bexar County,San Antonio,8/31/2022,15.9
+Zip,78208,TX,Bexar County,San Antonio,8/31/2022,13.2
+Zip,78209,TX,Bexar County,San Antonio,8/31/2022,11.5
+Zip,78210,TX,Bexar County,San Antonio,8/31/2022,13.9
+Zip,78211,TX,Bexar County,San Antonio,8/31/2022,14.3
+Zip,78212,TX,Bexar County,San Antonio,8/31/2022,12.3
+Zip,78213,TX,Bexar County,San Antonio,8/31/2022,13.2
+Zip,78214,TX,Bexar County,San Antonio,8/31/2022,13
+Zip,78215,TX,Bexar County,San Antonio,8/31/2022,10.4
+Zip,78216,TX,Bexar County,San Antonio,8/31/2022,13.3
+Zip,78217,TX,Bexar County,San Antonio,8/31/2022,13.2
+Zip,78218,TX,Bexar County,San Antonio,8/31/2022,12.8
+Zip,78219,TX,Bexar County,Kirby,8/31/2022,13.7
+Zip,78220,TX,Bexar County,San Antonio,8/31/2022,13.2
+Zip,78221,TX,Bexar County,San Antonio,8/31/2022,13.5
+Zip,78222,TX,Bexar County,San Antonio,8/31/2022,13.2
+Zip,78223,TX,Bexar County,San Antonio,8/31/2022,13.8
+Zip,78224,TX,Bexar County,San Antonio,8/31/2022,11.9
+Zip,78225,TX,Bexar County,San Antonio,8/31/2022,15
+Zip,78226,TX,Bexar County,San Antonio,8/31/2022,14.2
+Zip,78227,TX,Bexar County,San Antonio,8/31/2022,14.3
+Zip,78228,TX,Bexar County,San Antonio,8/31/2022,13.5
+Zip,78229,TX,Bexar County,San Antonio,8/31/2022,13.1
+Zip,78230,TX,Bexar County,San Antonio,8/31/2022,12.7
+Zip,78231,TX,Bexar County,San Antonio,8/31/2022,12.4
+Zip,78232,TX,Bexar County,San Antonio,8/31/2022,12.7
+Zip,78233,TX,Bexar County,San Antonio,8/31/2022,13.7
+Zip,78234,TX,Bexar County,San Antonio,8/31/2022,11.2
+Zip,78237,TX,Bexar County,San Antonio,8/31/2022,16.7
+Zip,78238,TX,Bexar County,San Antonio,8/31/2022,14
+Zip,78239,TX,Bexar County,Windcrest,8/31/2022,13.4
+Zip,78240,TX,Bexar County,San Antonio,8/31/2022,13.7
+Zip,78242,TX,Bexar County,San Antonio,8/31/2022,12.9
+Zip,78244,TX,Bexar County,San Antonio,8/31/2022,13.8
+Zip,78245,TX,Bexar County,San Antonio,8/31/2022,13.9
+Zip,78247,TX,Bexar County,San Antonio,8/31/2022,13.8
+Zip,78248,TX,Bexar County,San Antonio,8/31/2022,11.8
+Zip,78249,TX,Bexar County,San Antonio,8/31/2022,13.4
+Zip,78250,TX,Bexar County,San Antonio,8/31/2022,14.3
+Zip,78251,TX,Bexar County,San Antonio,8/31/2022,13.7
+Zip,78252,TX,Bexar County,San Antonio,8/31/2022,13.4
+Zip,78253,TX,Bexar County,San Antonio,8/31/2022,12.8
+Zip,78254,TX,Bexar County,San Antonio,8/31/2022,13.6
+Zip,78255,TX,Bexar County,San Antonio,8/31/2022,12.8
+Zip,78256,TX,Bexar County,San Antonio,8/31/2022,12.4
+Zip,78257,TX,Bexar County,San Antonio,8/31/2022,12.1
+Zip,78258,TX,Bexar County,San Antonio,8/31/2022,12.4
+Zip,78259,TX,Bexar County,San Antonio,8/31/2022,12.8
+Zip,78260,TX,Bexar County,San Antonio,8/31/2022,12.9
+Zip,78261,TX,Bexar County,San Antonio,8/31/2022,12.6
+Zip,78263,TX,Bexar County,China Grove,8/31/2022,12.7
+Zip,78264,TX,Bexar County,San Antonio,8/31/2022,15.1
+Zip,78266,TX,Comal County,Garden Ridge,8/31/2022,12.9
+Zip,78602,TX,Bastrop County,Bastrop,8/31/2022,17.6
+Zip,78610,TX,Hays County,Buda,8/31/2022,20.2
+Zip,78612,TX,Bastrop County,Cedar Creek,8/31/2022,14.8
+Zip,78613,TX,Williamson County,Cedar Park,8/31/2022,21.9
+Zip,78615,TX,Williamson County,Coupland,8/31/2022,21.6
+Zip,78616,TX,Bastrop County,Cedar Creek,8/31/2022,12.4
+Zip,78617,TX,Travis County,Austin,8/31/2022,20.8
+Zip,78619,TX,Hays County,Driftwood,8/31/2022,20.6
+Zip,78620,TX,Hays County,Dripping Springs,8/31/2022,20
+Zip,78621,TX,Bastrop County,Elgin,8/31/2022,18.3
+Zip,78622,TX,Caldwell County,Luling,8/31/2022,11.1
+Zip,78623,TX,Comal County,Canyon Lake,8/31/2022,15.2
+Zip,78626,TX,Williamson County,Georgetown,8/31/2022,21.3
+Zip,78628,TX,Williamson County,Georgetown,8/31/2022,21.1
+Zip,78632,TX,Gonzales County,Harwood,8/31/2022,10.6
+Zip,78633,TX,Williamson County,Georgetown,8/31/2022,19.1
+Zip,78634,TX,Williamson County,Hutto,8/31/2022,21.7
+Zip,78638,TX,Guadalupe County,Kingsbury,8/31/2022,16.7
+Zip,78640,TX,Hays County,Kyle,8/31/2022,19.9
+Zip,78641,TX,Williamson County,Leander,8/31/2022,22.3
+Zip,78642,TX,Williamson County,Liberty Hill,8/31/2022,21.6
+Zip,78644,TX,Caldwell County,Lockhart,8/31/2022,11.4
+Zip,78645,TX,Travis County,Lago Vista,8/31/2022,19.5
+Zip,78648,TX,Caldwell County,Luling,8/31/2022,11.8
+Zip,78650,TX,Bastrop County,McDade,8/31/2022,16.4
+Zip,78652,TX,Travis County,Austin,8/31/2022,18.9
+Zip,78653,TX,Travis County,Manor,8/31/2022,20.4
+Zip,78655,TX,Caldwell County,Martindale,8/31/2022,12.4
+Zip,78656,TX,Caldwell County,Maxwell,8/31/2022,11.2
+Zip,78659,TX,Bastrop County,Paige,8/31/2022,15.3
+Zip,78660,TX,Travis County,Pflugerville,8/31/2022,20.6
+Zip,78661,TX,Caldwell County,Luling,8/31/2022,10.6
+Zip,78662,TX,Bastrop County,Red Rock,8/31/2022,16.5
+Zip,78664,TX,Williamson County,Round Rock,8/31/2022,21.9
+Zip,78665,TX,Williamson County,Round Rock,8/31/2022,22.1
+Zip,78666,TX,Hays County,San Marcos,8/31/2022,17.5
+Zip,78669,TX,Travis County,Spicewood,8/31/2022,18.5
+Zip,78670,TX,Caldwell County,Martindale,8/31/2022,16.4
+Zip,78674,TX,Williamson County,Georgetown,8/31/2022,20.2
+Zip,78676,TX,Hays County,Wimberley,8/31/2022,19.7
+Zip,78681,TX,Williamson County,Round Rock,8/31/2022,21.6
+Zip,78701,TX,Travis County,Austin,8/31/2022,15.1
+Zip,78702,TX,Travis County,Austin,8/31/2022,18
+Zip,78703,TX,Travis County,Austin,8/31/2022,18.4
+Zip,78704,TX,Travis County,Austin,8/31/2022,18.1
+Zip,78705,TX,Travis County,Austin,8/31/2022,13.9
+Zip,78717,TX,Travis County,Austin,8/31/2022,22
+Zip,78719,TX,Travis County,Austin,8/31/2022,21.9
+Zip,78721,TX,Travis County,Austin,8/31/2022,18.4
+Zip,78722,TX,Travis County,Austin,8/31/2022,17.3
+Zip,78723,TX,Travis County,Austin,8/31/2022,17.7
+Zip,78724,TX,Travis County,Austin,8/31/2022,21.1
+Zip,78725,TX,Travis County,Austin,8/31/2022,21.8
+Zip,78726,TX,Travis County,Austin,8/31/2022,19
+Zip,78727,TX,Travis County,Austin,8/31/2022,18.9
+Zip,78728,TX,Travis County,Austin,8/31/2022,18.6
+Zip,78729,TX,Travis County,Austin,8/31/2022,20.2
+Zip,78730,TX,Travis County,Austin,8/31/2022,19.8
+Zip,78731,TX,Travis County,Austin,8/31/2022,18.5
+Zip,78732,TX,Travis County,Austin,8/31/2022,20.3
+Zip,78733,TX,Travis County,Austin,8/31/2022,20.6
+Zip,78734,TX,Travis County,Lakeway,8/31/2022,18.9
+Zip,78735,TX,Travis County,Austin,8/31/2022,18.2
+Zip,78736,TX,Travis County,Austin,8/31/2022,19.2
+Zip,78737,TX,Travis County,Austin,8/31/2022,20.8
+Zip,78738,TX,Travis County,Bee Cave,8/31/2022,20
+Zip,78739,TX,Travis County,Austin,8/31/2022,20.2
+Zip,78741,TX,Travis County,Austin,8/31/2022,17.6
+Zip,78742,TX,Travis County,Austin,8/31/2022,18.2
+Zip,78744,TX,Travis County,Austin,8/31/2022,19.7
+Zip,78745,TX,Travis County,Austin,8/31/2022,19.1
+Zip,78746,TX,Travis County,Austin,8/31/2022,20.6
+Zip,78747,TX,Travis County,Austin,8/31/2022,20.7
+Zip,78748,TX,Travis County,Austin,8/31/2022,19.6
+Zip,78749,TX,Travis County,Austin,8/31/2022,19.3
+Zip,78750,TX,Travis County,Austin,8/31/2022,19.1
+Zip,78751,TX,Travis County,Austin,8/31/2022,16.8
+Zip,78752,TX,Travis County,Austin,8/31/2022,18.2
+Zip,78753,TX,Travis County,Austin,8/31/2022,19.2
+Zip,78754,TX,Travis County,Austin,8/31/2022,20.3
+Zip,78756,TX,Travis County,Austin,8/31/2022,16
+Zip,78757,TX,Travis County,Austin,8/31/2022,17.5
+Zip,78758,TX,Travis County,Austin,8/31/2022,19
+Zip,78759,TX,Travis County,Austin,8/31/2022,18.7
+Zip,78850,TX,Medina County,D Hanis,8/31/2022,10
+Zip,78861,TX,Medina County,Hondo,8/31/2022,10.4
+Zip,78883,TX,Bandera County,Tarpley,8/31/2022,13.7
+Zip,78885,TX,Bandera County,Vanderpool,8/31/2022,9.5
+Zip,78886,TX,Medina County,Yancey,8/31/2022,10
+Zip,78931,TX,Austin County,Bleiblerville,8/31/2022,8.2
+Zip,78944,TX,Austin County,Industry,8/31/2022,8.5
+Zip,78950,TX,Austin County,New Ulm,8/31/2022,8.7
+Zip,78953,TX,Bastrop County,Rosanky,8/31/2022,17.6
+Zip,78957,TX,Bastrop County,Smithville,8/31/2022,15.1
+Zip,80002,CO,Jefferson County,Arvada,8/31/2022,17.5
+Zip,80003,CO,Jefferson County,Arvada,8/31/2022,17.4
+Zip,80004,CO,Jefferson County,Arvada,8/31/2022,16.9
+Zip,80005,CO,Jefferson County,Arvada,8/31/2022,16.9
+Zip,80007,CO,Jefferson County,Arvada,8/31/2022,16.8
+Zip,80010,CO,Arapahoe County,Aurora,8/31/2022,18
+Zip,80011,CO,Arapahoe County,Aurora,8/31/2022,17.1
+Zip,80012,CO,Arapahoe County,Aurora,8/31/2022,17
+Zip,80013,CO,Arapahoe County,Aurora,8/31/2022,17.1
+Zip,80014,CO,Arapahoe County,Aurora,8/31/2022,16.2
+Zip,80015,CO,Arapahoe County,Aurora,8/31/2022,16.8
+Zip,80016,CO,Arapahoe County,Aurora,8/31/2022,16.3
+Zip,80017,CO,Arapahoe County,Aurora,8/31/2022,17.4
+Zip,80018,CO,Arapahoe County,Aurora,8/31/2022,16.9
+Zip,80019,CO,Arapahoe County,Aurora,8/31/2022,17.5
+Zip,80020,CO,Broomfield County,Broomfield,8/31/2022,16.4
+Zip,80021,CO,Adams County,Westminster,8/31/2022,16.9
+Zip,80022,CO,Adams County,Commerce City,8/31/2022,17.4
+Zip,80023,CO,Broomfield County,Broomfield,8/31/2022,15.7
+Zip,80030,CO,Adams County,Westminster,8/31/2022,17.8
+Zip,80031,CO,Adams County,Westminster,8/31/2022,17.3
+Zip,80033,CO,Jefferson County,Wheat Ridge,8/31/2022,17.1
+Zip,80101,CO,Elbert County,Agate,8/31/2022,18
+Zip,80102,CO,Adams County,Bennett,8/31/2022,17.2
+Zip,80103,CO,Arapahoe County,Byers,8/31/2022,17.7
+Zip,80104,CO,Douglas County,Castle Rock,8/31/2022,16.9
+Zip,80105,CO,Arapahoe County,Deer Trail,8/31/2022,19.4
+Zip,80106,CO,El Paso County,Elbert,8/31/2022,18.6
+Zip,80107,CO,Elbert County,Elizabeth,8/31/2022,17
+Zip,80108,CO,Douglas County,Castle Rock,8/31/2022,17
+Zip,80109,CO,Douglas County,Castle Rock,8/31/2022,16.6
+Zip,80110,CO,Arapahoe County,Englewood,8/31/2022,17
+Zip,80111,CO,Arapahoe County,Greenwood Village,8/31/2022,16.1
+Zip,80112,CO,Arapahoe County,Centennial,8/31/2022,16.1
+Zip,80113,CO,Arapahoe County,Englewood,8/31/2022,16.1
+Zip,80116,CO,Douglas County,Franktown,8/31/2022,18.3
+Zip,80117,CO,Elbert County,Kiowa,8/31/2022,17.8
+Zip,80118,CO,Douglas County,Larkspur,8/31/2022,17.6
+Zip,80120,CO,Arapahoe County,Littleton,8/31/2022,16.4
+Zip,80121,CO,Arapahoe County,Centennial,8/31/2022,16.1
+Zip,80122,CO,Arapahoe County,Centennial,8/31/2022,16.2
+Zip,80123,CO,Denver County,Denver,8/31/2022,16.7
+Zip,80124,CO,Douglas County,Lone Tree,8/31/2022,16.2
+Zip,80125,CO,Douglas County,Roxborough Park,8/31/2022,17.2
+Zip,80126,CO,Douglas County,Highlands Ranch,8/31/2022,17
+Zip,80127,CO,Jefferson County,Ken Caryl,8/31/2022,16.5
+Zip,80128,CO,Jefferson County,Ken Caryl,8/31/2022,17
+Zip,80129,CO,Douglas County,Highlands Ranch,8/31/2022,16.9
+Zip,80130,CO,Douglas County,Highlands Ranch,8/31/2022,16.6
+Zip,80131,CO,Douglas County,Louviers,8/31/2022,17.3
+Zip,80132,CO,El Paso County,Monument,8/31/2022,12.4
+Zip,80133,CO,El Paso County,Palmer Lake,8/31/2022,12.3
+Zip,80134,CO,Douglas County,Parker,8/31/2022,16.8
+Zip,80135,CO,Douglas County,Sedalia,8/31/2022,16.5
+Zip,80136,CO,Adams County,Strasburg,8/31/2022,17.3
+Zip,80137,CO,Arapahoe County,Watkins,8/31/2022,16.9
+Zip,80138,CO,Douglas County,Parker,8/31/2022,17
+Zip,80202,CO,Denver County,Denver,8/31/2022,11.4
+Zip,80203,CO,Denver County,Denver,8/31/2022,12.8
+Zip,80204,CO,Denver County,Denver,8/31/2022,15.6
+Zip,80205,CO,Denver County,Denver,8/31/2022,15.5
+Zip,80206,CO,Denver County,Denver,8/31/2022,14.3
+Zip,80207,CO,Denver County,Denver,8/31/2022,15.9
+Zip,80209,CO,Denver County,Denver,8/31/2022,14.6
+Zip,80210,CO,Denver County,Denver,8/31/2022,14.9
+Zip,80211,CO,Denver County,Denver,8/31/2022,15.2
+Zip,80212,CO,Denver County,Denver,8/31/2022,16.1
+Zip,80214,CO,Jefferson County,Lakewood,8/31/2022,17.4
+Zip,80215,CO,Jefferson County,Lakewood,8/31/2022,17
+Zip,80216,CO,Denver County,Denver,8/31/2022,15.4
+Zip,80218,CO,Denver County,Denver,8/31/2022,13.1
+Zip,80219,CO,Denver County,Denver,8/31/2022,16.2
+Zip,80220,CO,Denver County,Denver,8/31/2022,15.8
+Zip,80221,CO,Adams County,Sherrelwood,8/31/2022,17
+Zip,80222,CO,Denver County,Denver,8/31/2022,15.9
+Zip,80223,CO,Denver County,Denver,8/31/2022,16.4
+Zip,80224,CO,Denver County,Denver,8/31/2022,15.4
+Zip,80226,CO,Jefferson County,Lakewood,8/31/2022,16.9
+Zip,80227,CO,Jefferson County,Lakewood,8/31/2022,16.8
+Zip,80228,CO,Jefferson County,Lakewood,8/31/2022,16.8
+Zip,80229,CO,Adams County,Thornton,8/31/2022,17.3
+Zip,80230,CO,Denver County,Denver,8/31/2022,13.9
+Zip,80231,CO,Denver County,Denver,8/31/2022,15.8
+Zip,80232,CO,Jefferson County,Lakewood,8/31/2022,17.2
+Zip,80233,CO,Adams County,Northglenn,8/31/2022,17.3
+Zip,80234,CO,Adams County,Westminster,8/31/2022,17
+Zip,80235,CO,Denver County,Denver,8/31/2022,16.3
+Zip,80236,CO,Denver County,Denver,8/31/2022,16
+Zip,80237,CO,Denver County,Denver,8/31/2022,15.1
+Zip,80238,CO,Denver County,Denver,8/31/2022,14.3
+Zip,80239,CO,Denver County,Denver,8/31/2022,16.1
+Zip,80241,CO,Adams County,Thornton,8/31/2022,17
+Zip,80246,CO,Denver County,Denver,8/31/2022,15.2
+Zip,80247,CO,Denver County,Denver,8/31/2022,15.4
+Zip,80249,CO,Denver County,Denver,8/31/2022,16.4
+Zip,80260,CO,Adams County,Thornton,8/31/2022,17.1
+Zip,80401,CO,Jefferson County,Golden,8/31/2022,17.3
+Zip,80403,CO,Jefferson County,Golden,8/31/2022,17.5
+Zip,80420,CO,Park County,Alma,8/31/2022,12.6
+Zip,80421,CO,Park County,Bailey,8/31/2022,13.2
+Zip,80422,CO,Clear Creek County,Idaho Springs,8/31/2022,12.8
+Zip,80425,CO,Jefferson County,Pine,8/31/2022,18.7
+Zip,80427,CO,Gilpin County,Central City,8/31/2022,12
+Zip,80432,CO,Park County,Jefferson,8/31/2022,13.1
+Zip,80433,CO,Jefferson County,Conifer,8/31/2022,17.1
+Zip,80436,CO,Clear Creek County,Downieville-Lawson-Dumont,8/31/2022,13.2
+Zip,80438,CO,Clear Creek County,Empire,8/31/2022,14
+Zip,80439,CO,Jefferson County,Evergreen,8/31/2022,16.7
+Zip,80440,CO,Park County,Fairplay,8/31/2022,12.7
+Zip,80444,CO,Clear Creek County,Georgetown,8/31/2022,13.3
+Zip,80448,CO,Park County,Grant,8/31/2022,12
+Zip,80449,CO,Park County,Hartsel,8/31/2022,13.1
+Zip,80452,CO,Clear Creek County,Idaho Springs,8/31/2022,13.2
+Zip,80453,CO,Jefferson County,Morrison,8/31/2022,20.2
+Zip,80454,CO,Jefferson County,Indian Hills,8/31/2022,18.7
+Zip,80456,CO,Park County,Jefferson,8/31/2022,13.6
+Zip,80457,CO,Jefferson County,Kittredge,8/31/2022,18.9
+Zip,80465,CO,Jefferson County,Morrison,8/31/2022,17.3
+Zip,80470,CO,Jefferson County,Pine,8/31/2022,17.3
+Zip,80474,CO,Gilpin County,Rollinsville,8/31/2022,12.4
+Zip,80475,CO,Park County,Bailey,8/31/2022,12.9
+Zip,80476,CO,Clear Creek County,Silver Plume,8/31/2022,12.1
+Zip,80511,CO,Larimer County,Estes Park,8/31/2022,12.6
+Zip,80512,CO,Larimer County,Bellvue,8/31/2022,9.7
+Zip,80513,CO,Larimer County,Berthoud,8/31/2022,11.8
+Zip,80515,CO,Larimer County,Drake,8/31/2022,11.8
+Zip,80517,CO,Larimer County,Estes Park,8/31/2022,11.8
+Zip,80521,CO,Larimer County,Fort Collins,8/31/2022,11
+Zip,80524,CO,Larimer County,Fort Collins,8/31/2022,10.9
+Zip,80525,CO,Larimer County,Fort Collins,8/31/2022,11
+Zip,80526,CO,Larimer County,Fort Collins,8/31/2022,10.9
+Zip,80528,CO,Larimer County,Fort Collins,8/31/2022,11.2
+Zip,80532,CO,Larimer County,Drake,8/31/2022,11.7
+Zip,80535,CO,Larimer County,Laporte,8/31/2022,11.3
+Zip,80536,CO,Larimer County,Livermore,8/31/2022,10.4
+Zip,80537,CO,Larimer County,Loveland,8/31/2022,11.6
+Zip,80538,CO,Larimer County,Loveland,8/31/2022,11.2
+Zip,80545,CO,Larimer County,Red Feather Lakes,8/31/2022,12.7
+Zip,80547,CO,Larimer County,Timnath,8/31/2022,11.2
+Zip,80549,CO,Larimer County,Wellington,8/31/2022,11.7
+Zip,80601,CO,Adams County,Brighton,8/31/2022,17
+Zip,80602,CO,Adams County,Thornton,8/31/2022,16.8
+Zip,80640,CO,Adams County,Commerce City,8/31/2022,17.1
+Zip,80808,CO,El Paso County,Calhan,8/31/2022,13.5
+Zip,80809,CO,El Paso County,Green Mountain Falls,8/31/2022,13.8
+Zip,80813,CO,Teller County,Cripple Creek,8/31/2022,9.5
+Zip,80814,CO,Teller County,Divide,8/31/2022,9.1
+Zip,80816,CO,Teller County,Florissant,8/31/2022,9.2
+Zip,80817,CO,El Paso County,Fountain,8/31/2022,15.1
+Zip,80819,CO,El Paso County,Green Mountain Falls,8/31/2022,14
+Zip,80820,CO,Park County,Guffey,8/31/2022,12.3
+Zip,80827,CO,Park County,Lake George,8/31/2022,12.6
+Zip,80829,CO,El Paso County,Manitou Springs,8/31/2022,12.2
+Zip,80830,CO,Elbert County,Matheson,8/31/2022,17.4
+Zip,80831,CO,El Paso County,Peyton,8/31/2022,12.7
+Zip,80832,CO,El Paso County,Ramah,8/31/2022,11.8
+Zip,80835,CO,Elbert County,Simla,8/31/2022,16.5
+Zip,80860,CO,Teller County,Victor,8/31/2022,9.7
+Zip,80863,CO,Teller County,Woodland Park,8/31/2022,9.2
+Zip,80864,CO,El Paso County,Yoder,8/31/2022,13
+Zip,80903,CO,El Paso County,Colorado Springs,8/31/2022,15.2
+Zip,80904,CO,El Paso County,Colorado Springs,8/31/2022,14.1
+Zip,80905,CO,El Paso County,Colorado Springs,8/31/2022,14.8
+Zip,80906,CO,El Paso County,Colorado Springs,8/31/2022,12.6
+Zip,80907,CO,El Paso County,Colorado Springs,8/31/2022,15.8
+Zip,80908,CO,El Paso County,Black Forest,8/31/2022,13.7
+Zip,80909,CO,El Paso County,Colorado Springs,8/31/2022,13.3
+Zip,80910,CO,El Paso County,Colorado Springs,8/31/2022,13.8
+Zip,80911,CO,El Paso County,Security-Widefield,8/31/2022,13.6
+Zip,80915,CO,El Paso County,Colorado Springs,8/31/2022,17.1
+Zip,80916,CO,El Paso County,Colorado Springs,8/31/2022,13.8
+Zip,80917,CO,El Paso County,Colorado Springs,8/31/2022,16.1
+Zip,80918,CO,El Paso County,Colorado Springs,8/31/2022,15.4
+Zip,80919,CO,El Paso County,Colorado Springs,8/31/2022,13.9
+Zip,80920,CO,El Paso County,Colorado Springs,8/31/2022,13.5
+Zip,80921,CO,El Paso County,Colorado Springs,8/31/2022,12
+Zip,80922,CO,El Paso County,Colorado Springs,8/31/2022,14.5
+Zip,80923,CO,El Paso County,Colorado Springs,8/31/2022,13.9
+Zip,80924,CO,El Paso County,Colorado Springs,8/31/2022,11.9
+Zip,80925,CO,El Paso County,Colorado Springs,8/31/2022,13.8
+Zip,80926,CO,El Paso County,Black Forest,8/31/2022,12.7
+Zip,80927,CO,El Paso County,Colorado Springs,8/31/2022,12
+Zip,80928,CO,El Paso County,Calhan,8/31/2022,16.1
+Zip,80929,CO,El Paso County,Colorado Springs,8/31/2022,14.1
+Zip,80930,CO,El Paso County,Calhan,8/31/2022,13.8
+Zip,80938,CO,El Paso County,Colorado Springs,8/31/2022,13.8
+Zip,80951,CO,El Paso County,Colorado Springs,8/31/2022,14.5
+Zip,85003,AZ,Maricopa County,Phoenix,8/31/2022,19.6
+Zip,85004,AZ,Maricopa County,Phoenix,8/31/2022,19.8
+Zip,85006,AZ,Maricopa County,Phoenix,8/31/2022,21.4
+Zip,85007,AZ,Maricopa County,Phoenix,8/31/2022,20.8
+Zip,85008,AZ,Maricopa County,Phoenix,8/31/2022,21.3
+Zip,85009,AZ,Maricopa County,Phoenix,8/31/2022,20.9
+Zip,85012,AZ,Maricopa County,Phoenix,8/31/2022,20
+Zip,85013,AZ,Maricopa County,Phoenix,8/31/2022,19.5
+Zip,85014,AZ,Maricopa County,Phoenix,8/31/2022,20.4
+Zip,85015,AZ,Maricopa County,Phoenix,8/31/2022,22
+Zip,85016,AZ,Maricopa County,Phoenix,8/31/2022,19.8
+Zip,85017,AZ,Maricopa County,Phoenix,8/31/2022,21.9
+Zip,85018,AZ,Maricopa County,Phoenix,8/31/2022,21.5
+Zip,85019,AZ,Maricopa County,Phoenix,8/31/2022,20.1
+Zip,85020,AZ,Maricopa County,Phoenix,8/31/2022,20.9
+Zip,85021,AZ,Maricopa County,Phoenix,8/31/2022,21.1
+Zip,85022,AZ,Maricopa County,Phoenix,8/31/2022,20.7
+Zip,85023,AZ,Maricopa County,Phoenix,8/31/2022,20.9
+Zip,85024,AZ,Maricopa County,Phoenix,8/31/2022,20.5
+Zip,85027,AZ,Maricopa County,Phoenix,8/31/2022,21.4
+Zip,85028,AZ,Maricopa County,Phoenix,8/31/2022,20.2
+Zip,85029,AZ,Maricopa County,Phoenix,8/31/2022,21.7
+Zip,85031,AZ,Maricopa County,Phoenix,8/31/2022,19.4
+Zip,85032,AZ,Maricopa County,Phoenix,8/31/2022,21.3
+Zip,85033,AZ,Maricopa County,Phoenix,8/31/2022,20.5
+Zip,85034,AZ,Maricopa County,Phoenix,8/31/2022,20.9
+Zip,85035,AZ,Maricopa County,Phoenix,8/31/2022,19.4
+Zip,85037,AZ,Maricopa County,Phoenix,8/31/2022,22.6
+Zip,85040,AZ,Maricopa County,Phoenix,8/31/2022,20.8
+Zip,85041,AZ,Maricopa County,Phoenix,8/31/2022,22.7
+Zip,85042,AZ,Maricopa County,Phoenix,8/31/2022,21.5
+Zip,85043,AZ,Maricopa County,Phoenix,8/31/2022,22.6
+Zip,85044,AZ,Maricopa County,Phoenix,8/31/2022,19.9
+Zip,85045,AZ,Maricopa County,Phoenix,8/31/2022,20.2
+Zip,85048,AZ,Maricopa County,Phoenix,8/31/2022,19.8
+Zip,85050,AZ,Maricopa County,Phoenix,8/31/2022,20.4
+Zip,85051,AZ,Maricopa County,Phoenix,8/31/2022,22.1
+Zip,85053,AZ,Maricopa County,Phoenix,8/31/2022,21.5
+Zip,85054,AZ,Maricopa County,Phoenix,8/31/2022,19.8
+Zip,85083,AZ,Maricopa County,Phoenix,8/31/2022,21
+Zip,85085,AZ,Maricopa County,Phoenix,8/31/2022,20.7
+Zip,85086,AZ,Maricopa County,Anthem,8/31/2022,21.5
+Zip,85087,AZ,Maricopa County,New River,8/31/2022,21.8
+Zip,85118,AZ,Pinal County,Gold Canyon,8/31/2022,19.4
+Zip,85119,AZ,Pinal County,Apache Junction,8/31/2022,19.2
+Zip,85120,AZ,Pinal County,Apache Junction,8/31/2022,19.6
+Zip,85122,AZ,Pinal County,Casa Grande,8/31/2022,19.9
+Zip,85123,AZ,Pinal County,Casa Grande,8/31/2022,20.4
+Zip,85128,AZ,Pinal County,Coolidge,8/31/2022,20.2
+Zip,85131,AZ,Pinal County,Eloy,8/31/2022,17.7
+Zip,85132,AZ,Pinal County,Florence,8/31/2022,20.5
+Zip,85137,AZ,Pinal County,Kearny,8/31/2022,17
+Zip,85138,AZ,Pinal County,Maricopa,8/31/2022,20.8
+Zip,85139,AZ,Pinal County,Maricopa,8/31/2022,20.5
+Zip,85140,AZ,Pinal County,Queen Creek,8/31/2022,20.4
+Zip,85141,AZ,Pinal County,Eloy,8/31/2022,15.3
+Zip,85142,AZ,Pinal County,Queen Creek,8/31/2022,21.5
+Zip,85143,AZ,Pinal County,San Tan Valley,8/31/2022,20.8
+Zip,85145,AZ,Pima County,Marana,8/31/2022,18.6
+Zip,85172,AZ,Pinal County,Stanfield,8/31/2022,18.9
+Zip,85173,AZ,Pinal County,Superior,8/31/2022,17
+Zip,85191,AZ,Pinal County,Valley Farms,8/31/2022,20.3
+Zip,85192,AZ,Pinal County,Dudleyville,8/31/2022,18.8
+Zip,85193,AZ,Pinal County,Casa Grande,8/31/2022,19.2
+Zip,85194,AZ,Pinal County,Casa Grande,8/31/2022,18.6
+Zip,85201,AZ,Maricopa County,Mesa,8/31/2022,21.2
+Zip,85202,AZ,Maricopa County,Mesa,8/31/2022,21
+Zip,85203,AZ,Maricopa County,Mesa,8/31/2022,21.5
+Zip,85204,AZ,Maricopa County,Mesa,8/31/2022,20.2
+Zip,85205,AZ,Maricopa County,Mesa,8/31/2022,21
+Zip,85206,AZ,Maricopa County,Mesa,8/31/2022,20.9
+Zip,85207,AZ,Maricopa County,Mesa,8/31/2022,20.8
+Zip,85208,AZ,Maricopa County,Mesa,8/31/2022,21.5
+Zip,85209,AZ,Maricopa County,Mesa,8/31/2022,20.9
+Zip,85210,AZ,Maricopa County,Mesa,8/31/2022,21.3
+Zip,85212,AZ,Maricopa County,Mesa,8/31/2022,21.3
+Zip,85213,AZ,Maricopa County,Mesa,8/31/2022,20.8
+Zip,85215,AZ,Maricopa County,Mesa,8/31/2022,21
+Zip,85224,AZ,Maricopa County,Chandler,8/31/2022,20.2
+Zip,85225,AZ,Maricopa County,Chandler,8/31/2022,20.1
+Zip,85226,AZ,Maricopa County,Chandler,8/31/2022,19.7
+Zip,85233,AZ,Maricopa County,Gilbert,8/31/2022,20.1
+Zip,85234,AZ,Maricopa County,Gilbert,8/31/2022,20.9
+Zip,85248,AZ,Maricopa County,Chandler,8/31/2022,19.8
+Zip,85249,AZ,Maricopa County,Chandler,8/31/2022,21
+Zip,85250,AZ,Maricopa County,Scottsdale,8/31/2022,20.2
+Zip,85251,AZ,Maricopa County,Scottsdale,8/31/2022,20.5
+Zip,85253,AZ,Maricopa County,Paradise Valley,8/31/2022,20.7
+Zip,85254,AZ,Maricopa County,Phoenix,8/31/2022,20.9
+Zip,85255,AZ,Maricopa County,Scottsdale,8/31/2022,20.4
+Zip,85257,AZ,Maricopa County,Scottsdale,8/31/2022,21.4
+Zip,85258,AZ,Maricopa County,Scottsdale,8/31/2022,20.4
+Zip,85259,AZ,Maricopa County,Scottsdale,8/31/2022,20.5
+Zip,85260,AZ,Maricopa County,Scottsdale,8/31/2022,20.4
+Zip,85262,AZ,Maricopa County,Scottsdale,8/31/2022,20.4
+Zip,85263,AZ,Maricopa County,Rio Verde,8/31/2022,19.7
+Zip,85264,AZ,Maricopa County,Fort McDowell,8/31/2022,18.1
+Zip,85266,AZ,Maricopa County,Scottsdale,8/31/2022,20.4
+Zip,85268,AZ,Maricopa County,Fountain Hills,8/31/2022,19.7
+Zip,85281,AZ,Maricopa County,Tempe,8/31/2022,20.8
+Zip,85282,AZ,Maricopa County,Tempe,8/31/2022,20.8
+Zip,85283,AZ,Maricopa County,Tempe,8/31/2022,20.4
+Zip,85284,AZ,Maricopa County,Tempe,8/31/2022,19.4
+Zip,85286,AZ,Maricopa County,Chandler,8/31/2022,20
+Zip,85295,AZ,Maricopa County,Gilbert,8/31/2022,20.9
+Zip,85296,AZ,Maricopa County,Gilbert,8/31/2022,21
+Zip,85297,AZ,Maricopa County,Gilbert,8/31/2022,20.8
+Zip,85298,AZ,Maricopa County,Gilbert,8/31/2022,20.7
+Zip,85301,AZ,Maricopa County,Glendale,8/31/2022,22.2
+Zip,85302,AZ,Maricopa County,Glendale,8/31/2022,21.2
+Zip,85303,AZ,Maricopa County,Glendale,8/31/2022,22.4
+Zip,85304,AZ,Maricopa County,Glendale,8/31/2022,20.9
+Zip,85305,AZ,Maricopa County,Glendale,8/31/2022,21.5
+Zip,85306,AZ,Maricopa County,Glendale,8/31/2022,20.8
+Zip,85307,AZ,Maricopa County,Glendale,8/31/2022,22.1
+Zip,85308,AZ,Maricopa County,Glendale,8/31/2022,20.9
+Zip,85310,AZ,Maricopa County,Phoenix,8/31/2022,21
+Zip,85320,AZ,Maricopa County,Aguila,8/31/2022,23.6
+Zip,85321,AZ,Pima County,Ajo,8/31/2022,13.2
+Zip,85322,AZ,Maricopa County,Arlington,8/31/2022,24.7
+Zip,85323,AZ,Maricopa County,Avondale,8/31/2022,22.7
+Zip,85326,AZ,Maricopa County,Buckeye,8/31/2022,23
+Zip,85331,AZ,Maricopa County,Phoenix,8/31/2022,20.6
+Zip,85335,AZ,Maricopa County,El Mirage,8/31/2022,22.5
+Zip,85337,AZ,Maricopa County,Gila Bend,8/31/2022,22.6
+Zip,85338,AZ,Maricopa County,Goodyear,8/31/2022,21.9
+Zip,85339,AZ,Maricopa County,Phoenix,8/31/2022,22.1
+Zip,85340,AZ,Maricopa County,Litchfield Park,8/31/2022,21.2
+Zip,85342,AZ,Maricopa County,Peoria,8/31/2022,22.6
+Zip,85343,AZ,Maricopa County,Buckeye,8/31/2022,22.5
+Zip,85345,AZ,Maricopa County,Peoria,8/31/2022,21.9
+Zip,85351,AZ,Maricopa County,Sun City,8/31/2022,21.6
+Zip,85353,AZ,Maricopa County,Phoenix,8/31/2022,22.4
+Zip,85354,AZ,Maricopa County,Tonopah,8/31/2022,24.6
+Zip,85355,AZ,Maricopa County,Waddell,8/31/2022,21.7
+Zip,85361,AZ,Maricopa County,Surprise,8/31/2022,21.8
+Zip,85363,AZ,Maricopa County,Youngtown,8/31/2022,21.9
+Zip,85373,AZ,Maricopa County,Sun City,8/31/2022,20.9
+Zip,85374,AZ,Maricopa County,Surprise,8/31/2022,21.4
+Zip,85375,AZ,Maricopa County,Sun City West,8/31/2022,20.7
+Zip,85377,AZ,Maricopa County,Carefree,8/31/2022,20.8
+Zip,85378,AZ,Maricopa County,Surprise,8/31/2022,21.7
+Zip,85379,AZ,Maricopa County,Surprise,8/31/2022,21.9
+Zip,85381,AZ,Maricopa County,Peoria,8/31/2022,21.5
+Zip,85382,AZ,Maricopa County,Peoria,8/31/2022,21.2
+Zip,85383,AZ,Maricopa County,Peoria,8/31/2022,21.2
+Zip,85387,AZ,Maricopa County,Surprise,8/31/2022,20.4
+Zip,85388,AZ,Maricopa County,Surprise,8/31/2022,21.8
+Zip,85390,AZ,Maricopa County,Wickenburg,8/31/2022,21.1
+Zip,85392,AZ,Maricopa County,Avondale,8/31/2022,21.9
+Zip,85395,AZ,Maricopa County,Goodyear,8/31/2022,20.5
+Zip,85396,AZ,Maricopa County,Buckeye,8/31/2022,21.1
+Zip,85601,AZ,Pima County,Arivaca,8/31/2022,18.2
+Zip,85614,AZ,Pima County,Green Valley,8/31/2022,15.4
+Zip,85618,AZ,Pinal County,Mammoth,8/31/2022,13.7
+Zip,85619,AZ,Cochise County,Benson,8/31/2022,13.7
+Zip,85622,AZ,Pima County,Green Valley,8/31/2022,15.2
+Zip,85623,AZ,Pinal County,Oracle,8/31/2022,19.2
+Zip,85629,AZ,Pima County,Sahuarita,8/31/2022,15.6
+Zip,85631,AZ,Pinal County,San Manuel,8/31/2022,21.6
+Zip,85641,AZ,Pima County,Vail,8/31/2022,15.5
+Zip,85645,AZ,Pima County,Amado,8/31/2022,19.8
+Zip,85653,AZ,Pima County,Marana,8/31/2022,16.7
+Zip,85658,AZ,Pima County,Marana,8/31/2022,14.5
+Zip,85701,AZ,Pima County,Tucson,8/31/2022,13.7
+Zip,85704,AZ,Pima County,Tucson,8/31/2022,15.6
+Zip,85705,AZ,Pima County,Tucson,8/31/2022,18.3
+Zip,85706,AZ,Pima County,Tucson,8/31/2022,18.6
+Zip,85710,AZ,Pima County,Tucson,8/31/2022,17.5
+Zip,85711,AZ,Pima County,Tucson,8/31/2022,15.5
+Zip,85712,AZ,Pima County,Tucson,8/31/2022,16.6
+Zip,85713,AZ,Pima County,Tucson,8/31/2022,19
+Zip,85714,AZ,Pima County,Tucson,8/31/2022,16.5
+Zip,85715,AZ,Pima County,Tucson,8/31/2022,15.6
+Zip,85716,AZ,Pima County,Tucson,8/31/2022,15.9
+Zip,85718,AZ,Pima County,Tucson,8/31/2022,14.5
+Zip,85719,AZ,Pima County,Tucson,8/31/2022,15.9
+Zip,85730,AZ,Pima County,Tucson,8/31/2022,15.7
+Zip,85735,AZ,Pima County,Tucson,8/31/2022,16.4
+Zip,85736,AZ,Pima County,Three Points,8/31/2022,19.7
+Zip,85737,AZ,Pima County,Oro Valley,8/31/2022,14.7
+Zip,85739,AZ,Pima County,Catalina,8/31/2022,16.9
+Zip,85741,AZ,Pima County,Tucson,8/31/2022,16.7
+Zip,85742,AZ,Pima County,Tucson,8/31/2022,15.7
+Zip,85743,AZ,Pima County,Tucson,8/31/2022,15.5
+Zip,85745,AZ,Pima County,Tucson,8/31/2022,16.3
+Zip,85746,AZ,Pima County,Tucson,8/31/2022,18
+Zip,85747,AZ,Pima County,Tucson,8/31/2022,15.7
+Zip,85748,AZ,Pima County,Tucson,8/31/2022,15.6
+Zip,85749,AZ,Pima County,Tucson,8/31/2022,15
+Zip,85750,AZ,Pima County,Tucson,8/31/2022,14.5
+Zip,85755,AZ,Pima County,Oro Valley,8/31/2022,14.8
+Zip,85756,AZ,Pima County,Tucson,8/31/2022,16.9
+Zip,85757,AZ,Pima County,Tucson,8/31/2022,16.7
+Zip,89002,NV,Clark County,Henderson,8/31/2022,13.7
+Zip,89004,NV,Clark County,Las Vegas,8/31/2022,12.8
+Zip,89005,NV,Clark County,Boulder City,8/31/2022,12.7
+Zip,89007,NV,Clark County,Bunkerville,8/31/2022,14.7
+Zip,89011,NV,Clark County,Henderson,8/31/2022,13.9
+Zip,89012,NV,Clark County,Henderson,8/31/2022,13.7
+Zip,89014,NV,Clark County,Henderson,8/31/2022,13.9
+Zip,89015,NV,Clark County,Henderson,8/31/2022,14
+Zip,89018,NV,Clark County,Indian Springs,8/31/2022,11.2
+Zip,89019,NV,Clark County,Jean,8/31/2022,12.2
+Zip,89021,NV,Clark County,Logandale,8/31/2022,13.2
+Zip,89025,NV,Clark County,Moapa,8/31/2022,11.4
+Zip,89027,NV,Clark County,Mesquite,8/31/2022,13.5
+Zip,89029,NV,Clark County,Laughlin,8/31/2022,12.8
+Zip,89030,NV,Clark County,North Las Vegas,8/31/2022,12.9
+Zip,89031,NV,Clark County,North Las Vegas,8/31/2022,14.4
+Zip,89032,NV,Clark County,North Las Vegas,8/31/2022,14.6
+Zip,89039,NV,Clark County,Cal Nev Ari,8/31/2022,12.3
+Zip,89040,NV,Clark County,Overton,8/31/2022,13.7
+Zip,89044,NV,Clark County,Henderson,8/31/2022,13.4
+Zip,89046,NV,Clark County,Searchlight,8/31/2022,11.7
+Zip,89052,NV,Clark County,Henderson,8/31/2022,13.3
+Zip,89054,NV,Clark County,Las Vegas,8/31/2022,14.8
+Zip,89074,NV,Clark County,Henderson,8/31/2022,13.6
+Zip,89081,NV,Clark County,North Las Vegas,8/31/2022,14.3
+Zip,89084,NV,Clark County,North Las Vegas,8/31/2022,13.9
+Zip,89085,NV,Clark County,North Las Vegas,8/31/2022,13.6
+Zip,89086,NV,Clark County,North Las Vegas,8/31/2022,14.4
+Zip,89101,NV,Clark County,Las Vegas,8/31/2022,14.2
+Zip,89102,NV,Clark County,Las Vegas,8/31/2022,13.7
+Zip,89103,NV,Clark County,Las Vegas,8/31/2022,13.8
+Zip,89104,NV,Clark County,Las Vegas,8/31/2022,14.4
+Zip,89106,NV,Clark County,Las Vegas,8/31/2022,14.5
+Zip,89107,NV,Clark County,Las Vegas,8/31/2022,14.2
+Zip,89108,NV,Clark County,Las Vegas,8/31/2022,14.6
+Zip,89109,NV,Clark County,Las Vegas,8/31/2022,10.8
+Zip,89110,NV,Clark County,Las Vegas,8/31/2022,14.1
+Zip,89113,NV,Clark County,Las Vegas,8/31/2022,13.7
+Zip,89115,NV,Clark County,Las Vegas,8/31/2022,13.6
+Zip,89117,NV,Clark County,Las Vegas,8/31/2022,13.7
+Zip,89118,NV,Clark County,Las Vegas,8/31/2022,13.8
+Zip,89119,NV,Clark County,Las Vegas,8/31/2022,14
+Zip,89120,NV,Clark County,Las Vegas,8/31/2022,14
+Zip,89121,NV,Clark County,Las Vegas,8/31/2022,13.9
+Zip,89122,NV,Clark County,Las Vegas,8/31/2022,14.4
+Zip,89123,NV,Clark County,Las Vegas,8/31/2022,13.6
+Zip,89124,NV,Clark County,Mount Charleston,8/31/2022,13.2
+Zip,89128,NV,Clark County,Las Vegas,8/31/2022,14.3
+Zip,89129,NV,Clark County,Las Vegas,8/31/2022,14
+Zip,89130,NV,Clark County,Las Vegas,8/31/2022,14.2
+Zip,89131,NV,Clark County,Las Vegas,8/31/2022,14
+Zip,89134,NV,Clark County,Las Vegas,8/31/2022,13.8
+Zip,89135,NV,Clark County,Las Vegas,8/31/2022,13.4
+Zip,89138,NV,Clark County,Las Vegas,8/31/2022,13.5
+Zip,89139,NV,Clark County,Las Vegas,8/31/2022,13.7
+Zip,89141,NV,Clark County,Las Vegas,8/31/2022,13.9
+Zip,89142,NV,Clark County,Las Vegas,8/31/2022,14.4
+Zip,89143,NV,Clark County,Las Vegas,8/31/2022,14.2
+Zip,89144,NV,Clark County,Las Vegas,8/31/2022,13.5
+Zip,89145,NV,Clark County,Las Vegas,8/31/2022,14
+Zip,89146,NV,Clark County,Las Vegas,8/31/2022,14.1
+Zip,89147,NV,Clark County,Las Vegas,8/31/2022,13.6
+Zip,89148,NV,Clark County,Las Vegas,8/31/2022,13.8
+Zip,89149,NV,Clark County,Las Vegas,8/31/2022,14
+Zip,89156,NV,Clark County,Las Vegas,8/31/2022,14.3
+Zip,89158,NV,Clark County,Las Vegas,8/31/2022,11.1
+Zip,89161,NV,Clark County,Las Vegas,8/31/2022,12.8
+Zip,89166,NV,Clark County,Las Vegas,8/31/2022,14.1
+Zip,89169,NV,Clark County,Las Vegas,8/31/2022,13.5
+Zip,89178,NV,Clark County,Las Vegas,8/31/2022,14
+Zip,89179,NV,Clark County,Las Vegas,8/31/2022,13.9
+Zip,89183,NV,Clark County,Las Vegas,8/31/2022,14.2
+Zip,90001,CA,Los Angeles County,Florence-Graham,8/31/2022,10.8
+Zip,90002,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,90003,CA,Los Angeles County,Los Angeles,8/31/2022,11.2
+Zip,90004,CA,Los Angeles County,Los Angeles,8/31/2022,13.3
+Zip,90005,CA,Los Angeles County,Los Angeles,8/31/2022,10.5
+Zip,90006,CA,Los Angeles County,Los Angeles,8/31/2022,10.1
+Zip,90007,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,90008,CA,Los Angeles County,Los Angeles,8/31/2022,13
+Zip,90010,CA,Los Angeles County,Los Angeles,8/31/2022,9.9
+Zip,90011,CA,Los Angeles County,Los Angeles,8/31/2022,10.1
+Zip,90012,CA,Los Angeles County,Los Angeles,8/31/2022,9.7
+Zip,90013,CA,Los Angeles County,Los Angeles,8/31/2022,9.2
+Zip,90014,CA,Los Angeles County,Los Angeles,8/31/2022,8.2
+Zip,90015,CA,Los Angeles County,Los Angeles,8/31/2022,8.1
+Zip,90016,CA,Los Angeles County,Los Angeles,8/31/2022,11.7
+Zip,90017,CA,Los Angeles County,Los Angeles,8/31/2022,8.5
+Zip,90018,CA,Los Angeles County,Los Angeles,8/31/2022,12.1
+Zip,90019,CA,Los Angeles County,Los Angeles,8/31/2022,12.9
+Zip,90020,CA,Los Angeles County,Los Angeles,8/31/2022,9.9
+Zip,90021,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,90022,CA,Los Angeles County,East Los Angeles,8/31/2022,10.3
+Zip,90023,CA,Los Angeles County,Los Angeles,8/31/2022,10.7
+Zip,90024,CA,Los Angeles County,Los Angeles,8/31/2022,10.9
+Zip,90025,CA,Los Angeles County,Los Angeles,8/31/2022,9.8
+Zip,90026,CA,Los Angeles County,Los Angeles,8/31/2022,12.9
+Zip,90027,CA,Los Angeles County,Los Angeles,8/31/2022,13.4
+Zip,90028,CA,Los Angeles County,Los Angeles,8/31/2022,10.5
+Zip,90029,CA,Los Angeles County,Los Angeles,8/31/2022,11.2
+Zip,90031,CA,Los Angeles County,Los Angeles,8/31/2022,11.5
+Zip,90032,CA,Los Angeles County,Los Angeles,8/31/2022,11.2
+Zip,90033,CA,Los Angeles County,Los Angeles,8/31/2022,10.8
+Zip,90034,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,90035,CA,Los Angeles County,Los Angeles,8/31/2022,11.7
+Zip,90036,CA,Los Angeles County,Los Angeles,8/31/2022,12.4
+Zip,90037,CA,Los Angeles County,Los Angeles,8/31/2022,11.5
+Zip,90038,CA,Los Angeles County,Los Angeles,8/31/2022,10.9
+Zip,90039,CA,Los Angeles County,Los Angeles,8/31/2022,13.4
+Zip,90040,CA,Los Angeles County,Commerce,8/31/2022,10.3
+Zip,90041,CA,Los Angeles County,Los Angeles,8/31/2022,13.1
+Zip,90042,CA,Los Angeles County,Los Angeles,8/31/2022,12.7
+Zip,90043,CA,Los Angeles County,Los Angeles,8/31/2022,12.8
+Zip,90044,CA,Los Angeles County,Los Angeles,8/31/2022,12.5
+Zip,90045,CA,Los Angeles County,Los Angeles,8/31/2022,12.1
+Zip,90046,CA,Los Angeles County,Los Angeles,8/31/2022,12.1
+Zip,90047,CA,Los Angeles County,Los Angeles,8/31/2022,12.6
+Zip,90048,CA,Los Angeles County,Los Angeles,8/31/2022,13.8
+Zip,90049,CA,Los Angeles County,Los Angeles,8/31/2022,12.7
+Zip,90056,CA,Los Angeles County,Ladera Heights,8/31/2022,11.9
+Zip,90057,CA,Los Angeles County,Los Angeles,8/31/2022,9.4
+Zip,90058,CA,Los Angeles County,Los Angeles,8/31/2022,10.2
+Zip,90059,CA,Los Angeles County,Los Angeles,8/31/2022,11.5
+Zip,90061,CA,Los Angeles County,Los Angeles,8/31/2022,11
+Zip,90062,CA,Los Angeles County,Los Angeles,8/31/2022,11.6
+Zip,90063,CA,Los Angeles County,East Los Angeles,8/31/2022,11.8
+Zip,90064,CA,Los Angeles County,Los Angeles,8/31/2022,11.8
+Zip,90065,CA,Los Angeles County,Los Angeles,8/31/2022,12.2
+Zip,90066,CA,Los Angeles County,Los Angeles,8/31/2022,12.2
+Zip,90067,CA,Los Angeles County,Los Angeles,8/31/2022,11.1
+Zip,90068,CA,Los Angeles County,Los Angeles,8/31/2022,13
+Zip,90069,CA,Los Angeles County,West Hollywood,8/31/2022,11.5
+Zip,90077,CA,Los Angeles County,Los Angeles,8/31/2022,13.1
+Zip,90094,CA,Los Angeles County,Los Angeles,8/31/2022,10.6
+Zip,90201,CA,Los Angeles County,Bell,8/31/2022,10.9
+Zip,90210,CA,Los Angeles County,Beverly Hills,8/31/2022,13.2
+Zip,90211,CA,Los Angeles County,Beverly Hills,8/31/2022,12.8
+Zip,90212,CA,Los Angeles County,Beverly Hills,8/31/2022,13.4
+Zip,90220,CA,Los Angeles County,Compton,8/31/2022,11.6
+Zip,90221,CA,Los Angeles County,Compton,8/31/2022,11.6
+Zip,90222,CA,Los Angeles County,Compton,8/31/2022,12
+Zip,90230,CA,Los Angeles County,Culver City,8/31/2022,11.2
+Zip,90232,CA,Los Angeles County,Culver City,8/31/2022,12.6
+Zip,90240,CA,Los Angeles County,Downey,8/31/2022,11.6
+Zip,90241,CA,Los Angeles County,Downey,8/31/2022,11.4
+Zip,90242,CA,Los Angeles County,Downey,8/31/2022,10.7
+Zip,90245,CA,Los Angeles County,El Segundo,8/31/2022,11.2
+Zip,90247,CA,Los Angeles County,Gardena,8/31/2022,12
+Zip,90248,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,90249,CA,Los Angeles County,Gardena,8/31/2022,11.8
+Zip,90250,CA,Los Angeles County,Hawthorne,8/31/2022,11.4
+Zip,90254,CA,Los Angeles County,Hermosa Beach,8/31/2022,13.1
+Zip,90255,CA,Los Angeles County,Huntington Park,8/31/2022,11
+Zip,90260,CA,Los Angeles County,Lawndale,8/31/2022,11.8
+Zip,90262,CA,Los Angeles County,Lynwood,8/31/2022,11.2
+Zip,90265,CA,Los Angeles County,Malibu,8/31/2022,12.6
+Zip,90266,CA,Los Angeles County,Manhattan Beach,8/31/2022,13.4
+Zip,90270,CA,Los Angeles County,Maywood,8/31/2022,10.5
+Zip,90272,CA,Los Angeles County,Los Angeles,8/31/2022,12.3
+Zip,90274,CA,Los Angeles County,Palos Verdes Estates,8/31/2022,12.2
+Zip,90275,CA,Los Angeles County,Rancho Palos Verdes,8/31/2022,12.4
+Zip,90277,CA,Los Angeles County,Redondo Beach,8/31/2022,11.3
+Zip,90278,CA,Los Angeles County,Redondo Beach,8/31/2022,11.7
+Zip,90280,CA,Los Angeles County,South Gate,8/31/2022,11.4
+Zip,90290,CA,Los Angeles County,Topanga,8/31/2022,12.8
+Zip,90291,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,90292,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,90293,CA,Los Angeles County,Los Angeles,8/31/2022,10.2
+Zip,90301,CA,Los Angeles County,Inglewood,8/31/2022,12.4
+Zip,90302,CA,Los Angeles County,Inglewood,8/31/2022,12.4
+Zip,90303,CA,Los Angeles County,Inglewood,8/31/2022,11.9
+Zip,90304,CA,Los Angeles County,Inglewood,8/31/2022,11.5
+Zip,90305,CA,Los Angeles County,Inglewood,8/31/2022,13.1
+Zip,90401,CA,Los Angeles County,Santa Monica,8/31/2022,10.8
+Zip,90402,CA,Los Angeles County,Santa Monica,8/31/2022,13.5
+Zip,90403,CA,Los Angeles County,Santa Monica,8/31/2022,11
+Zip,90404,CA,Los Angeles County,Santa Monica,8/31/2022,9.7
+Zip,90405,CA,Los Angeles County,Santa Monica,8/31/2022,12.6
+Zip,90501,CA,Los Angeles County,Torrance,8/31/2022,11.6
+Zip,90502,CA,Los Angeles County,West Carson,8/31/2022,11.7
+Zip,90503,CA,Los Angeles County,Torrance,8/31/2022,11.8
+Zip,90504,CA,Los Angeles County,Torrance,8/31/2022,11.3
+Zip,90505,CA,Los Angeles County,Torrance,8/31/2022,12.1
+Zip,90601,CA,Los Angeles County,Whittier,8/31/2022,11.2
+Zip,90602,CA,Los Angeles County,Whittier,8/31/2022,11.5
+Zip,90603,CA,Los Angeles County,Whittier,8/31/2022,11.7
+Zip,90604,CA,Los Angeles County,Whittier,8/31/2022,11.6
+Zip,90605,CA,Los Angeles County,Whittier,8/31/2022,11.7
+Zip,90606,CA,Los Angeles County,Whittier,8/31/2022,11.4
+Zip,90620,CA,Orange County,Buena Park,8/31/2022,10.6
+Zip,90621,CA,Orange County,Buena Park,8/31/2022,10.9
+Zip,90623,CA,Orange County,La Palma,8/31/2022,11.5
+Zip,90630,CA,Orange County,Cypress,8/31/2022,10.9
+Zip,90631,CA,Orange County,La Habra,8/31/2022,11
+Zip,90638,CA,Los Angeles County,La Mirada,8/31/2022,11.3
+Zip,90640,CA,Los Angeles County,Montebello,8/31/2022,11
+Zip,90650,CA,Los Angeles County,Norwalk,8/31/2022,11.6
+Zip,90660,CA,Los Angeles County,Pico Rivera,8/31/2022,11.1
+Zip,90670,CA,Los Angeles County,Santa Fe Springs,8/31/2022,11.3
+Zip,90680,CA,Orange County,Stanton,8/31/2022,10.8
+Zip,90701,CA,Los Angeles County,Artesia,8/31/2022,11.3
+Zip,90703,CA,Los Angeles County,Cerritos,8/31/2022,11.4
+Zip,90704,CA,Los Angeles County,Avalon,8/31/2022,10.1
+Zip,90706,CA,Los Angeles County,Bellflower,8/31/2022,11
+Zip,90710,CA,Los Angeles County,Los Angeles,8/31/2022,11.1
+Zip,90712,CA,Los Angeles County,Lakewood,8/31/2022,11.6
+Zip,90713,CA,Los Angeles County,Lakewood,8/31/2022,10.9
+Zip,90715,CA,Los Angeles County,Lakewood,8/31/2022,11.6
+Zip,90716,CA,Los Angeles County,Hawaiian Gardens,8/31/2022,10.7
+Zip,90717,CA,Los Angeles County,Lomita,8/31/2022,11.4
+Zip,90720,CA,Orange County,Los Alamitos,8/31/2022,10.9
+Zip,90723,CA,Los Angeles County,Paramount,8/31/2022,10.7
+Zip,90731,CA,Los Angeles County,Los Angeles,8/31/2022,11.4
+Zip,90732,CA,Los Angeles County,Los Angeles,8/31/2022,11
+Zip,90740,CA,Orange County,Seal Beach,8/31/2022,8.9
+Zip,90742,CA,Orange County,Huntington Beach,8/31/2022,12.7
+Zip,90743,CA,Orange County,Seal Beach,8/31/2022,11.6
+Zip,90744,CA,Los Angeles County,Los Angeles,8/31/2022,11.4
+Zip,90745,CA,Los Angeles County,Carson,8/31/2022,11.5
+Zip,90746,CA,Los Angeles County,Carson,8/31/2022,11.4
+Zip,90755,CA,Los Angeles County,Signal Hill,8/31/2022,11.6
+Zip,90802,CA,Los Angeles County,Long Beach,8/31/2022,10.8
+Zip,90803,CA,Los Angeles County,Long Beach,8/31/2022,12.2
+Zip,90804,CA,Los Angeles County,Long Beach,8/31/2022,12.6
+Zip,90805,CA,Los Angeles County,Long Beach,8/31/2022,12
+Zip,90806,CA,Los Angeles County,Long Beach,8/31/2022,12.1
+Zip,90807,CA,Los Angeles County,Long Beach,8/31/2022,12.5
+Zip,90808,CA,Los Angeles County,Long Beach,8/31/2022,11.8
+Zip,90810,CA,Los Angeles County,Long Beach,8/31/2022,11.6
+Zip,90813,CA,Los Angeles County,Long Beach,8/31/2022,12.2
+Zip,90814,CA,Los Angeles County,Long Beach,8/31/2022,12.1
+Zip,90815,CA,Los Angeles County,Long Beach,8/31/2022,11.7
+Zip,91001,CA,Los Angeles County,Altadena,8/31/2022,12.7
+Zip,91006,CA,Los Angeles County,Arcadia,8/31/2022,13.2
+Zip,91007,CA,Los Angeles County,Arcadia,8/31/2022,12.6
+Zip,91008,CA,Los Angeles County,Bradbury,8/31/2022,10.7
+Zip,91010,CA,Los Angeles County,Duarte,8/31/2022,11.3
+Zip,91011,CA,Los Angeles County,La Canada Flintridge,8/31/2022,14
+Zip,91016,CA,Los Angeles County,Monrovia,8/31/2022,11.4
+Zip,91020,CA,Los Angeles County,La Crescenta-Montrose,8/31/2022,11.6
+Zip,91024,CA,Los Angeles County,Sierra Madre,8/31/2022,12.2
+Zip,91030,CA,Los Angeles County,South Pasadena,8/31/2022,14.9
+Zip,91040,CA,Los Angeles County,Los Angeles,8/31/2022,12.2
+Zip,91042,CA,Los Angeles County,Los Angeles,8/31/2022,11.7
+Zip,91101,CA,Los Angeles County,Pasadena,8/31/2022,10.7
+Zip,91103,CA,Los Angeles County,Pasadena,8/31/2022,11.1
+Zip,91104,CA,Los Angeles County,Pasadena,8/31/2022,12.6
+Zip,91105,CA,Los Angeles County,Pasadena,8/31/2022,13.6
+Zip,91106,CA,Los Angeles County,Pasadena,8/31/2022,11.4
+Zip,91107,CA,Los Angeles County,Pasadena,8/31/2022,12.4
+Zip,91108,CA,Los Angeles County,San Marino,8/31/2022,9.9
+Zip,91201,CA,Los Angeles County,Glendale,8/31/2022,12
+Zip,91202,CA,Los Angeles County,Glendale,8/31/2022,12
+Zip,91203,CA,Los Angeles County,Glendale,8/31/2022,11.3
+Zip,91204,CA,Los Angeles County,Glendale,8/31/2022,11.3
+Zip,91205,CA,Los Angeles County,Glendale,8/31/2022,11.1
+Zip,91206,CA,Los Angeles County,Glendale,8/31/2022,11.5
+Zip,91207,CA,Los Angeles County,Glendale,8/31/2022,12.6
+Zip,91208,CA,Los Angeles County,Glendale,8/31/2022,12.5
+Zip,91210,CA,Los Angeles County,Glendale,8/31/2022,13.2
+Zip,91214,CA,Los Angeles County,Glendale,8/31/2022,12.3
+Zip,91301,CA,Los Angeles County,Agoura Hills,8/31/2022,11
+Zip,91302,CA,Los Angeles County,Calabasas,8/31/2022,12.5
+Zip,91303,CA,Los Angeles County,Los Angeles,8/31/2022,11.8
+Zip,91304,CA,Los Angeles County,Los Angeles,8/31/2022,12.1
+Zip,91306,CA,Los Angeles County,Los Angeles,8/31/2022,11.3
+Zip,91307,CA,Los Angeles County,Los Angeles,8/31/2022,12.1
+Zip,91311,CA,Los Angeles County,Los Angeles,8/31/2022,11.7
+Zip,91316,CA,Los Angeles County,Los Angeles,8/31/2022,12
+Zip,91321,CA,Los Angeles County,Santa Clarita,8/31/2022,11.9
+Zip,91324,CA,Los Angeles County,Los Angeles,8/31/2022,12.1
+Zip,91325,CA,Los Angeles County,Los Angeles,8/31/2022,12.4
+Zip,91326,CA,Los Angeles County,Los Angeles,8/31/2022,12
+Zip,91331,CA,Los Angeles County,Los Angeles,8/31/2022,11
+Zip,91335,CA,Los Angeles County,Los Angeles,8/31/2022,12
+Zip,91340,CA,Los Angeles County,San Fernando,8/31/2022,12.2
+Zip,91342,CA,Los Angeles County,Los Angeles,8/31/2022,12.2
+Zip,91343,CA,Los Angeles County,Los Angeles,8/31/2022,12.2
+Zip,91344,CA,Los Angeles County,Los Angeles,8/31/2022,12.6
+Zip,91345,CA,Los Angeles County,Los Angeles,8/31/2022,11.7
+Zip,91350,CA,Los Angeles County,Santa Clarita,8/31/2022,12.1
+Zip,91351,CA,Los Angeles County,Santa Clarita,8/31/2022,11.8
+Zip,91352,CA,Los Angeles County,Los Angeles,8/31/2022,12.3
+Zip,91354,CA,Los Angeles County,Santa Clarita,8/31/2022,11.8
+Zip,91355,CA,Los Angeles County,Santa Clarita,8/31/2022,11.4
+Zip,91356,CA,Los Angeles County,Los Angeles,8/31/2022,12.6
+Zip,91364,CA,Los Angeles County,Los Angeles,8/31/2022,12
+Zip,91367,CA,Los Angeles County,Los Angeles,8/31/2022,12
+Zip,91381,CA,Los Angeles County,Santa Clarita,8/31/2022,11.7
+Zip,91384,CA,Los Angeles County,Castaic,8/31/2022,11.6
+Zip,91387,CA,Los Angeles County,Santa Clarita,8/31/2022,12
+Zip,91390,CA,Los Angeles County,Santa Clarita,8/31/2022,11.9
+Zip,91401,CA,Los Angeles County,Los Angeles,8/31/2022,12.4
+Zip,91402,CA,Los Angeles County,Los Angeles,8/31/2022,11.2
+Zip,91403,CA,Los Angeles County,Los Angeles,8/31/2022,12.6
+Zip,91405,CA,Los Angeles County,Los Angeles,8/31/2022,11.2
+Zip,91406,CA,Los Angeles County,Los Angeles,8/31/2022,12.3
+Zip,91411,CA,Los Angeles County,Los Angeles,8/31/2022,11.6
+Zip,91423,CA,Los Angeles County,Los Angeles,8/31/2022,13
+Zip,91436,CA,Los Angeles County,Los Angeles,8/31/2022,12.9
+Zip,91501,CA,Los Angeles County,Burbank,8/31/2022,11.7
+Zip,91502,CA,Los Angeles County,Burbank,8/31/2022,11
+Zip,91504,CA,Los Angeles County,Burbank,8/31/2022,12.4
+Zip,91505,CA,Los Angeles County,Burbank,8/31/2022,11.8
+Zip,91506,CA,Los Angeles County,Burbank,8/31/2022,12
+Zip,91601,CA,Los Angeles County,Los Angeles,8/31/2022,11.2
+Zip,91602,CA,Los Angeles County,Los Angeles,8/31/2022,11.7
+Zip,91604,CA,Los Angeles County,Los Angeles,8/31/2022,12.6
+Zip,91605,CA,Los Angeles County,Los Angeles,8/31/2022,11.8
+Zip,91606,CA,Los Angeles County,Los Angeles,8/31/2022,12
+Zip,91607,CA,Los Angeles County,Los Angeles,8/31/2022,13.3
+Zip,91701,CA,San Bernardino County,Rancho Cucamonga,8/31/2022,15.7
+Zip,91702,CA,Los Angeles County,Azusa,8/31/2022,11.4
+Zip,91706,CA,Los Angeles County,Baldwin Park,8/31/2022,11.2
+Zip,91708,CA,San Bernardino County,Chino,8/31/2022,15.7
+Zip,91709,CA,San Bernardino County,Chino Hills,8/31/2022,14.9
+Zip,91710,CA,San Bernardino County,Chino,8/31/2022,15.4
+Zip,91711,CA,Los Angeles County,Claremont,8/31/2022,11.5
+Zip,91722,CA,Los Angeles County,Covina,8/31/2022,11.6
+Zip,91723,CA,Los Angeles County,Covina,8/31/2022,11.5
+Zip,91724,CA,Los Angeles County,Covina,8/31/2022,11.4
+Zip,91730,CA,San Bernardino County,Rancho Cucamonga,8/31/2022,15.5
+Zip,91731,CA,Los Angeles County,El Monte,8/31/2022,10.8
+Zip,91732,CA,Los Angeles County,El Monte,8/31/2022,11
+Zip,91733,CA,Los Angeles County,South El Monte,8/31/2022,10.8
+Zip,91737,CA,San Bernardino County,Rancho Cucamonga,8/31/2022,15
+Zip,91739,CA,San Bernardino County,Rancho Cucamonga,8/31/2022,15.1
+Zip,91740,CA,Los Angeles County,Glendora,8/31/2022,11.7
+Zip,91741,CA,Los Angeles County,Glendora,8/31/2022,11.9
+Zip,91744,CA,Los Angeles County,La Puente,8/31/2022,11.4
+Zip,91745,CA,Los Angeles County,Hacienda Heights,8/31/2022,11.4
+Zip,91746,CA,Los Angeles County,West Puente Valley,8/31/2022,11.3
+Zip,91748,CA,Los Angeles County,Rowland Heights,8/31/2022,10.7
+Zip,91750,CA,Los Angeles County,La Verne,8/31/2022,11.6
+Zip,91752,CA,Riverside County,Eastvale,8/31/2022,16.4
+Zip,91754,CA,Los Angeles County,Monterey Park,8/31/2022,11.8
+Zip,91755,CA,Los Angeles County,Monterey Park,8/31/2022,11.7
+Zip,91759,CA,San Bernardino County,Lytle Creek,8/31/2022,9.5
+Zip,91761,CA,San Bernardino County,Ontario,8/31/2022,16
+Zip,91762,CA,San Bernardino County,Ontario,8/31/2022,15.9
+Zip,91763,CA,San Bernardino County,Montclair,8/31/2022,16.1
+Zip,91764,CA,San Bernardino County,Ontario,8/31/2022,16.1
+Zip,91765,CA,Los Angeles County,Diamond Bar,8/31/2022,11.1
+Zip,91766,CA,Los Angeles County,Pomona,8/31/2022,11.5
+Zip,91767,CA,Los Angeles County,Pomona,8/31/2022,11.4
+Zip,91768,CA,Los Angeles County,Pomona,8/31/2022,11.4
+Zip,91770,CA,Los Angeles County,Rosemead,8/31/2022,11.5
+Zip,91773,CA,Los Angeles County,San Dimas,8/31/2022,11.5
+Zip,91775,CA,Los Angeles County,San Gabriel,8/31/2022,12.1
+Zip,91776,CA,Los Angeles County,San Gabriel,8/31/2022,11.5
+Zip,91780,CA,Los Angeles County,Temple City,8/31/2022,11.9
+Zip,91784,CA,San Bernardino County,Upland,8/31/2022,14.8
+Zip,91786,CA,San Bernardino County,Upland,8/31/2022,15.5
+Zip,91789,CA,Los Angeles County,Walnut,8/31/2022,11.2
+Zip,91790,CA,Los Angeles County,West Covina,8/31/2022,11.8
+Zip,91791,CA,Los Angeles County,West Covina,8/31/2022,11
+Zip,91792,CA,Los Angeles County,West Covina,8/31/2022,11.8
+Zip,91801,CA,Los Angeles County,Alhambra,8/31/2022,11.6
+Zip,91803,CA,Los Angeles County,Alhambra,8/31/2022,11.3
+Zip,91901,CA,San Diego County,Alpine,8/31/2022,17.4
+Zip,91902,CA,San Diego County,Bonita,8/31/2022,18.4
+Zip,91905,CA,San Diego County,Boulevard,8/31/2022,21.7
+Zip,91906,CA,San Diego County,Campo,8/31/2022,19.4
+Zip,91910,CA,San Diego County,Chula Vista,8/31/2022,18.5
+Zip,91911,CA,San Diego County,Chula Vista,8/31/2022,18.3
+Zip,91913,CA,San Diego County,Chula Vista,8/31/2022,18.2
+Zip,91914,CA,San Diego County,Chula Vista,8/31/2022,18.2
+Zip,91915,CA,San Diego County,Chula Vista,8/31/2022,18.1
+Zip,91916,CA,San Diego County,Descanso,8/31/2022,17.2
+Zip,91917,CA,San Diego County,Dulzura,8/31/2022,18.1
+Zip,91931,CA,San Diego County,Descanso,8/31/2022,17.6
+Zip,91932,CA,San Diego County,Imperial Beach,8/31/2022,17.9
+Zip,91934,CA,San Diego County,Jacumba,8/31/2022,19
+Zip,91935,CA,San Diego County,Jamul,8/31/2022,17.2
+Zip,91941,CA,San Diego County,La Mesa,8/31/2022,18.3
+Zip,91942,CA,San Diego County,La Mesa,8/31/2022,18.5
+Zip,91945,CA,San Diego County,Lemon Grove,8/31/2022,18.2
+Zip,91948,CA,San Diego County,Mount Laguna,8/31/2022,19.1
+Zip,91950,CA,San Diego County,National City,8/31/2022,18.2
+Zip,91962,CA,San Diego County,Descanso,8/31/2022,17.6
+Zip,91963,CA,San Diego County,Potrero,8/31/2022,18.3
+Zip,91977,CA,San Diego County,Spring Valley,8/31/2022,18.3
+Zip,91978,CA,San Diego County,Spring Valley,8/31/2022,18.1
+Zip,91980,CA,San Diego County,Tecate,8/31/2022,19.3
+Zip,92003,CA,San Diego County,Bonsall,8/31/2022,17.8
+Zip,92007,CA,San Diego County,Encinitas,8/31/2022,19.1
+Zip,92008,CA,San Diego County,Carlsbad,8/31/2022,18.6
+Zip,92009,CA,San Diego County,Carlsbad,8/31/2022,19.1
+Zip,92010,CA,San Diego County,Carlsbad,8/31/2022,18.7
+Zip,92011,CA,San Diego County,Carlsbad,8/31/2022,18.3
+Zip,92014,CA,San Diego County,Del Mar,8/31/2022,19.1
+Zip,92019,CA,San Diego County,El Cajon,8/31/2022,18.1
+Zip,92020,CA,San Diego County,El Cajon,8/31/2022,17.6
+Zip,92021,CA,San Diego County,El Cajon,8/31/2022,17.7
+Zip,92024,CA,San Diego County,Encinitas,8/31/2022,18.8
+Zip,92025,CA,San Diego County,Escondido,8/31/2022,17.7
+Zip,92026,CA,San Diego County,Escondido,8/31/2022,17.9
+Zip,92027,CA,San Diego County,Escondido,8/31/2022,17.6
+Zip,92028,CA,San Diego County,Fallbrook,8/31/2022,17.3
+Zip,92029,CA,San Diego County,Escondido,8/31/2022,17.9
+Zip,92036,CA,San Diego County,Julian,8/31/2022,17.7
+Zip,92037,CA,San Diego County,San Diego,8/31/2022,17.6
+Zip,92040,CA,San Diego County,Lakeside,8/31/2022,18.2
+Zip,92054,CA,San Diego County,Oceanside,8/31/2022,18.2
+Zip,92056,CA,San Diego County,Oceanside,8/31/2022,18.2
+Zip,92057,CA,San Diego County,Oceanside,8/31/2022,18.2
+Zip,92058,CA,San Diego County,Oceanside,8/31/2022,18
+Zip,92059,CA,San Diego County,Pala,8/31/2022,20.1
+Zip,92060,CA,San Diego County,Palomar Mountain,8/31/2022,19.5
+Zip,92061,CA,San Diego County,Pauma Valley,8/31/2022,17.6
+Zip,92064,CA,San Diego County,Poway,8/31/2022,17.9
+Zip,92065,CA,San Diego County,Ramona,8/31/2022,17.4
+Zip,92066,CA,San Diego County,Ranchita,8/31/2022,17.9
+Zip,92067,CA,San Diego County,Rancho Santa Fe,8/31/2022,17.4
+Zip,92069,CA,San Diego County,San Marcos,8/31/2022,17.8
+Zip,92070,CA,San Diego County,Santa Ysabel,8/31/2022,18.6
+Zip,92071,CA,San Diego County,Santee,8/31/2022,18.3
+Zip,92075,CA,San Diego County,Solana Beach,8/31/2022,18.6
+Zip,92078,CA,San Diego County,San Marcos,8/31/2022,18.3
+Zip,92081,CA,San Diego County,Vista,8/31/2022,18.4
+Zip,92082,CA,San Diego County,Valley Center,8/31/2022,17.6
+Zip,92083,CA,San Diego County,Vista,8/31/2022,17.4
+Zip,92084,CA,San Diego County,Vista,8/31/2022,17.6
+Zip,92086,CA,San Diego County,Warner Springs,8/31/2022,18
+Zip,92091,CA,San Diego County,Rancho Santa Fe,8/31/2022,17.6
+Zip,92101,CA,San Diego County,San Diego,8/31/2022,14.8
+Zip,92102,CA,San Diego County,San Diego,8/31/2022,18.3
+Zip,92103,CA,San Diego County,San Diego,8/31/2022,17
+Zip,92104,CA,San Diego County,San Diego,8/31/2022,17.6
+Zip,92105,CA,San Diego County,San Diego,8/31/2022,18.4
+Zip,92106,CA,San Diego County,San Diego,8/31/2022,18.2
+Zip,92107,CA,San Diego County,San Diego,8/31/2022,18.3
+Zip,92108,CA,San Diego County,San Diego,8/31/2022,17.2
+Zip,92109,CA,San Diego County,San Diego,8/31/2022,18
+Zip,92110,CA,San Diego County,San Diego,8/31/2022,17.5
+Zip,92111,CA,San Diego County,San Diego,8/31/2022,17.7
+Zip,92113,CA,San Diego County,San Diego,8/31/2022,18.4
+Zip,92114,CA,San Diego County,San Diego,8/31/2022,18.7
+Zip,92115,CA,San Diego County,San Diego,8/31/2022,18.1
+Zip,92116,CA,San Diego County,San Diego,8/31/2022,17.7
+Zip,92117,CA,San Diego County,San Diego,8/31/2022,17.7
+Zip,92118,CA,San Diego County,Coronado,8/31/2022,16.9
+Zip,92119,CA,San Diego County,San Diego,8/31/2022,18.5
+Zip,92120,CA,San Diego County,San Diego,8/31/2022,18.3
+Zip,92121,CA,San Diego County,San Diego,8/31/2022,16.9
+Zip,92122,CA,San Diego County,San Diego,8/31/2022,17.7
+Zip,92123,CA,San Diego County,San Diego,8/31/2022,18.2
+Zip,92124,CA,San Diego County,San Diego,8/31/2022,18.7
+Zip,92126,CA,San Diego County,San Diego,8/31/2022,18.5
+Zip,92127,CA,San Diego County,San Diego,8/31/2022,19.2
+Zip,92128,CA,San Diego County,San Diego,8/31/2022,18
+Zip,92129,CA,San Diego County,San Diego,8/31/2022,18.7
+Zip,92130,CA,San Diego County,San Diego,8/31/2022,18.8
+Zip,92131,CA,San Diego County,San Diego,8/31/2022,19
+Zip,92139,CA,San Diego County,San Diego,8/31/2022,18.5
+Zip,92154,CA,San Diego County,San Diego,8/31/2022,18.2
+Zip,92173,CA,San Diego County,San Diego,8/31/2022,17.8
+Zip,92201,CA,Riverside County,Indio,8/31/2022,16.4
+Zip,92203,CA,Riverside County,Indio,8/31/2022,16.4
+Zip,92210,CA,Riverside County,Indian Wells,8/31/2022,16.5
+Zip,92211,CA,Riverside County,Palm Desert,8/31/2022,15.8
+Zip,92220,CA,Riverside County,Banning,8/31/2022,17
+Zip,92223,CA,Riverside County,Beaumont,8/31/2022,17.1
+Zip,92225,CA,Riverside County,Blythe,8/31/2022,15.7
+Zip,92230,CA,Riverside County,Cabazon,8/31/2022,15.2
+Zip,92234,CA,Riverside County,Cathedral City,8/31/2022,16.5
+Zip,92236,CA,Riverside County,Coachella,8/31/2022,14.7
+Zip,92239,CA,Riverside County,Desert Center,8/31/2022,16.3
+Zip,92240,CA,Riverside County,Desert Hot Springs,8/31/2022,17.6
+Zip,92241,CA,Riverside County,Desert Hot Springs,8/31/2022,16.6
+Zip,92242,CA,San Bernardino County,Earp,8/31/2022,17.6
+Zip,92252,CA,San Bernardino County,Joshua Tree,8/31/2022,20.5
+Zip,92253,CA,Riverside County,La Quinta,8/31/2022,16.3
+Zip,92254,CA,Riverside County,Mecca,8/31/2022,15.1
+Zip,92256,CA,San Bernardino County,Morongo Valley,8/31/2022,20
+Zip,92258,CA,Riverside County,Desert Hot Springs,8/31/2022,18.3
+Zip,92260,CA,Riverside County,Palm Desert,8/31/2022,16.4
+Zip,92262,CA,Riverside County,Palm Springs,8/31/2022,17.6
+Zip,92264,CA,Riverside County,Palm Springs,8/31/2022,17
+Zip,92268,CA,San Bernardino County,Yucca Valley,8/31/2022,22.8
+Zip,92270,CA,Riverside County,Rancho Mirage,8/31/2022,16.4
+Zip,92274,CA,Imperial County,Thermal,8/31/2022,16.8
+Zip,92276,CA,Riverside County,Thousand Palms,8/31/2022,14
+Zip,92277,CA,San Bernardino County,Twentynine Palms,8/31/2022,20.3
+Zip,92282,CA,Riverside County,White Water,8/31/2022,19
+Zip,92284,CA,San Bernardino County,Yucca Valley,8/31/2022,19.1
+Zip,92285,CA,San Bernardino County,Landers,8/31/2022,20.7
+Zip,92301,CA,San Bernardino County,Adelanto,8/31/2022,17.5
+Zip,92305,CA,San Bernardino County,Angelus Oaks,8/31/2022,15.5
+Zip,92307,CA,San Bernardino County,Apple Valley,8/31/2022,16.8
+Zip,92308,CA,San Bernardino County,Apple Valley,8/31/2022,16.9
+Zip,92309,CA,San Bernardino County,Baker,8/31/2022,9.1
+Zip,92311,CA,San Bernardino County,Barstow,8/31/2022,19.3
+Zip,92313,CA,San Bernardino County,Grand Terrace,8/31/2022,15.6
+Zip,92314,CA,San Bernardino County,Big Bear City,8/31/2022,19.6
+Zip,92315,CA,San Bernardino County,Big Bear Lake,8/31/2022,19.2
+Zip,92316,CA,San Bernardino County,Bloomington,8/31/2022,16.1
+Zip,92317,CA,San Bernardino County,Lake Arrowhead,8/31/2022,19
+Zip,92318,CA,San Bernardino County,Loma Linda,8/31/2022,13.3
+Zip,92320,CA,Riverside County,Calimesa,8/31/2022,16.1
+Zip,92321,CA,San Bernardino County,Lake Arrowhead,8/31/2022,16.6
+Zip,92322,CA,San Bernardino County,Crestline,8/31/2022,17.6
+Zip,92324,CA,San Bernardino County,Colton,8/31/2022,16.9
+Zip,92325,CA,San Bernardino County,Crestline,8/31/2022,18.2
+Zip,92327,CA,San Bernardino County,Daggett,8/31/2022,15.5
+Zip,92332,CA,San Bernardino County,Essex,8/31/2022,10.1
+Zip,92333,CA,San Bernardino County,Fawnskin,8/31/2022,18.6
+Zip,92335,CA,San Bernardino County,Fontana,8/31/2022,15.9
+Zip,92336,CA,San Bernardino County,Fontana,8/31/2022,16.2
+Zip,92337,CA,San Bernardino County,Fontana,8/31/2022,15.9
+Zip,92339,CA,San Bernardino County,Forest Falls,8/31/2022,16
+Zip,92341,CA,San Bernardino County,Green Valley Lake,8/31/2022,19.9
+Zip,92342,CA,San Bernardino County,Helendale,8/31/2022,17.5
+Zip,92344,CA,San Bernardino County,Hesperia,8/31/2022,16.8
+Zip,92345,CA,San Bernardino County,Hesperia,8/31/2022,16.9
+Zip,92346,CA,San Bernardino County,Highland,8/31/2022,15.7
+Zip,92347,CA,San Bernardino County,Hinkley,8/31/2022,14.6
+Zip,92352,CA,San Bernardino County,Lake Arrowhead,8/31/2022,18.2
+Zip,92354,CA,San Bernardino County,Loma Linda,8/31/2022,15
+Zip,92356,CA,San Bernardino County,Lucerne Valley,8/31/2022,18.1
+Zip,92358,CA,San Bernardino County,Lytle Creek,8/31/2022,11.2
+Zip,92359,CA,San Bernardino County,Mentone,8/31/2022,15.1
+Zip,92363,CA,San Bernardino County,Needles,8/31/2022,17
+Zip,92365,CA,San Bernardino County,Newberry Springs,8/31/2022,20.5
+Zip,92368,CA,San Bernardino County,Helendale,8/31/2022,25.6
+Zip,92371,CA,San Bernardino County,Phelan,8/31/2022,17.1
+Zip,92372,CA,San Bernardino County,Pinon Hills,8/31/2022,15.5
+Zip,92373,CA,San Bernardino County,Redlands,8/31/2022,15
+Zip,92374,CA,San Bernardino County,Redlands,8/31/2022,15.2
+Zip,92376,CA,San Bernardino County,Rialto,8/31/2022,16.3
+Zip,92377,CA,San Bernardino County,Rialto,8/31/2022,16.2
+Zip,92378,CA,San Bernardino County,Lake Arrowhead,8/31/2022,18.3
+Zip,92382,CA,San Bernardino County,Running Springs,8/31/2022,17.7
+Zip,92385,CA,San Bernardino County,Lake Arrowhead,8/31/2022,18.6
+Zip,92386,CA,San Bernardino County,Big Bear City,8/31/2022,20.6
+Zip,92391,CA,San Bernardino County,Lake Arrowhead,8/31/2022,18.4
+Zip,92392,CA,San Bernardino County,Victorville,8/31/2022,17.3
+Zip,92394,CA,San Bernardino County,Victorville,8/31/2022,17.7
+Zip,92395,CA,San Bernardino County,Victorville,8/31/2022,17.3
+Zip,92397,CA,San Bernardino County,Wrightwood,8/31/2022,14.9
+Zip,92398,CA,San Bernardino County,Yermo,8/31/2022,15.4
+Zip,92399,CA,San Bernardino County,Yucaipa,8/31/2022,15.5
+Zip,92401,CA,San Bernardino County,San Bernardino,8/31/2022,16.8
+Zip,92404,CA,San Bernardino County,San Bernardino,8/31/2022,16.7
+Zip,92405,CA,San Bernardino County,San Bernardino,8/31/2022,16.1
+Zip,92407,CA,San Bernardino County,San Bernardino,8/31/2022,16.2
+Zip,92408,CA,San Bernardino County,San Bernardino,8/31/2022,16.8
+Zip,92410,CA,San Bernardino County,San Bernardino,8/31/2022,17.2
+Zip,92411,CA,San Bernardino County,San Bernardino,8/31/2022,17.5
+Zip,92501,CA,Riverside County,Riverside,8/31/2022,16.6
+Zip,92503,CA,Riverside County,Riverside,8/31/2022,16.6
+Zip,92504,CA,Riverside County,Riverside,8/31/2022,16.5
+Zip,92505,CA,Riverside County,Riverside,8/31/2022,16.1
+Zip,92506,CA,Riverside County,Riverside,8/31/2022,16.3
+Zip,92507,CA,Riverside County,Riverside,8/31/2022,16.6
+Zip,92508,CA,Riverside County,Riverside,8/31/2022,16.6
+Zip,92509,CA,Riverside County,Riverside,8/31/2022,16.3
+Zip,92530,CA,Riverside County,Lake Elsinore,8/31/2022,17.1
+Zip,92532,CA,Riverside County,Lake Elsinore,8/31/2022,17.8
+Zip,92536,CA,Riverside County,Aguanga,8/31/2022,16.7
+Zip,92539,CA,Riverside County,Anza,8/31/2022,16.6
+Zip,92543,CA,Riverside County,Hemet,8/31/2022,17.2
+Zip,92544,CA,Riverside County,Hemet,8/31/2022,17
+Zip,92545,CA,Riverside County,Hemet,8/31/2022,16.9
+Zip,92548,CA,Riverside County,Homeland,8/31/2022,16
+Zip,92549,CA,Riverside County,Idyllwild,8/31/2022,18.7
+Zip,92551,CA,Riverside County,Moreno Valley,8/31/2022,16.9
+Zip,92553,CA,Riverside County,Moreno Valley,8/31/2022,17.1
+Zip,92555,CA,Riverside County,Moreno Valley,8/31/2022,16.9
+Zip,92557,CA,Riverside County,Moreno Valley,8/31/2022,17
+Zip,92561,CA,Riverside County,Mountain Center,8/31/2022,15.6
+Zip,92562,CA,Riverside County,Murrieta,8/31/2022,17
+Zip,92563,CA,Riverside County,Murrieta,8/31/2022,17.6
+Zip,92567,CA,Riverside County,Nuevo,8/31/2022,16
+Zip,92570,CA,Riverside County,Perris,8/31/2022,17
+Zip,92571,CA,Riverside County,Perris,8/31/2022,17.3
+Zip,92582,CA,Riverside County,San Jacinto,8/31/2022,17.5
+Zip,92583,CA,Riverside County,San Jacinto,8/31/2022,17.1
+Zip,92584,CA,Riverside County,Menifee,8/31/2022,17.4
+Zip,92585,CA,Riverside County,Menifee,8/31/2022,17.1
+Zip,92586,CA,Riverside County,Menifee,8/31/2022,16.4
+Zip,92587,CA,Riverside County,Canyon Lake,8/31/2022,16.9
+Zip,92590,CA,Riverside County,Temecula,8/31/2022,16.6
+Zip,92591,CA,Riverside County,Temecula,8/31/2022,17.4
+Zip,92592,CA,Riverside County,Temecula,8/31/2022,17.2
+Zip,92595,CA,Riverside County,Wildomar,8/31/2022,17.3
+Zip,92596,CA,Riverside County,Winchester,8/31/2022,17.5
+Zip,92602,CA,Orange County,Irvine,8/31/2022,10.3
+Zip,92603,CA,Orange County,Irvine,8/31/2022,11.2
+Zip,92604,CA,Orange County,Irvine,8/31/2022,11
+Zip,92606,CA,Orange County,Irvine,8/31/2022,10.6
+Zip,92610,CA,Orange County,Lake Forest,8/31/2022,10.8
+Zip,92612,CA,Orange County,Irvine,8/31/2022,9.7
+Zip,92614,CA,Orange County,Irvine,8/31/2022,10.1
+Zip,92617,CA,Orange County,Irvine,8/31/2022,8.2
+Zip,92618,CA,Orange County,Irvine,8/31/2022,10.7
+Zip,92620,CA,Orange County,Irvine,8/31/2022,11.1
+Zip,92624,CA,Orange County,Dana Point,8/31/2022,10.9
+Zip,92625,CA,Orange County,Newport Beach,8/31/2022,11.8
+Zip,92626,CA,Orange County,Costa Mesa,8/31/2022,10.7
+Zip,92627,CA,Orange County,Costa Mesa,8/31/2022,10.7
+Zip,92629,CA,Orange County,Dana Point,8/31/2022,11.9
+Zip,92630,CA,Orange County,Lake Forest,8/31/2022,11
+Zip,92637,CA,Orange County,Laguna Woods,8/31/2022,11.7
+Zip,92646,CA,Orange County,Huntington Beach,8/31/2022,10.9
+Zip,92647,CA,Orange County,Huntington Beach,8/31/2022,10.4
+Zip,92648,CA,Orange County,Huntington Beach,8/31/2022,10.6
+Zip,92649,CA,Orange County,Huntington Beach,8/31/2022,10.7
+Zip,92651,CA,Orange County,Laguna Beach,8/31/2022,12.1
+Zip,92653,CA,Orange County,Laguna Hills,8/31/2022,11.1
+Zip,92655,CA,Orange County,Westminster,8/31/2022,10
+Zip,92656,CA,Orange County,Aliso Viejo,8/31/2022,11
+Zip,92657,CA,Orange County,Newport Beach,8/31/2022,11
+Zip,92660,CA,Orange County,Newport Beach,8/31/2022,11.9
+Zip,92661,CA,Orange County,Newport Beach,8/31/2022,11.6
+Zip,92662,CA,Orange County,Newport Beach,8/31/2022,11.7
+Zip,92663,CA,Orange County,Newport Beach,8/31/2022,11.8
+Zip,92672,CA,Orange County,San Clemente,8/31/2022,11.3
+Zip,92673,CA,Orange County,San Clemente,8/31/2022,11.6
+Zip,92675,CA,Orange County,San Juan Capistrano,8/31/2022,11.2
+Zip,92676,CA,Orange County,Silverado,8/31/2022,9.6
+Zip,92677,CA,Orange County,Laguna Niguel,8/31/2022,11.5
+Zip,92679,CA,Orange County,Coto de Caza,8/31/2022,11.4
+Zip,92683,CA,Orange County,Westminster,8/31/2022,10.4
+Zip,92688,CA,Orange County,Rancho Santa Margarita,8/31/2022,11.1
+Zip,92691,CA,Orange County,Mission Viejo,8/31/2022,11.1
+Zip,92692,CA,Orange County,Mission Viejo,8/31/2022,11.1
+Zip,92694,CA,Orange County,Ladera Ranch,8/31/2022,11.4
+Zip,92701,CA,Orange County,Santa Ana,8/31/2022,10.3
+Zip,92703,CA,Orange County,Santa Ana,8/31/2022,10.6
+Zip,92704,CA,Orange County,Santa Ana,8/31/2022,10.4
+Zip,92705,CA,Orange County,North Tustin,8/31/2022,11.5
+Zip,92706,CA,Orange County,Santa Ana,8/31/2022,11.1
+Zip,92707,CA,Orange County,Santa Ana,8/31/2022,10.1
+Zip,92708,CA,Orange County,Fountain Valley,8/31/2022,10.3
+Zip,92780,CA,Orange County,Tustin,8/31/2022,10.6
+Zip,92782,CA,Orange County,Tustin,8/31/2022,10.7
+Zip,92801,CA,Orange County,Anaheim,8/31/2022,10.8
+Zip,92802,CA,Orange County,Anaheim,8/31/2022,10.6
+Zip,92804,CA,Orange County,Anaheim,8/31/2022,10.6
+Zip,92805,CA,Orange County,Anaheim,8/31/2022,10.8
+Zip,92806,CA,Orange County,Anaheim,8/31/2022,10.8
+Zip,92807,CA,Orange County,Anaheim,8/31/2022,10.8
+Zip,92808,CA,Orange County,Anaheim,8/31/2022,10.7
+Zip,92821,CA,Orange County,Brea,8/31/2022,10.6
+Zip,92823,CA,Orange County,Brea,8/31/2022,10.7
+Zip,92831,CA,Orange County,Fullerton,8/31/2022,11
+Zip,92832,CA,Orange County,Fullerton,8/31/2022,10.5
+Zip,92833,CA,Orange County,Fullerton,8/31/2022,10.9
+Zip,92835,CA,Orange County,Fullerton,8/31/2022,10.7
+Zip,92840,CA,Orange County,Garden Grove,8/31/2022,10.8
+Zip,92841,CA,Orange County,Garden Grove,8/31/2022,11
+Zip,92843,CA,Orange County,Garden Grove,8/31/2022,11
+Zip,92844,CA,Orange County,Garden Grove,8/31/2022,10.9
+Zip,92845,CA,Orange County,Garden Grove,8/31/2022,10.8
+Zip,92860,CA,Riverside County,Norco,8/31/2022,15.5
+Zip,92861,CA,Orange County,Villa Park,8/31/2022,10.4
+Zip,92865,CA,Orange County,Orange,8/31/2022,11.3
+Zip,92866,CA,Orange County,Orange,8/31/2022,10.5
+Zip,92867,CA,Orange County,Orange,8/31/2022,10.9
+Zip,92868,CA,Orange County,Orange,8/31/2022,10.8
+Zip,92869,CA,Orange County,Orange,8/31/2022,10.9
+Zip,92870,CA,Orange County,Placentia,8/31/2022,10.6
+Zip,92879,CA,Riverside County,Corona,8/31/2022,16.7
+Zip,92880,CA,Riverside County,Eastvale,8/31/2022,16.9
+Zip,92881,CA,Riverside County,Corona,8/31/2022,16.7
+Zip,92882,CA,Riverside County,Corona,8/31/2022,16.6
+Zip,92883,CA,Riverside County,Corona,8/31/2022,16.7
+Zip,92886,CA,Orange County,Yorba Linda,8/31/2022,10.8
+Zip,92887,CA,Orange County,Yorba Linda,8/31/2022,10.9
+Zip,93510,CA,Los Angeles County,Acton,8/31/2022,12.3
+Zip,93516,CA,Kern County,Boron,8/31/2022,19
+Zip,93528,CA,Kern County,Johannesburg,8/31/2022,10.2
+Zip,93532,CA,Los Angeles County,Lake Hughes,8/31/2022,12.6
+Zip,93534,CA,Los Angeles County,Lancaster,8/31/2022,13.5
+Zip,93535,CA,Los Angeles County,Lancaster,8/31/2022,13.5
+Zip,93536,CA,Los Angeles County,Lancaster,8/31/2022,12.3
+Zip,93543,CA,Los Angeles County,Littlerock,8/31/2022,12.4
+Zip,93544,CA,Los Angeles County,Llano,8/31/2022,13.2
+Zip,93550,CA,Los Angeles County,Palmdale,8/31/2022,12.8
+Zip,93551,CA,Los Angeles County,Palmdale,8/31/2022,12.8
+Zip,93552,CA,Los Angeles County,Palmdale,8/31/2022,12.8
+Zip,93553,CA,Los Angeles County,Pearblossom,8/31/2022,12.6
+Zip,93562,CA,San Bernardino County,Trona,8/31/2022,6
+Zip,93563,CA,Los Angeles County,Valyermo,8/31/2022,16
+Zip,93591,CA,Los Angeles County,Palmdale,8/31/2022,13.4
+Zip,95602,CA,Placer County,Auburn,8/31/2022,15.6
+Zip,95603,CA,Placer County,Auburn,8/31/2022,14.7
+Zip,95605,CA,Yolo County,West Sacramento,8/31/2022,16
+Zip,95606,CA,Yolo County,Brooks,8/31/2022,9.3
+Zip,95607,CA,Yolo County,Capay,8/31/2022,10.1
+Zip,95608,CA,Sacramento County,Carmichael,8/31/2022,15.1
+Zip,95610,CA,Sacramento County,Citrus Heights,8/31/2022,14.9
+Zip,95612,CA,Yolo County,Clarksburg,8/31/2022,8.8
+Zip,95613,CA,El Dorado County,Garden Valley,8/31/2022,1.4
+Zip,95614,CA,El Dorado County,Cool,8/31/2022,15.7
+Zip,95615,CA,Sacramento County,Courtland,8/31/2022,14.5
+Zip,95616,CA,Yolo County,Davis,8/31/2022,12.9
+Zip,95618,CA,Yolo County,Davis,8/31/2022,13.2
+Zip,95619,CA,El Dorado County,Diamond Springs,8/31/2022,14.1
+Zip,95621,CA,Sacramento County,Citrus Heights,8/31/2022,15.2
+Zip,95623,CA,El Dorado County,El Dorado,8/31/2022,14.7
+Zip,95624,CA,Sacramento County,Elk Grove,8/31/2022,15.9
+Zip,95626,CA,Sacramento County,Elverta,8/31/2022,16.4
+Zip,95627,CA,Yolo County,Esparto,8/31/2022,14.6
+Zip,95628,CA,Sacramento County,Fair Oaks,8/31/2022,15.1
+Zip,95630,CA,Sacramento County,Folsom,8/31/2022,14.8
+Zip,95631,CA,Placer County,Foresthill,8/31/2022,15.7
+Zip,95632,CA,Sacramento County,Galt,8/31/2022,15.2
+Zip,95633,CA,El Dorado County,Garden Valley,8/31/2022,14.8
+Zip,95634,CA,El Dorado County,Georgetown,8/31/2022,14.4
+Zip,95635,CA,El Dorado County,Greenwood,8/31/2022,15.1
+Zip,95636,CA,El Dorado County,Somerset,8/31/2022,15.7
+Zip,95637,CA,Yolo County,Guinda,8/31/2022,10.7
+Zip,95638,CA,Sacramento County,Herald,8/31/2022,15.5
+Zip,95639,CA,Yolo County,Clarksburg,8/31/2022,13.9
+Zip,95641,CA,Sacramento County,Isleton,8/31/2022,14.1
+Zip,95648,CA,Placer County,Lincoln,8/31/2022,14.7
+Zip,95650,CA,Placer County,Loomis,8/31/2022,16.5
+Zip,95651,CA,El Dorado County,Lotus,8/31/2022,13.7
+Zip,95655,CA,Sacramento County,Mather,8/31/2022,15.8
+Zip,95656,CA,Amador County,Plymouth,8/31/2022,14.1
+Zip,95658,CA,Placer County,Newcastle,8/31/2022,16.9
+Zip,95660,CA,Sacramento County,Sacramento,8/31/2022,16
+Zip,95661,CA,Placer County,Roseville,8/31/2022,15.1
+Zip,95662,CA,Sacramento County,Orangevale,8/31/2022,14.8
+Zip,95663,CA,Placer County,Penryn,8/31/2022,16.8
+Zip,95664,CA,El Dorado County,Pilot Hill,8/31/2022,17.7
+Zip,95667,CA,El Dorado County,Placerville,8/31/2022,14.5
+Zip,95668,CA,Sutter County,Pleasant Grove,8/31/2022,15.1
+Zip,95670,CA,Sacramento County,Rancho Cordova,8/31/2022,15.2
+Zip,95672,CA,El Dorado County,Rescue,8/31/2022,14.6
+Zip,95673,CA,Sacramento County,Rio Linda,8/31/2022,15.4
+Zip,95677,CA,Placer County,Rocklin,8/31/2022,14.9
+Zip,95678,CA,Placer County,Roseville,8/31/2022,14.8
+Zip,95679,CA,Yolo County,Brooks,8/31/2022,6.3
+Zip,95681,CA,Placer County,Sheridan,8/31/2022,17
+Zip,95682,CA,El Dorado County,Shingle Springs,8/31/2022,14.4
+Zip,95683,CA,Sacramento County,Sloughhouse,8/31/2022,14.8
+Zip,95684,CA,El Dorado County,Somerset,8/31/2022,15.5
+Zip,95690,CA,Sacramento County,Walnut Grove,8/31/2022,13.6
+Zip,95691,CA,Yolo County,West Sacramento,8/31/2022,14.7
+Zip,95693,CA,Sacramento County,Wilton,8/31/2022,15.8
+Zip,95694,CA,Yolo County,Winters,8/31/2022,13.8
+Zip,95695,CA,Yolo County,Woodland,8/31/2022,14.2
+Zip,95697,CA,Yolo County,Yolo,8/31/2022,13.7
+Zip,95698,CA,Yolo County,Woodland,8/31/2022,12.3
+Zip,95701,CA,Placer County,Alta,8/31/2022,13.6
+Zip,95703,CA,Placer County,Applegate,8/31/2022,14.8
+Zip,95709,CA,El Dorado County,Camino,8/31/2022,13.9
+Zip,95713,CA,Placer County,Colfax,8/31/2022,15
+Zip,95714,CA,Placer County,Dutch Flat,8/31/2022,14.7
+Zip,95715,CA,Placer County,Soda Springs,8/31/2022,13
+Zip,95717,CA,Placer County,Gold Run,8/31/2022,14.7
+Zip,95720,CA,El Dorado County,Kyburz,8/31/2022,16.6
+Zip,95721,CA,El Dorado County,Twin Bridges,8/31/2022,18
+Zip,95722,CA,Placer County,Meadow Vista,8/31/2022,15.2
+Zip,95724,CA,Placer County,Soda Springs,8/31/2022,19.9
+Zip,95726,CA,El Dorado County,Pollock Pines,8/31/2022,14
+Zip,95728,CA,Placer County,Soda Springs,8/31/2022,18.8
+Zip,95735,CA,El Dorado County,Twin Bridges,8/31/2022,19.1
+Zip,95742,CA,Sacramento County,Rancho Cordova,8/31/2022,15.6
+Zip,95746,CA,Placer County,Granite Bay,8/31/2022,15.7
+Zip,95747,CA,Placer County,Roseville,8/31/2022,14.8
+Zip,95757,CA,Sacramento County,Elk Grove,8/31/2022,16
+Zip,95758,CA,Sacramento County,Elk Grove,8/31/2022,15.8
+Zip,95762,CA,El Dorado County,El Dorado Hills,8/31/2022,14.1
+Zip,95765,CA,Placer County,Rocklin,8/31/2022,14.7
+Zip,95776,CA,Yolo County,Woodland,8/31/2022,15
+Zip,95811,CA,Sacramento County,Sacramento,8/31/2022,13.5
+Zip,95814,CA,Sacramento County,Sacramento,8/31/2022,13
+Zip,95815,CA,Sacramento County,Sacramento,8/31/2022,16.2
+Zip,95816,CA,Sacramento County,Sacramento,8/31/2022,14.6
+Zip,95817,CA,Sacramento County,Sacramento,8/31/2022,16.1
+Zip,95818,CA,Sacramento County,Sacramento,8/31/2022,14.8
+Zip,95819,CA,Sacramento County,Sacramento,8/31/2022,15.2
+Zip,95820,CA,Sacramento County,Sacramento,8/31/2022,16
+Zip,95821,CA,Sacramento County,Arden-Arcade,8/31/2022,15.3
+Zip,95822,CA,Sacramento County,Sacramento,8/31/2022,15.5
+Zip,95823,CA,Sacramento County,Sacramento,8/31/2022,16.1
+Zip,95824,CA,Sacramento County,Sacramento,8/31/2022,16
+Zip,95825,CA,Sacramento County,Arden-Arcade,8/31/2022,15.3
+Zip,95826,CA,Sacramento County,Rosemont,8/31/2022,15.2
+Zip,95827,CA,Sacramento County,Rancho Cordova,8/31/2022,15.5
+Zip,95828,CA,Sacramento County,Florin,8/31/2022,16
+Zip,95829,CA,Sacramento County,Sacramento,8/31/2022,15.8
+Zip,95830,CA,Sacramento County,Elk Grove,8/31/2022,16.2
+Zip,95831,CA,Sacramento County,Sacramento,8/31/2022,14.4
+Zip,95832,CA,Sacramento County,Sacramento,8/31/2022,14.9
+Zip,95833,CA,Sacramento County,Sacramento,8/31/2022,15.3
+Zip,95834,CA,Sacramento County,Sacramento,8/31/2022,15.8
+Zip,95835,CA,Sacramento County,Sacramento,8/31/2022,15.7
+Zip,95837,CA,Sutter County,Nicolaus,8/31/2022,15
+Zip,95838,CA,Sacramento County,Sacramento,8/31/2022,15.6
+Zip,95841,CA,Sacramento County,Sacramento,8/31/2022,15.3
+Zip,95842,CA,Sacramento County,Sacramento,8/31/2022,15.5
+Zip,95843,CA,Sacramento County,Sacramento,8/31/2022,15.5
+Zip,95864,CA,Sacramento County,Arden-Arcade,8/31/2022,15.5
+Zip,95937,CA,Colusa County,Arbuckle,8/31/2022,5.4
+Zip,96140,CA,Placer County,Carnelian Bay,8/31/2022,15.5
+Zip,96141,CA,Placer County,Homewood,8/31/2022,19.4
+Zip,96142,CA,El Dorado County,Tahoma,8/31/2022,17.9
+Zip,96143,CA,Placer County,Kings Beach,8/31/2022,16.7
+Zip,96145,CA,Placer County,Tahoe City,8/31/2022,17
+Zip,96146,CA,Placer County,Tahoe City,8/31/2022,15.9
+Zip,96148,CA,Placer County,Tahoe Vista,8/31/2022,17.7
+Zip,96150,CA,El Dorado County,South Lake Tahoe,8/31/2022,16.9
+Zip,97003,OR,Washington County,Beaverton,8/31/2022,13.8
+Zip,97004,OR,Clackamas County,Beavercreek,8/31/2022,13.8
+Zip,97005,OR,Washington County,Beaverton,8/31/2022,13.6
+Zip,97006,OR,Washington County,Beaverton,8/31/2022,13.6
+Zip,97007,OR,Washington County,Beaverton,8/31/2022,13.5
+Zip,97008,OR,Washington County,Beaverton,8/31/2022,13.8
+Zip,97009,OR,Clackamas County,Boring,8/31/2022,13.3
+Zip,97011,OR,Clackamas County,Brightwood,8/31/2022,13.9
+Zip,97013,OR,Clackamas County,Canby,8/31/2022,12.7
+Zip,97015,OR,Clackamas County,Clackamas,8/31/2022,12.7
+Zip,97016,OR,Columbia County,Clatskanie,8/31/2022,12.1
+Zip,97017,OR,Clackamas County,Colton,8/31/2022,13.8
+Zip,97018,OR,Columbia County,Columbia City,8/31/2022,12.1
+Zip,97019,OR,Multnomah County,Corbett,8/31/2022,13.2
+Zip,97022,OR,Clackamas County,Eagle Creek,8/31/2022,13.5
+Zip,97023,OR,Clackamas County,Estacada,8/31/2022,13.4
+Zip,97024,OR,Multnomah County,Fairview,8/31/2022,12.7
+Zip,97027,OR,Clackamas County,Gladstone,8/31/2022,12.7
+Zip,97028,OR,Clackamas County,Rhododendron,8/31/2022,13.5
+Zip,97030,OR,Multnomah County,Gresham,8/31/2022,13
+Zip,97034,OR,Clackamas County,Lake Oswego,8/31/2022,11.5
+Zip,97035,OR,Clackamas County,Lake Oswego,8/31/2022,12.1
+Zip,97038,OR,Clackamas County,Molalla,8/31/2022,13.6
+Zip,97042,OR,Clackamas County,Mulino,8/31/2022,14.4
+Zip,97045,OR,Clackamas County,Oregon City,8/31/2022,12.8
+Zip,97048,OR,Columbia County,Rainier,8/31/2022,12.7
+Zip,97049,OR,Clackamas County,Rhododendron,8/31/2022,14.7
+Zip,97051,OR,Columbia County,Saint Helens,8/31/2022,12.3
+Zip,97053,OR,Columbia County,Warren,8/31/2022,11.5
+Zip,97054,OR,Columbia County,Deer Island,8/31/2022,13.4
+Zip,97055,OR,Clackamas County,Sandy,8/31/2022,13
+Zip,97056,OR,Columbia County,Scappoose,8/31/2022,12
+Zip,97060,OR,Multnomah County,Troutdale,8/31/2022,13.5
+Zip,97062,OR,Washington County,Tualatin,8/31/2022,13.3
+Zip,97064,OR,Columbia County,Vernonia,8/31/2022,12.3
+Zip,97067,OR,Clackamas County,Welches,8/31/2022,14.4
+Zip,97068,OR,Clackamas County,West Linn,8/31/2022,12.7
+Zip,97070,OR,Clackamas County,Wilsonville,8/31/2022,12.5
+Zip,97078,OR,Washington County,Beaverton,8/31/2022,14.1
+Zip,97080,OR,Multnomah County,Gresham,8/31/2022,12.9
+Zip,97086,OR,Clackamas County,Happy Valley,8/31/2022,12.7
+Zip,97089,OR,Clackamas County,Damascus,8/31/2022,12.4
+Zip,97101,OR,Yamhill County,Amity,8/31/2022,13.5
+Zip,97106,OR,Washington County,Banks,8/31/2022,14.1
+Zip,97109,OR,Washington County,Buxton,8/31/2022,15.9
+Zip,97111,OR,Yamhill County,Carlton,8/31/2022,13.5
+Zip,97113,OR,Washington County,Cornelius,8/31/2022,13.9
+Zip,97114,OR,Yamhill County,Dayton,8/31/2022,12
+Zip,97115,OR,Yamhill County,Dundee,8/31/2022,13.7
+Zip,97116,OR,Washington County,Forest Grove,8/31/2022,13.5
+Zip,97117,OR,Washington County,Gales Creek,8/31/2022,15.6
+Zip,97119,OR,Washington County,Gaston,8/31/2022,14.2
+Zip,97123,OR,Washington County,Hillsboro,8/31/2022,13.9
+Zip,97124,OR,Washington County,Hillsboro,8/31/2022,13.4
+Zip,97125,OR,Washington County,Banks,8/31/2022,15
+Zip,97127,OR,Yamhill County,Lafayette,8/31/2022,13.2
+Zip,97128,OR,Yamhill County,McMinnville,8/31/2022,13.3
+Zip,97132,OR,Yamhill County,Newberg,8/31/2022,12.4
+Zip,97133,OR,Washington County,North Plains,8/31/2022,13.7
+Zip,97140,OR,Washington County,Sherwood,8/31/2022,13.5
+Zip,97144,OR,Washington County,Timber,8/31/2022,14
+Zip,97148,OR,Yamhill County,Yamhill,8/31/2022,13.9
+Zip,97201,OR,Multnomah County,Portland,8/31/2022,9.1
+Zip,97202,OR,Multnomah County,Portland,8/31/2022,11.7
+Zip,97203,OR,Multnomah County,Portland,8/31/2022,12.3
+Zip,97204,OR,Multnomah County,Portland,8/31/2022,5.4
+Zip,97205,OR,Multnomah County,Portland,8/31/2022,9
+Zip,97206,OR,Multnomah County,Portland,8/31/2022,12.1
+Zip,97209,OR,Multnomah County,Portland,8/31/2022,7.8
+Zip,97210,OR,Multnomah County,Portland,8/31/2022,9.6
+Zip,97211,OR,Multnomah County,Portland,8/31/2022,11.2
+Zip,97212,OR,Multnomah County,Portland,8/31/2022,10.5
+Zip,97213,OR,Multnomah County,Portland,8/31/2022,11.5
+Zip,97214,OR,Multnomah County,Portland,8/31/2022,10.4
+Zip,97215,OR,Multnomah County,Portland,8/31/2022,11.5
+Zip,97216,OR,Multnomah County,Portland,8/31/2022,12.4
+Zip,97217,OR,Multnomah County,Portland,8/31/2022,11.3
+Zip,97218,OR,Multnomah County,Portland,8/31/2022,12.5
+Zip,97219,OR,Multnomah County,Portland,8/31/2022,12
+Zip,97220,OR,Multnomah County,Portland,8/31/2022,12.5
+Zip,97221,OR,Multnomah County,Portland,8/31/2022,12
+Zip,97222,OR,Clackamas County,Milwaukie,8/31/2022,13
+Zip,97223,OR,Washington County,Tigard,8/31/2022,13.4
+Zip,97224,OR,Washington County,Tigard,8/31/2022,13.3
+Zip,97225,OR,Washington County,West Haven-Sylvan,8/31/2022,12.9
+Zip,97227,OR,Multnomah County,Portland,8/31/2022,11
+Zip,97229,OR,Multnomah County,Portland,8/31/2022,12.5
+Zip,97230,OR,Multnomah County,Portland,8/31/2022,12.9
+Zip,97231,OR,Multnomah County,Portland,8/31/2022,12.4
+Zip,97232,OR,Multnomah County,Portland,8/31/2022,10.1
+Zip,97233,OR,Multnomah County,Portland,8/31/2022,13.3
+Zip,97236,OR,Multnomah County,Portland,8/31/2022,12.8
+Zip,97239,OR,Multnomah County,Portland,8/31/2022,11.1
+Zip,97266,OR,Multnomah County,Portland,8/31/2022,12.7
+Zip,97267,OR,Clackamas County,Milwaukie,8/31/2022,12.7
+Zip,97378,OR,Yamhill County,Sheridan,8/31/2022,14.2
+Zip,97396,OR,Yamhill County,Willamina,8/31/2022,13.7
+Zip,98601,WA,Clark County,Amboy,8/31/2022,14.3
+Zip,98604,WA,Clark County,Battle Ground,8/31/2022,14.1
+Zip,98605,WA,Skamania County,Bingen,8/31/2022,10.9
+Zip,98606,WA,Clark County,Brush Prairie,8/31/2022,14.8
+Zip,98607,WA,Clark County,Camas,8/31/2022,13.9
+Zip,98610,WA,Skamania County,Carson,8/31/2022,10.2
+Zip,98616,WA,Cowlitz County,Cougar,8/31/2022,8.8
+Zip,98629,WA,Clark County,La Center,8/31/2022,14
+Zip,98639,WA,Skamania County,North Bonneville,8/31/2022,10.5
+Zip,98642,WA,Clark County,Ridgefield,8/31/2022,13.8
+Zip,98648,WA,Skamania County,Stevenson,8/31/2022,10.3
+Zip,98651,WA,Skamania County,Underwood,8/31/2022,11
+Zip,98660,WA,Clark County,Vancouver,8/31/2022,13.6
+Zip,98661,WA,Clark County,Vancouver,8/31/2022,13.9
+Zip,98662,WA,Clark County,Vancouver,8/31/2022,13.7
+Zip,98663,WA,Clark County,Vancouver,8/31/2022,13.6
+Zip,98664,WA,Clark County,Vancouver,8/31/2022,13.6
+Zip,98665,WA,Clark County,Vancouver,8/31/2022,13.7
+Zip,98671,WA,Clark County,Washougal,8/31/2022,13.7
+Zip,98675,WA,Clark County,Yacolt,8/31/2022,14.5
+Zip,98682,WA,Clark County,Vancouver,8/31/2022,13.9
+Zip,98683,WA,Clark County,Vancouver,8/31/2022,13.6
+Zip,98684,WA,Clark County,Vancouver,8/31/2022,14
+Zip,98685,WA,Clark County,Vancouver,8/31/2022,13.9
+Zip,98686,WA,Clark County,Vancouver,8/31/2022,13.8
