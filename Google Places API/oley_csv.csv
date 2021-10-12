@@ -1,0 +1,161 @@
+,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+0,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+1,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+2,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+3,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+4,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+5,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+6,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+7,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+8,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+9,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+10,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+11,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+12,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+13,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+14,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+15,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+16,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+17,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+18,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999
+19,Cantina Feliz,OPERATIONAL,4.4,2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+20,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+21,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+22,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+23,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+24,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+25,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+26,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+27,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+28,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+29,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+30,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+31,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+32,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+33,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+34,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+35,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+36,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+37,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+38,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999
+39,Cantina Feliz,OPERATIONAL,4.4,2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+40,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+41,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+42,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+43,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+44,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+45,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+46,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+47,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+48,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+49,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+50,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+51,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+52,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+53,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+54,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+55,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+56,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+57,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+58,Olive Garden Italian Restaurant,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1700 Crossing Dr, Wyomissing",40.3469566,-75.96690629999999
+59,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999
+60,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+61,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+62,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+63,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+64,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+65,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+66,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+67,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+68,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+69,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+70,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+71,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+72,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+73,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+74,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+75,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+76,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+77,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+78,Olive Garden Italian Restaurant,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1700 Crossing Dr, Wyomissing",40.3469566,-75.96690629999999
+79,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999
+80,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+81,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+82,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+83,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+84,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+85,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+86,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+87,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+88,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+89,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+90,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+91,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+92,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+93,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+94,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+95,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+96,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+97,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+98,Olive Garden Italian Restaurant,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1700 Crossing Dr, Wyomissing",40.3469566,-75.96690629999999
+99,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999
+100,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+101,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+102,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+103,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+104,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+105,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+106,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+107,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+108,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+109,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+110,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+111,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+112,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+113,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+114,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+115,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+116,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+117,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+118,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999
+119,Cantina Feliz,OPERATIONAL,4.4,2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+120,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+121,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+122,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+123,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+124,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+125,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+126,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+127,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+128,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+129,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+130,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+131,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+132,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+133,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+134,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+135,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+136,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+137,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+138,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999
+139,Cantina Feliz,OPERATIONAL,4.4,2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+140,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+141,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
+142,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532
+143,Delicioso Pizza & Subs,OPERATIONAL,4.6,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","1032 Hamilton St, Allentown",40.599963,-75.479129
+144,Himalayan Curry & Grill,OPERATIONAL,4.6,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","22 E Orange St, Lancaster",40.0394444,-76.3052778
+145,Side Bar & Restaurant,OPERATIONAL,4.4,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","10 E Gay St, West Chester",39.9605973,-75.6046683
+146,Green Chili indian Restaurant,OPERATIONAL,4.7,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","641 S West End Blvd, Quakertown",40.4271,-75.34836670000001
+147,California Tortilla,OPERATIONAL,4.2,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","284 Main St, Exton",40.02295,-75.6285
+148,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","1836 E Ridge Pike Ste 100, Royersford",40.213036,-75.49785
+149,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","5411 Perkiomen Ave, Reading",40.2990416,-75.84567129999999
+150,Lee's Kitchen,OPERATIONAL,3.9,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 N 29th St, Philadelphia",39.9740749,-75.1837449
+151,El Limon,OPERATIONAL,4.5,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+152,Wendy's,OPERATIONAL,3.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","3225 N 5th Street Hwy, Reading",40.3842606,-75.92703809999999
+153,Wendy's,OPERATIONAL,3.6,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","930 Lancaster Ave, Reading",40.3146323,-75.9419205
+154,QDOBA Mexican Eats,OPERATIONAL,4.2,1,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2669A MacArthur Rd, Whitehall",40.6455534,-75.4924867
+155,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+156,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+157,California Tortilla,OPERATIONAL,4.4,1,"['restaurant', 'food', 'point_of_interest', 'establishment']","420 Schuylkill Rd, Phoenixville",40.140865,-75.54794
+158,Olive Garden Italian Restaurant,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1700 Crossing Dr, Wyomissing",40.3469566,-75.96690629999999
+159,Crust,OPERATIONAL,4.2,2,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","872 Lancaster Ave, Bryn Mawr",40.02257669999999,-75.32082419999999

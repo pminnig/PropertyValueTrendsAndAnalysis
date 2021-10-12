@@ -1,0 +1,81 @@
+,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+0,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+1,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+2,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+3,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+4,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+5,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+6,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+7,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+8,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+9,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+10,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+11,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+12,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+13,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+14,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+15,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+16,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+17,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+18,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+19,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023
+20,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+21,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+22,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+23,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+24,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+25,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+26,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+27,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+28,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+29,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+30,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+31,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+32,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+33,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+34,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+35,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+36,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+37,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+38,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+39,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023
+40,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+41,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+42,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+43,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+44,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+45,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+46,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+47,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+48,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+49,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+50,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+51,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+52,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+53,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+54,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+55,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+56,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+57,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+58,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+59,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023
+60,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+61,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+62,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+63,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+64,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+65,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+66,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+67,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+68,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+69,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+70,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+71,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+72,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+73,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+74,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+75,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+76,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+77,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+78,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+79,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023

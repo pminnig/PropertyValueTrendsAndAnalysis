@@ -1,0 +1,181 @@
+,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+0,Shake Shack,OPERATIONAL,4.2,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","105 S 12th St Unit 1-01, Philadelphia",39.95023200000001,-75.160071
+1,Tai's Vietnamese Food,OPERATIONAL,4.0,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1835 N 12th St, Philadelphia",39.9808625,-75.15330999999999
+2,QDOBA Mexican Eats,OPERATIONAL,4.1,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","100 Welsh Rd Unit M, Horsham",40.1583703,-75.14242229999999
+3,Great Wall,OPERATIONAL,4.1,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","807 N Easton Rd #107, Doylestown",40.3337693,-75.1286138
+4,El Vez,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","121 S 13th St, Philadelphia",39.94970199999999,-75.1617703
+5,Blue Bay,OPERATIONAL,4.1,,"['restaurant', 'food', 'point_of_interest', 'establishment']","7642 City Ave, Philadelphia",39.9776774,-75.2723051
+6,Yard House,OPERATIONAL,4.3,2.0,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+7,The Tasty,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1401 S 12th St, Philadelphia",39.9323427,-75.1640184
+8,El Limon,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+9,Parc,OPERATIONAL,4.6,3.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","227 S 18th St, Philadelphia",39.9492019,-75.17065550000001
+10,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+11,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2.0,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+12,QDOBA Mexican Eats,OPERATIONAL,4.2,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1528 Walnut St, Philadelphia",39.9495796,-75.1672851
+13,SOUTH,OPERATIONAL,4.5,2.0,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","600 N Broad St, Philadelphia",39.9643921,-75.1612244
+14,Sabrina's Cafe - Art Museum,OPERATIONAL,4.5,2.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","1804 Callowhill St, Philadelphia",39.9602763,-75.1687091
+15,Maggiano's Little Italy,OPERATIONAL,4.4,2.0,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']","1201 Filbert St, Philadelphia",39.9532037,-75.1602255
+16,El Rey,OPERATIONAL,4.3,2.0,"['night_club', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2013 Chestnut St, Philadelphia",39.9522506,-75.1740289
+17,Cantina Feliz,OPERATIONAL,4.4,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+18,Paradise Jamaican Cuisine,OPERATIONAL,4.4,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1 E Trenton Ave, Morrisville",40.2167055,-74.7815625
+19,Sampan,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","124 S 13th St, Philadelphia",39.9495498,-75.162222
+20,Shake Shack,OPERATIONAL,4.2,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","105 S 12th St Unit 1-01, Philadelphia",39.95023200000001,-75.160071
+21,Tai's Vietnamese Food,OPERATIONAL,4.0,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1835 N 12th St, Philadelphia",39.9808625,-75.15330999999999
+22,QDOBA Mexican Eats,OPERATIONAL,4.1,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","100 Welsh Rd Unit M, Horsham",40.1583703,-75.14242229999999
+23,Great Wall,OPERATIONAL,4.1,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","807 N Easton Rd #107, Doylestown",40.3337693,-75.1286138
+24,El Vez,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","121 S 13th St, Philadelphia",39.94970199999999,-75.1617703
+25,Blue Bay,OPERATIONAL,4.1,,"['restaurant', 'food', 'point_of_interest', 'establishment']","7642 City Ave, Philadelphia",39.9776774,-75.2723051
+26,Yard House,OPERATIONAL,4.3,2.0,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+27,The Tasty,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1401 S 12th St, Philadelphia",39.9323427,-75.1640184
+28,El Limon,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+29,Parc,OPERATIONAL,4.6,3.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","227 S 18th St, Philadelphia",39.9492019,-75.17065550000001
+30,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+31,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2.0,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+32,QDOBA Mexican Eats,OPERATIONAL,4.2,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1528 Walnut St, Philadelphia",39.9495796,-75.1672851
+33,SOUTH,OPERATIONAL,4.5,2.0,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","600 N Broad St, Philadelphia",39.9643921,-75.1612244
+34,Sabrina's Cafe - Art Museum,OPERATIONAL,4.5,2.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","1804 Callowhill St, Philadelphia",39.9602763,-75.1687091
+35,Maggiano's Little Italy,OPERATIONAL,4.4,2.0,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']","1201 Filbert St, Philadelphia",39.9532037,-75.1602255
+36,El Rey,OPERATIONAL,4.3,2.0,"['night_club', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2013 Chestnut St, Philadelphia",39.9522506,-75.1740289
+37,Cantina Feliz,OPERATIONAL,4.4,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+38,Paradise Jamaican Cuisine,OPERATIONAL,4.4,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1 E Trenton Ave, Morrisville",40.2167055,-74.7815625
+39,Sampan,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","124 S 13th St, Philadelphia",39.9495498,-75.162222
+40,Shake Shack,OPERATIONAL,4.2,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","105 S 12th St Unit 1-01, Philadelphia",39.95023200000001,-75.160071
+41,Tai's Vietnamese Food,OPERATIONAL,4.0,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1835 N 12th St, Philadelphia",39.9808625,-75.15330999999999
+42,QDOBA Mexican Eats,OPERATIONAL,4.1,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","100 Welsh Rd Unit M, Horsham",40.1583703,-75.14242229999999
+43,Great Wall,OPERATIONAL,4.1,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","807 N Easton Rd #107, Doylestown",40.3337693,-75.1286138
+44,El Vez,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","121 S 13th St, Philadelphia",39.94970199999999,-75.1617703
+45,Blue Bay,OPERATIONAL,4.1,,"['restaurant', 'food', 'point_of_interest', 'establishment']","7642 City Ave, Philadelphia",39.9776774,-75.2723051
+46,Yard House,OPERATIONAL,4.3,2.0,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+47,The Tasty,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1401 S 12th St, Philadelphia",39.9323427,-75.1640184
+48,El Limon,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+49,Parc,OPERATIONAL,4.6,3.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","227 S 18th St, Philadelphia",39.9492019,-75.17065550000001
+50,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+51,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2.0,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+52,QDOBA Mexican Eats,OPERATIONAL,4.2,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1528 Walnut St, Philadelphia",39.9495796,-75.1672851
+53,SOUTH,OPERATIONAL,4.5,2.0,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","600 N Broad St, Philadelphia",39.9643921,-75.1612244
+54,Sabrina's Cafe - Art Museum,OPERATIONAL,4.5,2.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","1804 Callowhill St, Philadelphia",39.9602763,-75.1687091
+55,Maggiano's Little Italy,OPERATIONAL,4.4,2.0,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']","1201 Filbert St, Philadelphia",39.9532037,-75.1602255
+56,El Rey,OPERATIONAL,4.3,2.0,"['night_club', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2013 Chestnut St, Philadelphia",39.9522506,-75.1740289
+57,Cantina Feliz,OPERATIONAL,4.4,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+58,Paradise Jamaican Cuisine,OPERATIONAL,4.4,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1 E Trenton Ave, Morrisville",40.2167055,-74.7815625
+59,Sampan,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","124 S 13th St, Philadelphia",39.9495498,-75.162222
+60,Shake Shack,OPERATIONAL,4.2,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","105 S 12th St Unit 1-01, Philadelphia",39.95023200000001,-75.160071
+61,Tai's Vietnamese Food,OPERATIONAL,4.0,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1835 N 12th St, Philadelphia",39.9808625,-75.15330999999999
+62,QDOBA Mexican Eats,OPERATIONAL,4.1,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","100 Welsh Rd Unit M, Horsham",40.1583703,-75.14242229999999
+63,Great Wall,OPERATIONAL,4.1,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","807 N Easton Rd #107, Doylestown",40.3337693,-75.1286138
+64,El Vez,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","121 S 13th St, Philadelphia",39.94970199999999,-75.1617703
+65,Blue Bay,OPERATIONAL,4.1,,"['restaurant', 'food', 'point_of_interest', 'establishment']","7642 City Ave, Philadelphia",39.9776774,-75.2723051
+66,Yard House,OPERATIONAL,4.3,2.0,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+67,The Tasty,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1401 S 12th St, Philadelphia",39.9323427,-75.1640184
+68,El Limon,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+69,Parc,OPERATIONAL,4.6,3.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","227 S 18th St, Philadelphia",39.9492019,-75.17065550000001
+70,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+71,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2.0,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+72,QDOBA Mexican Eats,OPERATIONAL,4.2,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1528 Walnut St, Philadelphia",39.9495796,-75.1672851
+73,SOUTH,OPERATIONAL,4.5,2.0,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","600 N Broad St, Philadelphia",39.9643921,-75.1612244
+74,Sabrina's Cafe - Art Museum,OPERATIONAL,4.5,2.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","1804 Callowhill St, Philadelphia",39.9602763,-75.1687091
+75,Maggiano's Little Italy,OPERATIONAL,4.4,2.0,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']","1201 Filbert St, Philadelphia",39.9532037,-75.1602255
+76,El Rey,OPERATIONAL,4.3,2.0,"['night_club', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2013 Chestnut St, Philadelphia",39.9522506,-75.1740289
+77,Cantina Feliz,OPERATIONAL,4.4,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+78,Paradise Jamaican Cuisine,OPERATIONAL,4.4,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1 E Trenton Ave, Morrisville",40.2167055,-74.7815625
+79,Sampan,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","124 S 13th St, Philadelphia",39.9495498,-75.162222
+80,Shake Shack,OPERATIONAL,4.2,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","105 S 12th St Unit 1-01, Philadelphia",39.95023200000001,-75.160071
+81,Tai's Vietnamese Food,OPERATIONAL,4.0,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1835 N 12th St, Philadelphia",39.9808625,-75.15330999999999
+82,QDOBA Mexican Eats,OPERATIONAL,4.1,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","100 Welsh Rd Unit M, Horsham",40.1583703,-75.14242229999999
+83,Great Wall,OPERATIONAL,4.1,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","807 N Easton Rd #107, Doylestown",40.3337693,-75.1286138
+84,El Vez,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","121 S 13th St, Philadelphia",39.94970199999999,-75.1617703
+85,Blue Bay,OPERATIONAL,4.1,,"['restaurant', 'food', 'point_of_interest', 'establishment']","7642 City Ave, Philadelphia",39.9776774,-75.2723051
+86,Yard House,OPERATIONAL,4.3,2.0,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
+87,The Tasty,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1401 S 12th St, Philadelphia",39.9323427,-75.1640184
+88,El Limon,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","38 E Butler Ave, Ambler",40.154078,-75.22250199999999
+89,Parc,OPERATIONAL,4.6,3.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","227 S 18th St, Philadelphia",39.9492019,-75.17065550000001
+90,California Pizza Kitchen at King of Prussia,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","470 Mall Blvd, King of Prussia",40.08944,-75.38477999999999
+91,"the Metropolitan, American Diner & Bar",OPERATIONAL,4.4,2.0,"['restaurant', 'night_club', 'bar', 'food', 'point_of_interest', 'establishment']","750 Upper State Rd, North Wales",40.2387369,-75.23537209999999
+92,QDOBA Mexican Eats,OPERATIONAL,4.2,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1528 Walnut St, Philadelphia",39.9495796,-75.1672851
+93,SOUTH,OPERATIONAL,4.5,2.0,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","600 N Broad St, Philadelphia",39.9643921,-75.1612244
+94,Sabrina's Cafe - Art Museum,OPERATIONAL,4.5,2.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']","1804 Callowhill St, Philadelphia",39.9602763,-75.1687091
+95,Maggiano's Little Italy,OPERATIONAL,4.4,2.0,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']","1201 Filbert St, Philadelphia",39.9532037,-75.1602255
+96,El Rey,OPERATIONAL,4.3,2.0,"['night_club', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2013 Chestnut St, Philadelphia",39.9522506,-75.1740289
+97,Cantina Feliz,OPERATIONAL,4.4,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","424 S Bethlehem Pike, Fort Washington",40.1362145,-75.21361759999999
+98,Paradise Jamaican Cuisine,OPERATIONAL,4.4,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1 E Trenton Ave, Morrisville",40.2167055,-74.7815625
+99,Sampan,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","124 S 13th St, Philadelphia",39.9495498,-75.162222
+100,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+101,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+102,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+103,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+104,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+105,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+106,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+107,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+108,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+109,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+110,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+111,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+112,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+113,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+114,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+115,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+116,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+117,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+118,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+119,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023
+120,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+121,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+122,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+123,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+124,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+125,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+126,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+127,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+128,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+129,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+130,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+131,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+132,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+133,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+134,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+135,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+136,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+137,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+138,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+139,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023
+140,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+141,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+142,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+143,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+144,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+145,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+146,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+147,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+148,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+149,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+150,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+151,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+152,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+153,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+154,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+155,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+156,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+157,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+158,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+159,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023
+160,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
+161,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
+162,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178
+163,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","113 Cavasina Dr, Canonsburg",40.263782,-80.1732648
+164,Ephesus Pizza,OPERATIONAL,4.2,1.0,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","219 Fourth Ave, Pittsburgh",40.4399863,-80.002326
+165,Taco Bell,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","8775 Norwin Ave, Irwin",40.319794,-79.691867
+166,Wendy's,OPERATIONAL,4.1,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","210 N Center Ave, New Stanton",40.219255,-79.60944239999999
+167,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1620 Washington Rd, Pittsburgh",40.351999,-80.051558
+168,Arby's,OPERATIONAL,3.9,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","5189 Baum Blvd, Pittsburgh",40.4559585,-79.9424508
+169,Annie Lee's Southern Kitchen,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","1601 Duss Ave, Ambridge",40.59925070000001,-80.22632589999999
+170,Chick-fil-A,OPERATIONAL,4.4,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","100 Robinson Centre Dr # FC - 5, Pittsburgh",40.4535141,-80.1577178
+171,Chick-fil-A,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","600 Forbes Ave, Pittsburgh",40.43659100000001,-79.99061619999999
+172,Chick-fil-A,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","480 E Waterfront Dr, Homestead",40.41270919999999,-79.9078818
+173,Chick-fil-A,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","900 Greengate Centre Cir, Greensburg",40.3066758,-79.5801343
+174,Primanti Bros. Restaurant and Bar Strip District,OPERATIONAL,4.5,1.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","46 18th St, Pittsburgh",40.45071919999999,-79.9855114
+175,Arby's,OPERATIONAL,4.1,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","19075 Perry Hwy, Seven Fields",40.67259,-80.0991682
+176,Wendy's,OPERATIONAL,3.8,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","8703 University Blvd, Moon Twp",40.5060183,-80.2226611
+177,Salim's Middle Eastern Food,OPERATIONAL,4.6,,"['restaurant', 'food', 'point_of_interest', 'establishment']","4705 Centre Ave, Pittsburgh",40.4527921,-79.9494794
+178,honeygrow,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","105 S Highland Ave, Pittsburgh",40.4610524,-79.9247039
+179,First Watch,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","5235 Clairton Blvd, Pittsburgh",40.34374,-79.97023

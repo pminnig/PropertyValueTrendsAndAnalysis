@@ -1,0 +1,161 @@
+,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+0,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+1,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+2,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+3,Native Foods,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1023 W Belmont Ave, Chicago",41.9397944,-87.65505279999999
+4,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+5,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+6,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+7,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+8,Forastero Restaurant,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","449 W North Ave, Chicago",41.9109407,-87.64049179999999
+9,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+10,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+11,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+12,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2312 N Ashland Ave, Chicago",41.9237584,-87.6686678
+13,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+14,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+15,The Cafeteria,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']","840 N Orleans St, Chicago",41.8979629,-87.6375176
+16,Beck's Chicago,OPERATIONAL,4.7,,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2201 N Clybourn Ave, Chicago",41.92178800000001,-87.6642973
+17,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+18,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
+19,BIG & little's Restaurant,OPERATIONAL,4.4,1.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","1034 W Belmont Ave, Chicago",41.94000630000001,-87.6554433
+20,Velvet Taco,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2309 N Lincoln Ave, Chicago",41.92402999999999,-87.64657
+21,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+22,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+23,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+24,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+25,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+26,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+27,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+28,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+29,Cedar Palace,OPERATIONAL,4.8,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","655 W Armitage Ave, Chicago",41.9180382,-87.6457547
+30,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+31,Pasta Palazzo,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1966 N Halsted St, Chicago",41.9179056,-87.6486389
+32,Chengdu Impression Restaurant 成都印象,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2545 N Halsted St, Chicago",41.9286117,-87.6487259
+33,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+34,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+35,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+36,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+37,Las Fuentes Restaurant,OPERATIONAL,4.1,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2558 N Halsted St, Chicago",41.92895830000001,-87.64914619999999
+38,Sai Café,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2010 N Sheffield Ave, Chicago",41.9184528,-87.6535361
+39,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
+40,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+41,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+42,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+43,Native Foods,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1023 W Belmont Ave, Chicago",41.9397944,-87.65505279999999
+44,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+45,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+46,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+47,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+48,Forastero Restaurant,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","449 W North Ave, Chicago",41.9109407,-87.64049179999999
+49,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+50,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+51,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+52,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2312 N Ashland Ave, Chicago",41.9237584,-87.6686678
+53,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+54,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+55,The Cafeteria,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']","840 N Orleans St, Chicago",41.8979629,-87.6375176
+56,Beck's Chicago,OPERATIONAL,4.7,,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2201 N Clybourn Ave, Chicago",41.92178800000001,-87.6642973
+57,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+58,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
+59,BIG & little's Restaurant,OPERATIONAL,4.4,1.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","1034 W Belmont Ave, Chicago",41.94000630000001,-87.6554433
+60,Velvet Taco,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2309 N Lincoln Ave, Chicago",41.92402999999999,-87.64657
+61,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+62,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+63,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+64,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+65,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+66,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+67,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+68,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+69,Cedar Palace,OPERATIONAL,4.8,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","655 W Armitage Ave, Chicago",41.9180382,-87.6457547
+70,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+71,Pasta Palazzo,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1966 N Halsted St, Chicago",41.9179056,-87.6486389
+72,Chengdu Impression Restaurant 成都印象,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2545 N Halsted St, Chicago",41.9286117,-87.6487259
+73,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+74,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+75,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+76,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+77,Las Fuentes Restaurant,OPERATIONAL,4.1,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2558 N Halsted St, Chicago",41.92895830000001,-87.64914619999999
+78,Sai Café,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2010 N Sheffield Ave, Chicago",41.9184528,-87.6535361
+79,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
+80,Velvet Taco,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2309 N Lincoln Ave, Chicago",41.92402999999999,-87.64657
+81,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+82,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+83,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+84,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+85,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+86,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+87,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+88,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+89,Cedar Palace,OPERATIONAL,4.8,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","655 W Armitage Ave, Chicago",41.9180382,-87.6457547
+90,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+91,Pasta Palazzo,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1966 N Halsted St, Chicago",41.9179056,-87.6486389
+92,Chengdu Impression Restaurant 成都印象,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2545 N Halsted St, Chicago",41.9286117,-87.6487259
+93,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+94,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+95,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+96,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+97,Las Fuentes Restaurant,OPERATIONAL,4.1,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2558 N Halsted St, Chicago",41.92895830000001,-87.64914619999999
+98,Sai Café,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2010 N Sheffield Ave, Chicago",41.9184528,-87.6535361
+99,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
+100,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+101,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+102,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+103,Native Foods,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1023 W Belmont Ave, Chicago",41.9397944,-87.65505279999999
+104,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+105,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+106,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+107,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+108,Forastero Restaurant,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","449 W North Ave, Chicago",41.9109407,-87.64049179999999
+109,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+110,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+111,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+112,Wendy's,OPERATIONAL,3.9,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2312 N Ashland Ave, Chicago",41.9237584,-87.6686678
+113,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+114,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+115,The Cafeteria,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']","840 N Orleans St, Chicago",41.8979629,-87.6375176
+116,Beck's Chicago,OPERATIONAL,4.7,,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2201 N Clybourn Ave, Chicago",41.92178800000001,-87.6642973
+117,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+118,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
+119,BIG & little's Restaurant,OPERATIONAL,4.4,1.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","1034 W Belmont Ave, Chicago",41.94000630000001,-87.6554433
+120,Velvet Taco,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2309 N Lincoln Ave, Chicago",41.92402999999999,-87.64657
+121,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+122,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+123,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+124,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+125,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+126,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+127,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+128,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+129,Cedar Palace,OPERATIONAL,4.8,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","655 W Armitage Ave, Chicago",41.9180382,-87.6457547
+130,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+131,Pasta Palazzo,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1966 N Halsted St, Chicago",41.9179056,-87.6486389
+132,Chengdu Impression Restaurant 成都印象,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2545 N Halsted St, Chicago",41.9286117,-87.6487259
+133,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+134,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+135,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+136,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+137,Las Fuentes Restaurant,OPERATIONAL,4.1,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2558 N Halsted St, Chicago",41.92895830000001,-87.64914619999999
+138,Sai Café,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2010 N Sheffield Ave, Chicago",41.9184528,-87.6535361
+139,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
+140,Velvet Taco,OPERATIONAL,4.3,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2309 N Lincoln Ave, Chicago",41.92402999999999,-87.64657
+141,Butcher & The Burger,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1021 W Armitage Ave, Chicago",41.9179797,-87.65422099999999
+142,Prost!,OPERATIONAL,4.5,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2566 N Lincoln Ave, Chicago",41.9284204,-87.65322750000001
+143,Lito's Empanadas,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2460 N Clark St, Chicago",41.9270705,-87.6415655
+144,The Fat Shallot Lincoln Park,OPERATIONAL,4.7,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2468 N Clark St, Chicago",41.9273573,-87.6417864
+145,Basil Leaf Cafe,OPERATIONAL,4.5,2.0,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","2465 N Clark St, Chicago",41.92727319999999,-87.6413781
+146,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
+147,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
+148,Summer House Santa Monica,OPERATIONAL,4.4,2.0,"['bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","1954 N Halsted St, Chicago",41.9175694,-87.648662
+149,Cedar Palace,OPERATIONAL,4.8,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","655 W Armitage Ave, Chicago",41.9180382,-87.6457547
+150,The Pasta Bowl - Lincoln Park,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","2434 N Clark St, Chicago",41.9264445,-87.6411894
+151,Pasta Palazzo,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1966 N Halsted St, Chicago",41.9179056,-87.6486389
+152,Chengdu Impression Restaurant 成都印象,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2545 N Halsted St, Chicago",41.9286117,-87.6487259
+153,Yango's Grill,OPERATIONAL,4.5,2.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","2845 N Broadway, Chicago",41.9340069,-87.6442249
+154,Aloha Eats,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2534 N Clark St, Chicago",41.9287067,-87.642563
+155,Matisse Tavern & Grill,OPERATIONAL,4.8,2.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","674 W Diversey Pkwy, Chicago",41.9330118,-87.6464951
+156,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999
+157,Las Fuentes Restaurant,OPERATIONAL,4.1,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2558 N Halsted St, Chicago",41.92895830000001,-87.64914619999999
+158,Sai Café,OPERATIONAL,4.6,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2010 N Sheffield Ave, Chicago",41.9184528,-87.6535361
+159,Del Seoul,OPERATIONAL,4.6,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2568 N Clark St, Chicago",41.92944199999999,-87.64301499999999
