@@ -1,4 +1,4 @@
-,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+,name,business_status,rating,price_level,types,vicinity,Latitude,Longitude
 0,Cancun,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","110 Lincoln Hwy, Fairless Hills",40.1801464,-74.8678572
 1,Shake Shack,OPERATIONAL,4.2,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","105 S 12th St Unit 1-01, Philadelphia",39.95023200000001,-75.160071
 2,Tai's Vietnamese Food,OPERATIONAL,4.0,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","1835 N 12th St, Philadelphia",39.9808625,-75.15330999999999

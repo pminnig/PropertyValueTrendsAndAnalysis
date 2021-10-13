@@ -1,4 +1,4 @@
-,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+,name,business_status,rating,price_level,types,vicinity,Latitude,Longitude
 0,Mad Mex,OPERATIONAL,4.2,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2101 Greentree Rd, Pittsburgh",40.3905556,-80.07249999999999
 1,Chick-fil-A,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","120 Andrew Dr, Pittsburgh",40.4510509,-80.17501759999999
 2,Arby's,OPERATIONAL,4.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']","808 Liberty Ave, Pittsburgh",40.442575,-79.9987178

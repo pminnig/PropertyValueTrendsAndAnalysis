@@ -1,4 +1,4 @@
-,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+,name,business_status,rating,price_level,types,vicinity,Latitude,Longitude
 0,Left Coast,OPERATIONAL,4.5,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2878 N Lincoln Ave, Chicago",41.9340118,-87.66102939999999
 1,Bluebird,OPERATIONAL,4.5,1.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","2863 N Clark St, Chicago",41.9344452,-87.6459697
 2,Pockets Restaurant,OPERATIONAL,4.5,2.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","3001 N Lincoln Ave, Chicago",41.9364345,-87.66393459999999

@@ -1,4 +1,4 @@
-,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+,name,business_status,rating,price_level,types,vicinity,Latitude,Longitude
 0,Yard House,OPERATIONAL,4.3,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","160 N Gulph Rd, King of Prussia",40.0878425,-75.3951177
 1,Slices Pizza,OPERATIONAL,4.5,1,"['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']","4249 Ridge Ave, Philadelphia",40.009654,-75.195503
 2,Olive Garden Italian Restaurant,OPERATIONAL,4.2,2,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']","1 Town Center Dr, Collegeville",40.1650185,-75.4768532

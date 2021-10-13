@@ -1,4 +1,4 @@
-,name,business_status,rating,price_level,types,vicinity,geometry.location.lat,geometry.location.lng
+,name,business_status,rating,price_level,types,vicinity,Latitude,Longitude
 0,Waffle House,OPERATIONAL,4.2,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']","1783 Airport Rd, Allentown",40.6364993,-75.4352466
 1,Hachi,OPERATIONAL,4.7,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","4275 County Line Rd #9, Chalfont",40.2664601,-75.2243623
 2,La Cocina Mexicana,OPERATIONAL,4.4,2.0,"['restaurant', 'food', 'point_of_interest', 'establishment']","107 W Main St, Kutztown",40.5189609,-75.7765163
